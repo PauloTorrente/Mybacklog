@@ -7,8 +7,10 @@ import { PlatformMark } from './PlatformMark';
 import { glass } from './styles';
 
 /** Space between two figures, and between figures of the same group (a couple, a trio), in shelf units. */
-const GAP = 22;
-const GROUP_GAP = 6;
+const GAP = 110;
+const GROUP_GAP = 60;
+/** How far a figure may reach over its neighbours' space (swords, capes, tails), in shelf units. */
+const OVERHANG = 40;
 
 const Groups = styled.div`
   display: grid;
@@ -82,19 +84,24 @@ const Bundle = styled.li`
   > ul { display: flex; margin: 0; padding: 0; }
 `;
 
-/** One figure's place on the plank: its own width plus half a gap on each side. */
+/**
+ * One figure's place on the plank. Spacing follows the bases, so every base is the same distance
+ * from the next: a sword, cape or tail may reach over the neighbour's space instead of pushing
+ * the bases apart. Only very wide figures (the Monster Hunter monsters) claim extra room.
+ */
 const Slot = styled(motion.li)`
   list-style: none;
   flex: none;
   position: relative;
-  width: calc(var(--u) * (var(--w) + var(--gap)) * 1px);
+  width: calc(var(--u) * var(--slot) * 1px);
   height: var(--row);
   perspective: 600px;
 `;
 
 const Stage = styled.div<{ $wish: boolean }>`
   position: absolute;
-  left: calc(var(--u) * var(--gap) / 2 * 1px);
+  /* Put the centre of the base on the centre of the slot. */
+  left: calc(var(--u) * (var(--slot) / 2 - var(--bx)) * 1px);
   bottom: calc(var(--row) - var(--fig));
   width: calc(var(--u) * var(--w) * 1px);
   height: calc(var(--u) * var(--h) * 1px);
@@ -127,7 +134,7 @@ const Figure = styled(motion.img)`
 const Caption = styled.div`
   position: absolute;
   top: calc(var(--fig) + 14px);
-  left: calc(var(--u) * (var(--gap) / 2 + var(--bx)) * 1px);
+  left: 50%;
   transform: translateX(-50%);
   width: max-content;
   max-width: 8.5rem;
@@ -148,7 +155,9 @@ function AmiiboFigure({ amiibo, index, reveal, gap }: { amiibo: Amiibo; index: n
   const lift = useSpring(useTransform(hover, [0, 1], [0, -10]), { stiffness: 220, damping: 15 });
   const wish = !amiibo.owned;
   const { width, height, baseX, baseWidth } = amiibo.fit;
-  const vars = { '--w': width, '--h': height, '--bx': baseX, '--bw': baseWidth, '--gap': gap } as CSSProperties;
+  // Room the figure may NOT spill over: base + gap, or most of a very wide figure.
+  const slot = Math.max(baseWidth + gap, width - OVERHANG);
+  const vars = { '--w': width, '--h': height, '--bx': baseX, '--bw': baseWidth, '--slot': slot } as CSSProperties;
 
   return (
     <Slot

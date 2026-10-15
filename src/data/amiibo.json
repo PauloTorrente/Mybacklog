@@ -6,8 +6,8 @@
       "items": [
         { "id": "marth", "name": "Marth", "src": "marth-3d4f7fb1(naotenho).png", "owned": false },
         { "id": "tiki", "name": "Tiki", "src": "Tiki(naotenho).png", "owned": false },
-        { "id": "celica", "name": "Celica", "src": "Celica(tenho).png", "owned": true, "group": "alm-celica" },
         { "id": "alm", "name": "Alm", "src": "Alm(tenho).png", "owned": true, "group": "alm-celica" },
+        { "id": "celica", "name": "Celica", "src": "Celica(tenho).png", "owned": true, "group": "alm-celica" },
         { "id": "roy", "name": "Roy", "src": "roy-be6115b6(naotenho).png", "owned": false },
         { "id": "ike", "name": "Ike", "src": "ike-bcef2a55(naotenho).png", "owned": false },
         { "id": "byleth", "name": "Byleth", "src": "byleth-0be07075naotenho.png", "owned": false },
@@ -47,9 +47,12 @@
       "id": "zelda",
       "name": "The Legend of Zelda",
       "items": [
+        { "id": "zelda-loftwing", "name": "Zelda & Loftwing", "line": "Skyward Sword", "src": "zelda-loftwing-skyward-sword-4d7f3098(naotenho).png", "owned": false },
         { "id": "link-ocarina", "name": "Link", "line": "Ocarina of Time", "src": "link-ocarina-of-time-6860c1bdnaotenho.png", "owned": false },
+        { "id": "zelda-botw", "name": "Zelda", "line": "Breath of the Wild", "src": "zelda-e2a5fe27(naotenho).png", "owned": false },
         { "id": "urbosa", "name": "Urbosa", "src": "urbosa-gerudo-champion-3bbf7daatenho.png", "owned": true },
-        { "id": "riju", "name": "Riju", "src": "riju-9c38380fnaotenho.png", "owned": false }
+        { "id": "riju", "name": "Riju", "src": "riju-9c38380fnaotenho.png", "owned": false },
+        { "id": "zelda-totk", "name": "Zelda", "line": "Tears of the Kingdom", "src": "zelda-tears-of-the-kingdom-0dd67cef(naotenho).png", "owned": false }
       ]
     },
     {

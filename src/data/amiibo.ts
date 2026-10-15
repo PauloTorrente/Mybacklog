@@ -32,7 +32,7 @@ const BASE = 185;
 type Size = { w: number; h: number; baseL: number; baseR: number };
 
 function fit({ w, h, baseL, baseR }: Size): Fit {
-  const k = Math.min(1.25, Math.max(0.9, BASE / Math.max(1, baseR - baseL)));
+  const k = Math.min(1.12, Math.max(0.9, BASE / Math.max(1, baseR - baseL)));
   return { width: w * k, height: h * k, baseX: ((baseL + baseR) / 2) * k, baseWidth: (baseR - baseL) * k };
 }
 

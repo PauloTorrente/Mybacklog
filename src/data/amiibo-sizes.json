@@ -11,17 +11,17 @@
   "baseL": 0,
   "baseR": 193
  },
- "celica": {
-  "w": 252,
-  "h": 360,
-  "baseL": 60,
-  "baseR": 251
- },
  "alm": {
   "w": 259,
   "h": 360,
   "baseL": 0,
   "baseR": 184
+ },
+ "celica": {
+  "w": 252,
+  "h": 360,
+  "baseL": 60,
+  "baseR": 251
  },
  "roy": {
   "w": 284,
@@ -149,11 +149,23 @@
   "baseL": 46,
   "baseR": 212
  },
+ "zelda-loftwing": {
+  "w": 264,
+  "h": 360,
+  "baseL": 43,
+  "baseR": 218
+ },
  "link-ocarina": {
   "w": 201,
   "h": 360,
   "baseL": 0,
   "baseR": 198
+ },
+ "zelda-botw": {
+  "w": 195,
+  "h": 360,
+  "baseL": 0,
+  "baseR": 194
  },
  "urbosa": {
   "w": 234,
@@ -166,6 +178,12 @@
   "h": 360,
   "baseL": 5,
   "baseR": 199
+ },
+ "zelda-totk": {
+  "w": 199,
+  "h": 360,
+  "baseL": 11,
+  "baseR": 198
  },
  "inkling-girl": {
   "w": 338,

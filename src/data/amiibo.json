@@ -1,0 +1,103 @@
+{
+  "series": [
+    {
+      "id": "fire-emblem",
+      "name": "Fire Emblem",
+      "items": [
+        { "id": "marth", "name": "Marth", "src": "marth-3d4f7fb1(naotenho).png", "owned": false },
+        { "id": "tiki", "name": "Tiki", "src": "Tiki(naotenho).png", "owned": false },
+        { "id": "celica", "name": "Celica", "src": "Celica(tenho).png", "owned": true, "group": "alm-celica" },
+        { "id": "alm", "name": "Alm", "src": "Alm(tenho).png", "owned": true, "group": "alm-celica" },
+        { "id": "roy", "name": "Roy", "src": "roy-be6115b6(naotenho).png", "owned": false },
+        { "id": "ike", "name": "Ike", "src": "ike-bcef2a55(naotenho).png", "owned": false },
+        { "id": "byleth", "name": "Byleth", "src": "byleth-0be07075naotenho.png", "owned": false },
+        { "id": "corrin-female", "name": "Corrin (feminina)", "src": "femalecorrinnaotenho.png", "owned": false },
+        { "id": "chrom-smash", "name": "Chrom", "line": "Super Smash Bros.", "src": "chrom-16a810f1(naotenho).png", "owned": false },
+        { "id": "chrom", "name": "Chrom", "line": "Fire Emblem", "src": "chromamiibo.png", "owned": true, "group": "awakening" },
+        { "id": "robin", "name": "Robin", "src": "robin-4568ff72(tenho).png", "owned": true, "group": "awakening" },
+        { "id": "lucina", "name": "Lucina", "src": "lucina-29dc14a2(tenho).png", "owned": true, "group": "awakening" },
+        { "id": "corrin", "name": "Corrin", "src": "corrin-583bfb81tenho.png", "owned": true }
+      ]
+    },
+    {
+      "id": "xenoblade",
+      "name": "Xenoblade Chronicles",
+      "items": [
+        { "id": "shulk", "name": "Shulk", "src": "shulk-2e3a094f(tenho).png", "owned": true },
+        { "id": "pyra", "name": "Pyra", "src": "pyra-79b0aa00naotenho.png", "owned": false },
+        { "id": "mythra", "name": "Mythra", "src": "mythra-e65b901cnaotenho.png", "owned": false },
+        { "id": "noah", "name": "Noah", "src": "noah-b6e26491tenho.png", "owned": true },
+        { "id": "mio", "name": "Mio", "src": "mio-c19a7d1etenho.png", "owned": true }
+      ]
+    },
+    {
+      "id": "rpg",
+      "name": "RPG",
+      "items": [
+        { "id": "cloud", "name": "Cloud", "src": "cloud-8f8af6f8(naotenho).png", "owned": false },
+        { "id": "sephiroth", "name": "Sephiroth", "src": "sephiroth-35d2a30fnaotenho.png", "owned": false },
+        { "id": "joker", "name": "Joker", "src": "joker-999e1769tenho.png", "owned": true },
+        { "id": "hero", "name": "Herói", "line": "Dragon Quest", "src": "naotenhoherodq.png", "owned": false },
+        { "id": "mewtwo", "name": "Mewtwo", "src": "mewtwo-a3abfe7e(naotenho).png", "owned": false },
+        { "id": "pokemon-trainer", "name": "Treinador Pokémon", "src": "pokemon-trainer-455ce9benaotenho.png", "owned": false },
+        { "id": "richter", "name": "Richter", "src": "richter-4a107eb9naotenho.png", "owned": false }
+      ]
+    },
+    {
+      "id": "zelda",
+      "name": "The Legend of Zelda",
+      "items": [
+        { "id": "link-ocarina", "name": "Link", "line": "Ocarina of Time", "src": "link-ocarina-of-time-6860c1bdnaotenho.png", "owned": false },
+        { "id": "urbosa", "name": "Urbosa", "src": "urbosa-gerudo-champion-3bbf7daatenho.png", "owned": true },
+        { "id": "riju", "name": "Riju", "src": "riju-9c38380fnaotenho.png", "owned": false }
+      ]
+    },
+    {
+      "id": "splatoon",
+      "name": "Splatoon",
+      "items": [
+        { "id": "inkling-girl", "name": "Inkling (menina)", "src": "inkling-girl-neon-pink-8974db75(naotenho).png", "owned": false },
+        { "id": "inkling-boy", "name": "Inkling (menino)", "src": "inkling-boy-purple-ce6e1a76(naotenho).png", "owned": false },
+        { "id": "marina", "name": "Marina", "src": "marina-5f8e923f(tenho).png", "owned": true },
+        { "id": "marina-side-order", "name": "Marina", "line": "Side Order", "src": "marina-side-order-295ff82c(naotenho).png", "owned": false }
+      ]
+    },
+    {
+      "id": "capcom",
+      "name": "Capcom",
+      "items": [
+        { "id": "magnamalo", "name": "Magnamalo", "src": "magnamalo-9215de99(naotenho).png", "owned": false },
+        { "id": "ratha", "name": "Ratha", "src": "ratha-71d84654(naotenho).png", "owned": false },
+        { "id": "ena", "name": "Ena", "src": "ena-cae0ef45(naotenho).png", "owned": false },
+        { "id": "ryu", "name": "Ryu", "src": "ryu-52c18a7ctenho.png", "owned": true },
+        { "id": "ken", "name": "Ken", "src": "ken-5cd47bf6naotenho.png", "owned": false },
+        { "id": "kimberly", "name": "Kimberly", "src": "kimberly-ad44ff65(naotenho).png", "owned": false },
+        { "id": "mega-man", "name": "Mega Man", "line": "Dual Override", "src": "mega-man-mega-man-dual-override-891f3686(naotenho).png", "owned": false, "group": "mega-man" },
+        { "id": "proto-man", "name": "Proto Man", "src": "proto-man-fde09700(naotenho).png", "owned": false, "group": "mega-man" }
+      ]
+    },
+    {
+      "id": "nintendo-queens",
+      "name": "Rainhas da Nintendo",
+      "items": [
+        { "id": "daisy", "name": "Daisy", "line": "Super Mario", "src": "daisy-89f0b0a0(naotenho).png", "owned": false },
+        { "id": "daisy-smash", "name": "Daisy", "line": "Super Smash Bros.", "src": "daisy-cc1fd332naotenho.png", "owned": false },
+        { "id": "rosalina", "name": "Rosalina", "line": "Super Mario", "src": "rosalina-66ef3a22(naotenho).png", "owned": false },
+        { "id": "rosalina-lumas", "name": "Rosalina & Lumas", "src": "rosalina-and-lumas-c4b05ba9(naotenho).png", "owned": false },
+        { "id": "rosalina-smash", "name": "Rosalina & Luma", "line": "Super Smash Bros.", "src": "rosalina-d31dd919(naotenho).png", "owned": false },
+        { "id": "palutena", "name": "Palutena", "src": "palutena-fcbc2271(naotenho).png", "owned": false },
+        { "id": "bayonetta-p2", "name": "Bayonetta", "line": "Player 2", "src": "bayonetta-player-2-d0d03fd8naotenho.png", "owned": false }
+      ]
+    },
+    {
+      "id": "metroid",
+      "name": "Metroid",
+      "items": [
+        { "id": "samus-returns", "name": "Samus", "line": "Metroid: Samus Returns", "src": "samus-aran-metroid-samus-returns-7f299083(naotenho).png", "owned": false },
+        { "id": "samus-metroid-suit", "name": "Samus (Metroid Suit)", "src": "samus-metroid-suit-2182388f(naotenho).png", "owned": false },
+        { "id": "samus-prime-4", "name": "Samus", "line": "Metroid Prime 4", "src": "samus-metroid-prime-4-8e6ff2de(naotenho).png", "owned": false },
+        { "id": "samus-vi-o-la", "name": "Samus & Vi-O-La", "src": "samus-vi-o-la-6cbaa8e0(naotenho).png", "owned": false }
+      ]
+    }
+  ]
+}

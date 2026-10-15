@@ -1,0 +1,308 @@
+{
+ "marth": {
+  "w": 267,
+  "h": 360,
+  "baseL": 84,
+  "baseR": 266
+ },
+ "tiki": {
+  "w": 194,
+  "h": 360,
+  "baseL": 0,
+  "baseR": 193
+ },
+ "celica": {
+  "w": 252,
+  "h": 360,
+  "baseL": 60,
+  "baseR": 251
+ },
+ "alm": {
+  "w": 259,
+  "h": 360,
+  "baseL": 0,
+  "baseR": 184
+ },
+ "roy": {
+  "w": 284,
+  "h": 360,
+  "baseL": 58,
+  "baseR": 244
+ },
+ "ike": {
+  "w": 256,
+  "h": 360,
+  "baseL": 48,
+  "baseR": 227
+ },
+ "byleth": {
+  "w": 230,
+  "h": 360,
+  "baseL": 18,
+  "baseR": 205
+ },
+ "corrin-female": {
+  "w": 268,
+  "h": 360,
+  "baseL": 16,
+  "baseR": 198
+ },
+ "chrom-smash": {
+  "w": 275,
+  "h": 360,
+  "baseL": 0,
+  "baseR": 172
+ },
+ "chrom": {
+  "w": 226,
+  "h": 360,
+  "baseL": 39,
+  "baseR": 225
+ },
+ "robin": {
+  "w": 235,
+  "h": 360,
+  "baseL": 42,
+  "baseR": 232
+ },
+ "lucina": {
+  "w": 303,
+  "h": 360,
+  "baseL": 29,
+  "baseR": 218
+ },
+ "corrin": {
+  "w": 236,
+  "h": 360,
+  "baseL": 0,
+  "baseR": 185
+ },
+ "shulk": {
+  "w": 250,
+  "h": 360,
+  "baseL": 30,
+  "baseR": 234
+ },
+ "pyra": {
+  "w": 332,
+  "h": 360,
+  "baseL": 71,
+  "baseR": 267
+ },
+ "mythra": {
+  "w": 284,
+  "h": 360,
+  "baseL": 50,
+  "baseR": 250
+ },
+ "noah": {
+  "w": 185,
+  "h": 360,
+  "baseL": 11,
+  "baseR": 184
+ },
+ "mio": {
+  "w": 227,
+  "h": 360,
+  "baseL": 25,
+  "baseR": 211
+ },
+ "cloud": {
+  "w": 239,
+  "h": 360,
+  "baseL": 30,
+  "baseR": 210
+ },
+ "sephiroth": {
+  "w": 287,
+  "h": 360,
+  "baseL": 67,
+  "baseR": 230
+ },
+ "joker": {
+  "w": 298,
+  "h": 360,
+  "baseL": 29,
+  "baseR": 202
+ },
+ "hero": {
+  "w": 269,
+  "h": 360,
+  "baseL": 75,
+  "baseR": 268
+ },
+ "mewtwo": {
+  "w": 303,
+  "h": 360,
+  "baseL": 1,
+  "baseR": 192
+ },
+ "pokemon-trainer": {
+  "w": 209,
+  "h": 360,
+  "baseL": 1,
+  "baseR": 201
+ },
+ "richter": {
+  "w": 224,
+  "h": 360,
+  "baseL": 46,
+  "baseR": 212
+ },
+ "link-ocarina": {
+  "w": 201,
+  "h": 360,
+  "baseL": 0,
+  "baseR": 198
+ },
+ "urbosa": {
+  "w": 234,
+  "h": 360,
+  "baseL": 31,
+  "baseR": 215
+ },
+ "riju": {
+  "w": 224,
+  "h": 360,
+  "baseL": 5,
+  "baseR": 199
+ },
+ "inkling-girl": {
+  "w": 338,
+  "h": 360,
+  "baseL": 37,
+  "baseR": 272
+ },
+ "inkling-boy": {
+  "w": 210,
+  "h": 360,
+  "baseL": 0,
+  "baseR": 192
+ },
+ "marina": {
+  "w": 184,
+  "h": 360,
+  "baseL": 0,
+  "baseR": 180
+ },
+ "marina-side-order": {
+  "w": 291,
+  "h": 360,
+  "baseL": 38,
+  "baseR": 229
+ },
+ "magnamalo": {
+  "w": 428,
+  "h": 360,
+  "baseL": 115,
+  "baseR": 302
+ },
+ "ratha": {
+  "w": 294,
+  "h": 360,
+  "baseL": 132,
+  "baseR": 257
+ },
+ "ena": {
+  "w": 179,
+  "h": 360,
+  "baseL": 0,
+  "baseR": 178
+ },
+ "ryu": {
+  "w": 193,
+  "h": 360,
+  "baseL": 2,
+  "baseR": 192
+ },
+ "ken": {
+  "w": 206,
+  "h": 360,
+  "baseL": 9,
+  "baseR": 197
+ },
+ "kimberly": {
+  "w": 241,
+  "h": 360,
+  "baseL": 72,
+  "baseR": 221
+ },
+ "mega-man": {
+  "w": 256,
+  "h": 360,
+  "baseL": 36,
+  "baseR": 222
+ },
+ "proto-man": {
+  "w": 227,
+  "h": 360,
+  "baseL": 24,
+  "baseR": 201
+ },
+ "daisy": {
+  "w": 188,
+  "h": 360,
+  "baseL": 0,
+  "baseR": 187
+ },
+ "daisy-smash": {
+  "w": 204,
+  "h": 360,
+  "baseL": 0,
+  "baseR": 184
+ },
+ "rosalina": {
+  "w": 206,
+  "h": 360,
+  "baseL": 15,
+  "baseR": 191
+ },
+ "rosalina-lumas": {
+  "w": 257,
+  "h": 360,
+  "baseL": 64,
+  "baseR": 198
+ },
+ "rosalina-smash": {
+  "w": 300,
+  "h": 360,
+  "baseL": 67,
+  "baseR": 251
+ },
+ "palutena": {
+  "w": 284,
+  "h": 360,
+  "baseL": 58,
+  "baseR": 233
+ },
+ "bayonetta-p2": {
+  "w": 294,
+  "h": 360,
+  "baseL": 51,
+  "baseR": 234
+ },
+ "samus-returns": {
+  "w": 229,
+  "h": 360,
+  "baseL": 10,
+  "baseR": 209
+ },
+ "samus-metroid-suit": {
+  "w": 293,
+  "h": 360,
+  "baseL": 69,
+  "baseR": 234
+ },
+ "samus-prime-4": {
+  "w": 335,
+  "h": 330,
+  "baseL": 71,
+  "baseR": 267
+ },
+ "samus-vi-o-la": {
+  "w": 488,
+  "h": 342,
+  "baseL": 155,
+  "baseR": 323
+ }
+}

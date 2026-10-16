@@ -1,7 +1,7 @@
 /** Aero Console tokens (Frutiger Aero + Wii menu + Nintendo DS). */
 export const theme = {
   color: {
-    bgTop: '#E0F0FF',
+    bgTop: '#D3EAFF',
     bgBottom: '#FFFFFF',
     ink: '#1E293B',
     muted: '#5B6B80',
@@ -20,7 +20,7 @@ export const theme = {
     fill: 'rgba(255, 255, 255, 0.7)',
     fillOpaque: 'rgba(255, 255, 255, 0.85)',
     border: '1px solid #FFFFFF',
-    blur: 'blur(12px)',
+    blur: 'none',
     shadow: '0 8px 32px rgba(30, 64, 120, 0.08)',
   },
   radius: { card: '1.5rem', pill: '999px' },

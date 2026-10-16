@@ -18,15 +18,23 @@ export const glass = css`
 export const Section = styled.section`
   max-width: 1120px;
   margin: 0 auto;
-  padding: clamp(2rem, 6vw, 4.5rem) 16px 4rem;
+  padding: clamp(0.75rem, 2.5vw, 1.5rem) 16px 4rem;
   display: grid;
-  gap: 1.5rem;
+  gap: 1.25rem;
 `;
 
+/** Title, totals and progress on the left; the Pix card fills the right. */
 export const Header = styled.header`
   display: grid;
-  gap: 0.75rem;
-  margin-bottom: 0.5rem;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 1rem 2rem;
+  align-items: start;
+
+  .intro { display: grid; gap: 0.6rem; }
+
+  @media (max-width: ${({ theme }) => theme.bp.md}) {
+    grid-template-columns: minmax(0, 1fr);
+  }
 `;
 
 export const Title = styled.h2`

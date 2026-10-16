@@ -1,0 +1,5928 @@
+{
+ "marth": {
+  "url": "https://amiibo.life/amiibo/super-smash-bros/marth",
+  "as": {
+   "figure": [],
+   "character": [
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem Engage",
+     "does": [
+      "Ganha um Fashion Ticket e um Music Ticket para desbloquear roupas e músicas"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem Warriors: Three Hopes",
+     "does": [
+      "Ganha recursos, armas ou equipamentos aleatórios de qualidade melhor"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem: Three Houses",
+     "does": [
+      "Desbloqueia uma música de batalha especial",
+      "Ganha itens e materiais de qualidade maior"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Smash Bros. Ultimate",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem Warriors",
+     "does": [
+      "Ganha uma arma"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Fire Emblem Warriors",
+     "does": [
+      "Ganha uma arma"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Fire Emblem Echoes: Shadows of Valentia",
+     "does": [
+      "Invoca um herói ilusório para ajudar na batalha"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Poochy & Yoshi's Woolly World",
+     "does": [
+      "Desbloqueia uma estampa de lã do Yoshi com o personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Kirby: Planet Robobot",
+     "does": [
+      "Dá ao Kirby uma habilidade de cópia baseada no personagem e um item de vida"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Chibi-Robo! Zip Lash",
+     "does": [
+      "Desbloqueia uma estatueta do personagem em pose exclusiva (precisa do amiibo do Chibi-Robo)"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Super Mario Maker",
+     "does": [
+      "Desbloqueia uma roupa de Cogumelo Misterioso do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Fire Emblem Fates",
+     "does": [
+      "Enfrenta o personagem e o recruta para o grupo"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Yoshi's Woolly World",
+     "does": [
+      "Desbloqueia uma estampa de lã do Yoshi com o personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Code Name: S.T.E.A.M.",
+     "does": [
+      "Adiciona o personagem ao seu time jogável"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Super Smash Bros. for Wii U",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "3DS",
+     "title": "One Piece: Super Grand Battle! X",
+     "does": [
+      "Desbloqueia uma roupa do personagem com habilidades especiais"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Super Smash Bros. for Nintendo 3DS",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    }
+   ],
+   "series": []
+  }
+ },
+ "tiki": {
+  "url": "https://amiibo.life/amiibo/fire-emblem/tiki",
+  "as": {
+   "figure": [
+    {
+     "platform": "Switch",
+     "title": "Super Smash Bros. Ultimate",
+     "does": [
+      "Ganha o Spirit do personagem"
+     ],
+     "saves": false
+    }
+   ],
+   "character": [
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem Engage",
+     "does": [
+      "Ganha um Fashion Ticket e um Music Ticket para desbloquear roupas e músicas"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem Warriors: Three Hopes",
+     "does": [
+      "Ganha recursos, armas ou equipamentos aleatórios de qualidade melhor"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem: Three Houses",
+     "does": [
+      "Desbloqueia uma música de batalha especial",
+      "Ganha itens e materiais de qualidade maior"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem Warriors",
+     "does": [
+      "Desbloqueia uma arma exclusiva de amiibo",
+      "Ganha uma arma"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Fire Emblem Warriors",
+     "does": [
+      "Desbloqueia uma arma exclusiva de amiibo",
+      "Ganha uma arma"
+     ],
+     "saves": false
+    }
+   ],
+   "series": []
+  }
+ },
+ "alm": {
+  "url": "https://amiibo.life/amiibo/fire-emblem/alm",
+  "as": {
+   "figure": [
+    {
+     "platform": "Switch",
+     "title": "Super Smash Bros. Ultimate",
+     "does": [
+      "Ganha o Spirit do personagem"
+     ],
+     "saves": false
+    }
+   ],
+   "character": [
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem Engage",
+     "does": [
+      "Ganha um Fashion Ticket e um Music Ticket para desbloquear roupas e músicas"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem Warriors: Three Hopes",
+     "does": [
+      "Ganha recursos, armas ou equipamentos aleatórios de qualidade melhor"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem: Three Houses",
+     "does": [
+      "Desbloqueia uma música de batalha especial",
+      "Ganha itens e materiais de qualidade maior"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem Warriors",
+     "does": [
+      "Ganha uma arma"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Fire Emblem Warriors",
+     "does": [
+      "Ganha uma arma"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Fire Emblem Echoes: Shadows of Valentia",
+     "does": [
+      "Desbloqueia uma masmorra exclusiva do personagem",
+      "Invoca um herói ilusório que evolui para ajudar na batalha"
+     ],
+     "saves": true
+    }
+   ],
+   "series": []
+  }
+ },
+ "celica": {
+  "url": "https://amiibo.life/amiibo/fire-emblem/celica",
+  "as": {
+   "figure": [
+    {
+     "platform": "Switch",
+     "title": "Super Smash Bros. Ultimate",
+     "does": [
+      "Ganha o Spirit do personagem"
+     ],
+     "saves": false
+    }
+   ],
+   "character": [
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem Engage",
+     "does": [
+      "Ganha um Fashion Ticket e um Music Ticket para desbloquear roupas e músicas"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem Warriors: Three Hopes",
+     "does": [
+      "Ganha recursos, armas ou equipamentos aleatórios de qualidade melhor"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem: Three Houses",
+     "does": [
+      "Desbloqueia uma música de batalha especial",
+      "Ganha itens e materiais de qualidade maior"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem Warriors",
+     "does": [
+      "Ganha uma arma"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Fire Emblem Warriors",
+     "does": [
+      "Ganha uma arma"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Fire Emblem Echoes: Shadows of Valentia",
+     "does": [
+      "Desbloqueia uma masmorra exclusiva do personagem",
+      "Invoca um herói ilusório que evolui para ajudar na batalha"
+     ],
+     "saves": true
+    }
+   ],
+   "series": []
+  }
+ },
+ "roy": {
+  "url": "https://amiibo.life/amiibo/super-smash-bros/roy",
+  "as": {
+   "figure": [],
+   "character": [
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem Engage",
+     "does": [
+      "Ganha um Fashion Ticket e um Music Ticket para desbloquear roupas e músicas"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem Warriors: Three Hopes",
+     "does": [
+      "Ganha recursos, armas ou equipamentos aleatórios de qualidade melhor"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem: Three Houses",
+     "does": [
+      "Desbloqueia uma música de batalha especial",
+      "Ganha itens e materiais de qualidade maior"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Smash Bros. Ultimate",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem Warriors",
+     "does": [
+      "Ganha uma arma"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Fire Emblem Warriors",
+     "does": [
+      "Ganha uma arma"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Fire Emblem Echoes: Shadows of Valentia",
+     "does": [
+      "Invoca um herói ilusório para ajudar na batalha"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Poochy & Yoshi's Woolly World",
+     "does": [
+      "Desbloqueia uma estampa de lã do Yoshi com o personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Kirby: Planet Robobot",
+     "does": [
+      "Dá ao Kirby uma habilidade de cópia baseada no personagem e um item de vida"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Super Smash Bros. for Wii U",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "3DS",
+     "title": "Super Smash Bros. for Nintendo 3DS",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    }
+   ],
+   "series": []
+  }
+ },
+ "ike": {
+  "url": "https://amiibo.life/amiibo/super-smash-bros/ike",
+  "as": {
+   "figure": [
+    {
+     "platform": "Switch",
+     "title": "Super Smash Bros. Ultimate",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    }
+   ],
+   "character": [
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem Engage",
+     "does": [
+      "Ganha um Fashion Ticket e um Music Ticket para desbloquear roupas e músicas"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem Warriors: Three Hopes",
+     "does": [
+      "Ganha recursos, armas ou equipamentos aleatórios de qualidade melhor"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem: Three Houses",
+     "does": [
+      "Desbloqueia uma música de batalha especial",
+      "Ganha itens e materiais de qualidade maior"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem Warriors",
+     "does": [
+      "Ganha uma arma"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Fire Emblem Warriors",
+     "does": [
+      "Ganha uma arma"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Fire Emblem Echoes: Shadows of Valentia",
+     "does": [
+      "Invoca um herói ilusório para ajudar na batalha"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Poochy & Yoshi's Woolly World",
+     "does": [
+      "Desbloqueia uma estampa de lã do Yoshi com o personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Kirby: Planet Robobot",
+     "does": [
+      "Dá ao Kirby uma habilidade de cópia baseada no personagem e um item de vida"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Chibi-Robo! Zip Lash",
+     "does": [
+      "Desbloqueia uma estatueta do personagem em pose exclusiva (precisa do amiibo do Chibi-Robo)"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Super Mario Maker",
+     "does": [
+      "Desbloqueia uma roupa de Cogumelo Misterioso do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Fire Emblem Fates",
+     "does": [
+      "Enfrenta o personagem e o recruta para o grupo"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Yoshi's Woolly World",
+     "does": [
+      "Desbloqueia uma estampa de lã do Yoshi com o personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Code Name: S.T.E.A.M.",
+     "does": [
+      "Adiciona o personagem ao seu time jogável"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Super Smash Bros. for Wii U",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "3DS",
+     "title": "Super Smash Bros. for Nintendo 3DS",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    }
+   ],
+   "series": []
+  }
+ },
+ "byleth": {
+  "url": "https://amiibo.life/amiibo/super-smash-bros/byleth",
+  "as": {
+   "figure": [],
+   "character": [
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem Engage",
+     "does": [
+      "Ganha um Fashion Ticket e um Music Ticket para desbloquear roupas e músicas"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem Warriors: Three Hopes",
+     "does": [
+      "Ganha recursos, armas ou equipamentos aleatórios de qualidade melhor"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Smash Bros. Ultimate",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    }
+   ],
+   "series": []
+  }
+ },
+ "corrin-female": {
+  "url": "https://amiibo.life/amiibo/super-smash-bros/corrin-player-2",
+  "as": {
+   "figure": [],
+   "character": [
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem Engage",
+     "does": [
+      "Ganha um Fashion Ticket e um Music Ticket para desbloquear roupas e músicas"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem: Three Houses",
+     "does": [
+      "Desbloqueia uma música de batalha especial",
+      "Ganha itens e materiais de qualidade maior"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Smash Bros. Ultimate",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "3DS",
+     "title": "Fire Emblem Echoes: Shadows of Valentia",
+     "does": [
+      "Invoca um herói ilusório para ajudar na batalha"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem Warriors: Three Hopes",
+     "does": [
+      "Ganha recursos, armas ou equipamentos aleatórios de qualidade melhor"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem Warriors",
+     "does": [
+      "Ganha uma arma"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Fire Emblem Warriors",
+     "does": [
+      "Ganha uma arma"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Poochy & Yoshi's Woolly World",
+     "does": [
+      "Desbloqueia uma estampa de lã do Yoshi com o personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Super Smash Bros. for Wii U",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "3DS",
+     "title": "Super Smash Bros. for Nintendo 3DS",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    }
+   ],
+   "series": []
+  }
+ },
+ "chrom-smash": {
+  "url": "https://amiibo.life/amiibo/super-smash-bros/chrom",
+  "as": {
+   "figure": [],
+   "character": [
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem Engage",
+     "does": [
+      "Ganha um Fashion Ticket e um Music Ticket para desbloquear roupas e músicas"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem Warriors: Three Hopes",
+     "does": [
+      "Ganha recursos, armas ou equipamentos aleatórios de qualidade melhor"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem: Three Houses",
+     "does": [
+      "Desbloqueia uma música de batalha especial",
+      "Ganha itens e materiais de qualidade maior"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Smash Bros. Ultimate",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem Warriors",
+     "does": [
+      "Desbloqueia uma arma exclusiva de amiibo",
+      "Ganha uma arma"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Fire Emblem Warriors",
+     "does": [
+      "Desbloqueia uma arma exclusiva de amiibo",
+      "Ganha uma arma"
+     ],
+     "saves": false
+    }
+   ],
+   "series": []
+  }
+ },
+ "chrom": {
+  "url": "https://amiibo.life/amiibo/fire-emblem/chrom",
+  "as": {
+   "figure": [],
+   "character": [
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem Engage",
+     "does": [
+      "Ganha um Fashion Ticket e um Music Ticket para desbloquear roupas e músicas"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem Warriors: Three Hopes",
+     "does": [
+      "Ganha recursos, armas ou equipamentos aleatórios de qualidade melhor"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem: Three Houses",
+     "does": [
+      "Desbloqueia uma música de batalha especial",
+      "Ganha itens e materiais de qualidade maior"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Smash Bros. Ultimate",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem Warriors",
+     "does": [
+      "Desbloqueia uma arma exclusiva de amiibo",
+      "Ganha uma arma"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Fire Emblem Warriors",
+     "does": [
+      "Desbloqueia uma arma exclusiva de amiibo",
+      "Ganha uma arma"
+     ],
+     "saves": false
+    }
+   ],
+   "series": []
+  }
+ },
+ "robin": {
+  "url": "https://amiibo.life/amiibo/super-smash-bros/robin",
+  "as": {
+   "figure": [],
+   "character": [
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem Engage",
+     "does": [
+      "Ganha um Fashion Ticket e um Music Ticket para desbloquear roupas e músicas"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem Warriors: Three Hopes",
+     "does": [
+      "Ganha recursos, armas ou equipamentos aleatórios de qualidade melhor"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem: Three Houses",
+     "does": [
+      "Desbloqueia uma música de batalha especial",
+      "Ganha itens e materiais de qualidade maior"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Smash Bros. Ultimate",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem Warriors",
+     "does": [
+      "Ganha uma arma"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Fire Emblem Warriors",
+     "does": [
+      "Ganha uma arma"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Fire Emblem Echoes: Shadows of Valentia",
+     "does": [
+      "Invoca um herói ilusório para ajudar na batalha"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Poochy & Yoshi's Woolly World",
+     "does": [
+      "Desbloqueia uma estampa de lã do Yoshi com o personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Kirby: Planet Robobot",
+     "does": [
+      "Dá ao Kirby uma habilidade de cópia baseada no personagem e um item de vida"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Chibi-Robo! Zip Lash",
+     "does": [
+      "Desbloqueia uma estatueta do personagem em pose exclusiva (precisa do amiibo do Chibi-Robo)"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Super Mario Maker",
+     "does": [
+      "Desbloqueia uma roupa de Cogumelo Misterioso do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Fire Emblem Fates",
+     "does": [
+      "Enfrenta o personagem e o recruta para o grupo"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Yoshi's Woolly World",
+     "does": [
+      "Desbloqueia uma estampa de lã do Yoshi com o personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Code Name: S.T.E.A.M.",
+     "does": [
+      "Adiciona o personagem ao seu time jogável"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Super Smash Bros. for Wii U",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "3DS",
+     "title": "Super Smash Bros. for Nintendo 3DS",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    }
+   ],
+   "series": []
+  }
+ },
+ "lucina": {
+  "url": "https://amiibo.life/amiibo/super-smash-bros/lucina",
+  "as": {
+   "figure": [],
+   "character": [
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem Engage",
+     "does": [
+      "Ganha um Fashion Ticket e um Music Ticket para desbloquear roupas e músicas"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem Warriors: Three Hopes",
+     "does": [
+      "Ganha recursos, armas ou equipamentos aleatórios de qualidade melhor"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem: Three Houses",
+     "does": [
+      "Desbloqueia uma música de batalha especial",
+      "Ganha itens e materiais de qualidade maior"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Smash Bros. Ultimate",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem Warriors",
+     "does": [
+      "Ganha uma arma"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Fire Emblem Warriors",
+     "does": [
+      "Ganha uma arma"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Fire Emblem Echoes: Shadows of Valentia",
+     "does": [
+      "Invoca um herói ilusório para ajudar na batalha"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Poochy & Yoshi's Woolly World",
+     "does": [
+      "Desbloqueia uma estampa de lã do Yoshi com o personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Kirby: Planet Robobot",
+     "does": [
+      "Dá ao Kirby uma habilidade de cópia baseada no personagem e um item de vida"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Chibi-Robo! Zip Lash",
+     "does": [
+      "Desbloqueia uma estatueta do personagem em pose exclusiva (precisa do amiibo do Chibi-Robo)"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Super Mario Maker",
+     "does": [
+      "Desbloqueia uma roupa de Cogumelo Misterioso do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Fire Emblem Fates",
+     "does": [
+      "Enfrenta o personagem e o recruta para o grupo"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Yoshi's Woolly World",
+     "does": [
+      "Desbloqueia uma estampa de lã do Yoshi com o personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Style Savvy: Fashion Forward",
+     "does": [
+      "Desbloqueia um acessório com tema do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Code Name: S.T.E.A.M.",
+     "does": [
+      "Adiciona o personagem ao seu time jogável"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Super Smash Bros. for Wii U",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "3DS",
+     "title": "Super Smash Bros. for Nintendo 3DS",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    }
+   ],
+   "series": []
+  }
+ },
+ "corrin": {
+  "url": "https://amiibo.life/amiibo/super-smash-bros/corrin",
+  "as": {
+   "figure": [],
+   "character": [
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem Engage",
+     "does": [
+      "Ganha um Fashion Ticket e um Music Ticket para desbloquear roupas e músicas"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem Warriors: Three Hopes",
+     "does": [
+      "Ganha recursos, armas ou equipamentos aleatórios de qualidade melhor"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem: Three Houses",
+     "does": [
+      "Desbloqueia uma música de batalha especial",
+      "Ganha itens e materiais de qualidade maior"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Smash Bros. Ultimate",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "Switch",
+     "title": "Fire Emblem Warriors",
+     "does": [
+      "Ganha uma arma"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Fire Emblem Warriors",
+     "does": [
+      "Ganha uma arma"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Fire Emblem Echoes: Shadows of Valentia",
+     "does": [
+      "Invoca um herói ilusório para ajudar na batalha"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Poochy & Yoshi's Woolly World",
+     "does": [
+      "Desbloqueia uma estampa de lã do Yoshi com o personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Super Smash Bros. for Wii U",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "3DS",
+     "title": "Super Smash Bros. for Nintendo 3DS",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    }
+   ],
+   "series": []
+  }
+ },
+ "shulk": {
+  "url": "https://amiibo.life/amiibo/super-smash-bros/shulk",
+  "as": {
+   "figure": [],
+   "character": [
+    {
+     "platform": "Switch 2",
+     "title": "Xenoblade Chronicles 2 - Nintendo Switch 2 Edition",
+     "does": [
+      "Ganha itens úteis e pontos de experiência"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch 2",
+     "title": "Xenoblade Chronicles: Definitive Edition – Nintendo Switch 2 Edition",
+     "does": [
+      "Desbloqueia roupas especiais com mais facilidade",
+      "Ganha itens úteis e pontos de experiência"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Xenoblade Chronicles 3",
+     "does": [
+      "Desbloqueia um visual de arma do personagem para a classe Espadachim"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Smash Bros. Ultimate",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "3DS",
+     "title": "Poochy & Yoshi's Woolly World",
+     "does": [
+      "Desbloqueia uma estampa de lã do Yoshi com o personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Kirby: Planet Robobot",
+     "does": [
+      "Dá ao Kirby uma habilidade de cópia baseada no personagem e um item de vida"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Chibi-Robo! Zip Lash",
+     "does": [
+      "Desbloqueia uma estatueta do personagem em pose exclusiva (precisa do amiibo do Chibi-Robo)"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Super Mario Maker",
+     "does": [
+      "Desbloqueia uma roupa de Cogumelo Misterioso do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Yoshi's Woolly World",
+     "does": [
+      "Desbloqueia uma estampa de lã do Yoshi com o personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Xenoblade Chronicles 3D",
+     "does": [
+      "Ganha fichas para desbloquear músicas e modelos 3D animados de vários personagens"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Super Smash Bros. for Wii U",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "3DS",
+     "title": "Super Smash Bros. for Nintendo 3DS",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    }
+   ],
+   "series": []
+  }
+ },
+ "pyra": {
+  "url": "https://amiibo.life/amiibo/super-smash-bros/pyra",
+  "as": {
+   "figure": [],
+   "character": [
+    {
+     "platform": "Switch 2",
+     "title": "Xenoblade Chronicles 2 - Nintendo Switch 2 Edition",
+     "does": [
+      "Desbloqueia roupas especiais com mais facilidade",
+      "Ganha itens úteis e pontos de experiência"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch 2",
+     "title": "Xenoblade Chronicles: Definitive Edition – Nintendo Switch 2 Edition",
+     "does": [
+      "Desbloqueia roupas especiais com mais facilidade",
+      "Ganha itens úteis e pontos de experiência"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Xenoblade Chronicles 3",
+     "does": [
+      "Desbloqueia um visual de arma do personagem para a classe Espadachim"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Smash Bros. Ultimate",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    }
+   ],
+   "series": []
+  }
+ },
+ "mythra": {
+  "url": "https://amiibo.life/amiibo/super-smash-bros/mythra",
+  "as": {
+   "figure": [],
+   "character": [
+    {
+     "platform": "Switch 2",
+     "title": "Xenoblade Chronicles 2 - Nintendo Switch 2 Edition",
+     "does": [
+      "Desbloqueia roupas especiais com mais facilidade",
+      "Ganha itens úteis e pontos de experiência"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch 2",
+     "title": "Xenoblade Chronicles: Definitive Edition – Nintendo Switch 2 Edition",
+     "does": [
+      "Desbloqueia roupas especiais com mais facilidade",
+      "Ganha itens úteis e pontos de experiência"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Xenoblade Chronicles 3",
+     "does": [
+      "Desbloqueia um visual de arma do personagem para a classe Espadachim"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Smash Bros. Ultimate",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    }
+   ],
+   "series": []
+  }
+ },
+ "noah": {
+  "url": "https://amiibo.life/amiibo/xenoblade-chronicles/noah",
+  "as": {
+   "figure": [],
+   "character": [
+    {
+     "platform": "Switch 2",
+     "title": "Xenoblade Chronicles 2 - Nintendo Switch 2 Edition",
+     "does": [
+      "Ganha itens úteis e pontos de experiência"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch 2",
+     "title": "Xenoblade Chronicles: Definitive Edition – Nintendo Switch 2 Edition",
+     "does": [
+      "Desbloqueia roupas especiais com mais facilidade",
+      "Ganha itens úteis e pontos de experiência"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Xenoblade Chronicles 3",
+     "does": [
+      "Desbloqueia a roupa “N’s Consul Suit” para o Noah e roupas sem jaqueta para Noah, Lanz e Eunie"
+     ],
+     "saves": false
+    }
+   ],
+   "series": []
+  }
+ },
+ "mio": {
+  "url": "https://amiibo.life/amiibo/xenoblade-chronicles/mio",
+  "as": {
+   "figure": [],
+   "character": [
+    {
+     "platform": "Switch 2",
+     "title": "Xenoblade Chronicles 2 - Nintendo Switch 2 Edition",
+     "does": [
+      "Ganha itens úteis e pontos de experiência"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch 2",
+     "title": "Xenoblade Chronicles: Definitive Edition – Nintendo Switch 2 Edition",
+     "does": [
+      "Desbloqueia roupas especiais com mais facilidade",
+      "Ganha itens úteis e pontos de experiência"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Xenoblade Chronicles 3",
+     "does": [
+      "Desbloqueia a roupa “M’s Consul Suit” para a Mio e roupas sem jaqueta para Mio, Sena e Taion"
+     ],
+     "saves": false
+    }
+   ],
+   "series": []
+  }
+ },
+ "cloud": {
+  "url": "https://amiibo.life/amiibo/super-smash-bros/cloud",
+  "as": {
+   "figure": [],
+   "character": [
+    {
+     "platform": "Switch",
+     "title": "Super Smash Bros. Ultimate",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "Wii U",
+     "title": "Super Smash Bros. for Wii U",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "3DS",
+     "title": "Super Smash Bros. for Nintendo 3DS",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    }
+   ],
+   "series": []
+  }
+ },
+ "sephiroth": {
+  "url": "https://amiibo.life/amiibo/super-smash-bros/sephiroth",
+  "as": {
+   "figure": [],
+   "character": [
+    {
+     "platform": "Switch",
+     "title": "Super Smash Bros. Ultimate",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    }
+   ],
+   "series": []
+  }
+ },
+ "joker": {
+  "url": "https://amiibo.life/amiibo/super-smash-bros/joker",
+  "as": {
+   "figure": [],
+   "character": [
+    {
+     "platform": "Switch",
+     "title": "Super Smash Bros. Ultimate",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    }
+   ],
+   "series": []
+  }
+ },
+ "hero": {
+  "url": "https://amiibo.life/amiibo/super-smash-bros/hero",
+  "as": {
+   "figure": [],
+   "character": [
+    {
+     "platform": "Switch",
+     "title": "Super Smash Bros. Ultimate",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    }
+   ],
+   "series": []
+  }
+ },
+ "mewtwo": {
+  "url": "https://amiibo.life/amiibo/super-smash-bros/mewtwo",
+  "as": {
+   "figure": [],
+   "character": [
+    {
+     "platform": "Switch",
+     "title": "Super Smash Bros. Ultimate",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "3DS",
+     "title": "Kirby: Planet Robobot",
+     "does": [
+      "Dá ao Kirby uma habilidade de cópia baseada no personagem e um item de vida"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Super Mario Maker",
+     "does": [
+      "Desbloqueia uma roupa de Cogumelo Misterioso do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Super Smash Bros. for Wii U",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "3DS",
+     "title": "Super Smash Bros. for Nintendo 3DS",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    }
+   ],
+   "series": []
+  }
+ },
+ "pokemon-trainer": {
+  "url": "https://amiibo.life/amiibo/super-smash-bros/pokemon-trainer",
+  "as": {
+   "figure": [],
+   "character": [
+    {
+     "platform": "Switch",
+     "title": "Super Smash Bros. Ultimate",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    }
+   ],
+   "series": []
+  }
+ },
+ "richter": {
+  "url": "https://amiibo.life/amiibo/super-smash-bros/richter",
+  "as": {
+   "figure": [],
+   "character": [
+    {
+     "platform": "Switch",
+     "title": "Super Smash Bros. Ultimate",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    }
+   ],
+   "series": []
+  }
+ },
+ "zelda-loftwing": {
+  "url": "https://amiibo.life/amiibo/the-legend-of-zelda/zelda-loftwing-skyward-sword",
+  "as": {
+   "figure": [
+    {
+     "platform": "Switch 2",
+     "title": "Animal Crossing: New Horizons – Nintendo Switch 2 Edition",
+     "does": [
+      "Convida o morador exclusivo de amiibo Tulin",
+      "Desbloqueia itens de Zelda no catálogo da loja"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch 2",
+     "title": "The Legend of Zelda: Tears of the Kingdom – Nintendo Switch 2 Edition",
+     "does": [
+      "Desbloqueia um tecido de parapente exclusivo do personagem",
+      "Ganha materiais e uma arma ou item raro"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "The Legend of Zelda: Tears of the Kingdom",
+     "does": [
+      "Desbloqueia um tecido de parapente exclusivo do personagem",
+      "Ganha materiais e uma arma ou item raro"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "The Legend of Zelda: Skyward Sword HD",
+     "does": [
+      "Viaja rápido entre a superfície e o céu"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Animal Crossing: New Horizons",
+     "does": [
+      "Convida o morador exclusivo de amiibo Tulin",
+      "Desbloqueia itens de Zelda no catálogo da loja"
+     ],
+     "saves": false
+    }
+   ],
+   "character": [
+    {
+     "platform": "Switch 2",
+     "title": "The Elder Scrolls V: Skyrim Anniversary Edition",
+     "does": [
+      "Ganha um baú que pode conter equipamentos inspirados em Zelda"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch 2",
+     "title": "Hyrule Warriors: Age of Imprisonment",
+     "does": [
+      "Ganha materiais de criação específicos ou uma arma do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "The Legend of Zelda: Echoes of Wisdom",
+     "does": [
+      "Desbloqueia uma roupa exclusiva de amiibo",
+      "Ganha ingredientes para vitaminas"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Miitopia",
+     "does": [
+      "Desbloqueia uma roupa do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Hyrule Warriors: Age of Calamity",
+     "does": [
+      "Ganha materiais de criação específicos ou uma arma do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "The Legend of Zelda: Link's Awakening",
+     "does": [
+      "Desbloqueia uma das cinco salas exclusivas do Chamber Dungeon",
+      "Salva o seu Chamber Dungeon no amiibo para compartilhar com amigos"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Smash Bros. Ultimate",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "3DS",
+     "title": "WarioWare Gold",
+     "does": [
+      "Ganha um desenho do personagem feito pelo Wario, que pode ser trocado por moedas"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Hyrule Warriors: Definitive Edition",
+     "does": [
+      "Ganha uma arma de 3 estrelas ou mais"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "The Elder Scrolls V: Skyrim",
+     "does": [
+      "Ganha um baú que pode conter equipamentos inspirados em Zelda"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Style Savvy: Styling Star",
+     "does": [
+      "Desbloqueia uma estampa de Zelda"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Mario Kart 8 Deluxe",
+     "does": [
+      "Desbloqueia um macacão de corrida de Zelda para o Mii"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Poochy & Yoshi's Woolly World",
+     "does": [
+      "Desbloqueia uma estampa de lã do Yoshi com o personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Miitopia",
+     "does": [
+      "Desbloqueia uma roupa do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Kirby: Planet Robobot",
+     "does": [
+      "Dá ao Kirby uma habilidade de cópia baseada no personagem e um item de vida"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "The Legend of Zelda: Twilight Princess HD",
+     "does": [
+      "Recarrega os corações, uma vez por dia por amiibo"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Hyrule Warriors Legends",
+     "does": [
+      "Ganha uma arma de 3 estrelas ou mais"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Chibi-Robo! Zip Lash",
+     "does": [
+      "Desbloqueia uma estatueta do personagem em pose exclusiva (precisa do amiibo do Chibi-Robo)"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Super Mario Maker",
+     "does": [
+      "Desbloqueia uma roupa de Cogumelo Misterioso do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Yoshi's Woolly World",
+     "does": [
+      "Desbloqueia uma estampa de lã do Yoshi com o personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Style Savvy: Fashion Forward",
+     "does": [
+      "Desbloqueia um acessório com tema do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Ace Combat Assault Horizon Legacy +",
+     "does": [
+      "Desbloqueia uma nave exclusiva com tema do personagem e uma peça de tunagem bônus"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Super Smash Bros. for Wii U",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "3DS",
+     "title": "Super Smash Bros. for Nintendo 3DS",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "Wii U",
+     "title": "Hyrule Warriors",
+     "does": [
+      "Ganha uma arma de 3 estrelas ou mais"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Animal Crossing: New Leaf",
+     "does": [
+      "Convida um morador exclusivo com tema de Zelda para o acampamento: ele visita, dá um item ou se muda para a sua cidade"
+     ],
+     "saves": false
+    }
+   ],
+   "series": [
+    {
+     "platform": "Switch",
+     "title": "Conga Master Party!",
+     "does": [
+      "Desbloqueia uma roupa especial"
+     ],
+     "saves": false
+    }
+   ]
+  }
+ },
+ "link-ocarina": {
+  "url": "https://amiibo.life/amiibo/the-legend-of-zelda/link-ocarina-of-time",
+  "as": {
+   "figure": [
+    {
+     "platform": "Switch 2",
+     "title": "Animal Crossing: New Horizons – Nintendo Switch 2 Edition",
+     "does": [
+      "Convida a moradora exclusiva de amiibo Mineru",
+      "Desbloqueia itens de Zelda no catálogo da loja"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch 2",
+     "title": "The Legend of Zelda: Breath of the Wild – Nintendo Switch 2 Edition",
+     "does": [
+      "Ganha materiais e um item raro ou exclusivo"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch 2",
+     "title": "The Legend of Zelda: Tears of the Kingdom – Nintendo Switch 2 Edition",
+     "does": [
+      "Desbloqueia um tecido de parapente exclusivo do personagem",
+      "Ganha materiais e uma arma ou item raro"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "The Legend of Zelda: Tears of the Kingdom",
+     "does": [
+      "Desbloqueia um tecido de parapente exclusivo do personagem",
+      "Ganha materiais e uma arma ou item raro"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Animal Crossing: New Horizons",
+     "does": [
+      "Convida a moradora exclusiva de amiibo Mineru",
+      "Desbloqueia itens de Zelda no catálogo da loja"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "The Legend of Zelda: Breath of the Wild",
+     "does": [
+      "Ganha materiais e um item raro ou exclusivo"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "The Legend of Zelda: Breath of the Wild",
+     "does": [
+      "Ganha materiais e um item raro ou exclusivo"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Animal Crossing: New Leaf",
+     "does": [
+      "Convida um morador exclusivo com tema de Zelda para o acampamento: ele visita, dá um item ou se muda para a sua cidade"
+     ],
+     "saves": false
+    }
+   ],
+   "character": [
+    {
+     "platform": "Switch 2",
+     "title": "The Elder Scrolls V: Skyrim Anniversary Edition",
+     "does": [
+      "Ganha um baú que pode conter equipamentos inspirados em Zelda"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch 2",
+     "title": "Hyrule Warriors: Age of Imprisonment",
+     "does": [
+      "Ganha materiais de criação específicos ou uma arma do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "The Legend of Zelda: Echoes of Wisdom",
+     "does": [
+      "Desbloqueia uma roupa exclusiva de amiibo",
+      "Ganha ingredientes para vitaminas"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Miitopia",
+     "does": [
+      "Desbloqueia uma roupa do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Hyrule Warriors: Age of Calamity",
+     "does": [
+      "Ganha materiais de criação específicos ou uma arma do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "The Legend of Zelda: Link's Awakening",
+     "does": [
+      "Desbloqueia uma das cinco salas exclusivas do Chamber Dungeon",
+      "Salva o seu Chamber Dungeon no amiibo para compartilhar com amigos"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Smash Bros. Ultimate",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "3DS",
+     "title": "WarioWare Gold",
+     "does": [
+      "Ganha um desenho do personagem feito pelo Wario, que pode ser trocado por moedas"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Hyrule Warriors: Definitive Edition",
+     "does": [
+      "Ganha uma arma de 3 estrelas ou mais"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Bayonetta 2",
+     "does": [
+      "Desbloqueia uma roupa do personagem (versão de cabelo curto)"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "The Elder Scrolls V: Skyrim",
+     "does": [
+      "Ganha um baú que pode conter equipamentos inspirados em Zelda"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Style Savvy: Styling Star",
+     "does": [
+      "Desbloqueia uma estampa de Zelda"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Mario Kart 8 Deluxe",
+     "does": [
+      "Desbloqueia um macacão de corrida de Zelda para o Mii"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Poochy & Yoshi's Woolly World",
+     "does": [
+      "Desbloqueia uma estampa de lã do Yoshi com o personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Miitopia",
+     "does": [
+      "Desbloqueia uma roupa do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Kirby: Planet Robobot",
+     "does": [
+      "Dá ao Kirby uma habilidade de cópia baseada no personagem e um item de vida"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "The Legend of Zelda: Twilight Princess HD",
+     "does": [
+      "Recarrega as flechas, uma vez por dia por amiibo"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Hyrule Warriors Legends",
+     "does": [
+      "Ganha uma arma de 3 estrelas ou mais"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Chibi-Robo! Zip Lash",
+     "does": [
+      "Desbloqueia uma estatueta do personagem em pose exclusiva (precisa do amiibo do Chibi-Robo)"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Picross 3D Round 2",
+     "does": [
+      "Desbloqueia um quebra-cabeça do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Super Mario Maker",
+     "does": [
+      "Desbloqueia uma roupa de Cogumelo Misterioso do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Yoshi's Woolly World",
+     "does": [
+      "Desbloqueia uma estampa de lã do Yoshi com o personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Ace Combat Assault Horizon Legacy +",
+     "does": [
+      "Desbloqueia uma nave exclusiva com tema do personagem e uma peça de tunagem bônus"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Super Smash Bros. for Wii U",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "3DS",
+     "title": "One Piece: Super Grand Battle! X",
+     "does": [
+      "Desbloqueia uma roupa do personagem com habilidades especiais"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Super Smash Bros. for Nintendo 3DS",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "Wii U",
+     "title": "Hyrule Warriors",
+     "does": [
+      "Desbloqueia a arma exclusiva Spinner",
+      "Ganha uma arma de 3 estrelas ou mais"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Mario Kart 8",
+     "does": [
+      "Desbloqueia um macacão de corrida do personagem para o Mii"
+     ],
+     "saves": false
+    }
+   ],
+   "series": [
+    {
+     "platform": "Switch",
+     "title": "Conga Master Party!",
+     "does": [
+      "Desbloqueia uma roupa especial"
+     ],
+     "saves": false
+    }
+   ]
+  }
+ },
+ "zelda-botw": {
+  "url": "https://amiibo.life/amiibo/the-legend-of-zelda/zelda",
+  "as": {
+   "figure": [
+    {
+     "platform": "Switch 2",
+     "title": "Animal Crossing: New Horizons – Nintendo Switch 2 Edition",
+     "does": [
+      "Convida a moradora exclusiva de amiibo Mineru",
+      "Desbloqueia itens de Zelda no catálogo da loja"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch 2",
+     "title": "The Legend of Zelda: Tears of the Kingdom – Nintendo Switch 2 Edition",
+     "does": [
+      "Desbloqueia um tecido de parapente exclusivo do personagem",
+      "Ganha materiais e uma arma ou item raro"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "The Legend of Zelda: Tears of the Kingdom",
+     "does": [
+      "Desbloqueia um tecido de parapente exclusivo do personagem",
+      "Ganha materiais e uma arma ou item raro"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Animal Crossing: New Horizons",
+     "does": [
+      "Convida a moradora exclusiva de amiibo Mineru",
+      "Desbloqueia itens de Zelda no catálogo da loja"
+     ],
+     "saves": false
+    }
+   ],
+   "character": [
+    {
+     "platform": "Switch 2",
+     "title": "The Elder Scrolls V: Skyrim Anniversary Edition",
+     "does": [
+      "Ganha um baú que pode conter equipamentos inspirados em Zelda"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch 2",
+     "title": "Hyrule Warriors: Age of Imprisonment",
+     "does": [
+      "Ganha materiais de criação específicos ou uma arma do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch 2",
+     "title": "The Legend of Zelda: Breath of the Wild – Nintendo Switch 2 Edition",
+     "does": [
+      "Ganha materiais e um item raro ou exclusivo"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "The Legend of Zelda: Echoes of Wisdom",
+     "does": [
+      "Desbloqueia uma roupa exclusiva de amiibo",
+      "Ganha ingredientes para vitaminas"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Miitopia",
+     "does": [
+      "Desbloqueia uma roupa do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Hyrule Warriors: Age of Calamity",
+     "does": [
+      "Ganha materiais de criação específicos ou uma arma do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "The Legend of Zelda: Link's Awakening",
+     "does": [
+      "Desbloqueia uma das cinco salas exclusivas do Chamber Dungeon",
+      "Salva o seu Chamber Dungeon no amiibo para compartilhar com amigos"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Smash Bros. Ultimate",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "3DS",
+     "title": "WarioWare Gold",
+     "does": [
+      "Ganha um desenho do personagem feito pelo Wario, que pode ser trocado por moedas"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Hyrule Warriors: Definitive Edition",
+     "does": [
+      "Ganha uma arma de 3 estrelas ou mais"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "The Elder Scrolls V: Skyrim",
+     "does": [
+      "Ganha um baú que pode conter equipamentos inspirados em Zelda"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Style Savvy: Styling Star",
+     "does": [
+      "Desbloqueia uma estampa de Zelda"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Mario Kart 8 Deluxe",
+     "does": [
+      "Desbloqueia um macacão de corrida de Zelda para o Mii"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "The Legend of Zelda: Breath of the Wild",
+     "does": [
+      "Ganha materiais e um item raro ou exclusivo"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "The Legend of Zelda: Breath of the Wild",
+     "does": [
+      "Ganha materiais e um item raro ou exclusivo"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Poochy & Yoshi's Woolly World",
+     "does": [
+      "Desbloqueia uma estampa de lã do Yoshi com o personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Miitopia",
+     "does": [
+      "Desbloqueia uma roupa do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Kirby: Planet Robobot",
+     "does": [
+      "Dá ao Kirby uma habilidade de cópia baseada no personagem e um item de vida"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "The Legend of Zelda: Twilight Princess HD",
+     "does": [
+      "Recarrega os corações, uma vez por dia por amiibo"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Hyrule Warriors Legends",
+     "does": [
+      "Ganha uma arma de 3 estrelas ou mais"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Chibi-Robo! Zip Lash",
+     "does": [
+      "Desbloqueia uma estatueta do personagem em pose exclusiva (precisa do amiibo do Chibi-Robo)"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Super Mario Maker",
+     "does": [
+      "Desbloqueia uma roupa de Cogumelo Misterioso do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Yoshi's Woolly World",
+     "does": [
+      "Desbloqueia uma estampa de lã do Yoshi com o personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Style Savvy: Fashion Forward",
+     "does": [
+      "Desbloqueia um acessório com tema do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Ace Combat Assault Horizon Legacy +",
+     "does": [
+      "Desbloqueia uma nave exclusiva com tema do personagem e uma peça de tunagem bônus"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Super Smash Bros. for Wii U",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "3DS",
+     "title": "Super Smash Bros. for Nintendo 3DS",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "Wii U",
+     "title": "Hyrule Warriors",
+     "does": [
+      "Ganha uma arma de 3 estrelas ou mais"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Animal Crossing: New Leaf",
+     "does": [
+      "Convida um morador exclusivo com tema de Zelda para o acampamento: ele visita, dá um item ou se muda para a sua cidade"
+     ],
+     "saves": false
+    }
+   ],
+   "series": [
+    {
+     "platform": "Switch",
+     "title": "Conga Master Party!",
+     "does": [
+      "Desbloqueia uma roupa especial"
+     ],
+     "saves": false
+    }
+   ]
+  }
+ },
+ "urbosa": {
+  "url": "https://amiibo.life/amiibo/the-legend-of-zelda/urbosa-gerudo-champion",
+  "as": {
+   "figure": [
+    {
+     "platform": "Switch 2",
+     "title": "Animal Crossing: New Horizons – Nintendo Switch 2 Edition",
+     "does": [
+      "Convida a moradora exclusiva de amiibo Mineru",
+      "Desbloqueia itens de Zelda no catálogo da loja"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch 2",
+     "title": "The Legend of Zelda: Breath of the Wild – Nintendo Switch 2 Edition",
+     "does": [
+      "Ganha materiais e um item raro ou exclusivo"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch 2",
+     "title": "The Legend of Zelda: Tears of the Kingdom – Nintendo Switch 2 Edition",
+     "does": [
+      "Desbloqueia um tecido de parapente exclusivo do personagem",
+      "Ganha materiais e uma arma ou item raro"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "The Legend of Zelda: Tears of the Kingdom",
+     "does": [
+      "Desbloqueia um tecido de parapente exclusivo do personagem",
+      "Ganha materiais e uma arma ou item raro"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Animal Crossing: New Horizons",
+     "does": [
+      "Convida a moradora exclusiva de amiibo Mineru",
+      "Desbloqueia itens de Zelda no catálogo da loja"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Smash Bros. Ultimate",
+     "does": [
+      "Ganha o Spirit do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "The Legend of Zelda: Breath of the Wild",
+     "does": [
+      "Ganha materiais e um item raro ou exclusivo"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "The Legend of Zelda: Breath of the Wild",
+     "does": [
+      "Ganha materiais e um item raro ou exclusivo"
+     ],
+     "saves": false
+    }
+   ],
+   "character": [
+    {
+     "platform": "Switch 2",
+     "title": "The Elder Scrolls V: Skyrim Anniversary Edition",
+     "does": [
+      "Ganha um baú que pode conter equipamentos inspirados em Zelda"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch 2",
+     "title": "Hyrule Warriors: Age of Imprisonment",
+     "does": [
+      "Ganha materiais de criação específicos ou uma arma do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "The Legend of Zelda: Echoes of Wisdom",
+     "does": [
+      "Desbloqueia uma roupa exclusiva de amiibo",
+      "Ganha ingredientes para vitaminas"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Hyrule Warriors: Age of Calamity",
+     "does": [
+      "Ganha materiais de criação específicos ou uma arma do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "WarioWare Gold",
+     "does": [
+      "Ganha um desenho do personagem feito pelo Wario, que pode ser trocado por moedas"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "The Elder Scrolls V: Skyrim",
+     "does": [
+      "Ganha um baú que pode conter equipamentos inspirados em Zelda"
+     ],
+     "saves": false
+    }
+   ],
+   "series": [
+    {
+     "platform": "Switch",
+     "title": "The Legend of Zelda: Link's Awakening",
+     "does": [
+      "Desbloqueia uma das cinco salas exclusivas do Chamber Dungeon",
+      "Salva o seu Chamber Dungeon no amiibo para compartilhar com amigos"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "3DS",
+     "title": "Style Savvy: Styling Star",
+     "does": [
+      "Desbloqueia uma estampa de Zelda"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Conga Master Party!",
+     "does": [
+      "Desbloqueia uma roupa especial"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Mario Kart 8 Deluxe",
+     "does": [
+      "Desbloqueia um macacão de corrida de Zelda para o Mii"
+     ],
+     "saves": false
+    }
+   ]
+  }
+ },
+ "riju": {
+  "url": "https://amiibo.life/amiibo/the-legend-of-zelda/riju",
+  "as": {
+   "figure": [
+    {
+     "platform": "Switch 2",
+     "title": "Animal Crossing: New Horizons – Nintendo Switch 2 Edition",
+     "does": [
+      "Convida a moradora exclusiva de amiibo Mineru",
+      "Desbloqueia itens de Zelda no catálogo da loja"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch 2",
+     "title": "The Legend of Zelda: Tears of the Kingdom – Nintendo Switch 2 Edition",
+     "does": [
+      "Desbloqueia um tecido de parapente exclusivo do personagem",
+      "Ganha materiais e uma arma ou item raro"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "The Legend of Zelda: Tears of the Kingdom",
+     "does": [
+      "Desbloqueia um tecido de parapente exclusivo do personagem",
+      "Ganha materiais e uma arma ou item raro"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Animal Crossing: New Horizons",
+     "does": [
+      "Convida a moradora exclusiva de amiibo Mineru",
+      "Desbloqueia itens de Zelda no catálogo da loja"
+     ],
+     "saves": false
+    }
+   ],
+   "character": [
+    {
+     "platform": "Switch 2",
+     "title": "Hyrule Warriors: Age of Imprisonment",
+     "does": [
+      "Ganha materiais de criação específicos ou uma arma do personagem"
+     ],
+     "saves": false
+    }
+   ],
+   "series": [
+    {
+     "platform": "Switch",
+     "title": "The Legend of Zelda: Link's Awakening",
+     "does": [
+      "Desbloqueia uma das cinco salas exclusivas do Chamber Dungeon",
+      "Salva o seu Chamber Dungeon no amiibo para compartilhar com amigos"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "3DS",
+     "title": "Style Savvy: Styling Star",
+     "does": [
+      "Desbloqueia uma estampa de Zelda"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Conga Master Party!",
+     "does": [
+      "Desbloqueia uma roupa especial"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Mario Kart 8 Deluxe",
+     "does": [
+      "Desbloqueia um macacão de corrida de Zelda para o Mii"
+     ],
+     "saves": false
+    }
+   ]
+  }
+ },
+ "zelda-totk": {
+  "url": "https://amiibo.life/amiibo/the-legend-of-zelda/zelda-tears-of-the-kingdom",
+  "as": {
+   "figure": [
+    {
+     "platform": "Switch 2",
+     "title": "Animal Crossing: New Horizons – Nintendo Switch 2 Edition",
+     "does": [
+      "Convida a moradora exclusiva de amiibo Mineru",
+      "Desbloqueia itens de Zelda no catálogo da loja"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch 2",
+     "title": "The Legend of Zelda: Tears of the Kingdom – Nintendo Switch 2 Edition",
+     "does": [
+      "Desbloqueia um tecido de parapente exclusivo do personagem",
+      "Ganha materiais e uma arma ou item raro"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "The Legend of Zelda: Tears of the Kingdom",
+     "does": [
+      "Desbloqueia um tecido de parapente exclusivo do personagem",
+      "Ganha materiais e uma arma ou item raro"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Animal Crossing: New Horizons",
+     "does": [
+      "Convida a moradora exclusiva de amiibo Mineru",
+      "Desbloqueia itens de Zelda no catálogo da loja"
+     ],
+     "saves": false
+    }
+   ],
+   "character": [
+    {
+     "platform": "Switch 2",
+     "title": "The Elder Scrolls V: Skyrim Anniversary Edition",
+     "does": [
+      "Ganha um baú que pode conter equipamentos inspirados em Zelda"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch 2",
+     "title": "Hyrule Warriors: Age of Imprisonment",
+     "does": [
+      "Ganha materiais de criação específicos ou uma arma do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch 2",
+     "title": "The Legend of Zelda: Breath of the Wild – Nintendo Switch 2 Edition",
+     "does": [
+      "Ganha materiais e um item raro ou exclusivo"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "The Legend of Zelda: Echoes of Wisdom",
+     "does": [
+      "Desbloqueia uma roupa exclusiva de amiibo",
+      "Ganha ingredientes para vitaminas"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Miitopia",
+     "does": [
+      "Desbloqueia uma roupa do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Hyrule Warriors: Age of Calamity",
+     "does": [
+      "Ganha materiais de criação específicos ou uma arma do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "The Legend of Zelda: Link's Awakening",
+     "does": [
+      "Desbloqueia uma das cinco salas exclusivas do Chamber Dungeon",
+      "Salva o seu Chamber Dungeon no amiibo para compartilhar com amigos"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Smash Bros. Ultimate",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "3DS",
+     "title": "WarioWare Gold",
+     "does": [
+      "Ganha um desenho do personagem feito pelo Wario, que pode ser trocado por moedas"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Hyrule Warriors: Definitive Edition",
+     "does": [
+      "Ganha uma arma de 3 estrelas ou mais"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "The Elder Scrolls V: Skyrim",
+     "does": [
+      "Ganha um baú que pode conter equipamentos inspirados em Zelda"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Style Savvy: Styling Star",
+     "does": [
+      "Desbloqueia uma estampa de Zelda"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Mario Kart 8 Deluxe",
+     "does": [
+      "Desbloqueia um macacão de corrida de Zelda para o Mii"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "The Legend of Zelda: Breath of the Wild",
+     "does": [
+      "Ganha materiais e um item raro ou exclusivo"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "The Legend of Zelda: Breath of the Wild",
+     "does": [
+      "Ganha materiais e um item raro ou exclusivo"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Poochy & Yoshi's Woolly World",
+     "does": [
+      "Desbloqueia uma estampa de lã do Yoshi com o personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Miitopia",
+     "does": [
+      "Desbloqueia uma roupa do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Kirby: Planet Robobot",
+     "does": [
+      "Dá ao Kirby uma habilidade de cópia baseada no personagem e um item de vida"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "The Legend of Zelda: Twilight Princess HD",
+     "does": [
+      "Recarrega os corações, uma vez por dia por amiibo"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Hyrule Warriors Legends",
+     "does": [
+      "Ganha uma arma de 3 estrelas ou mais"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Chibi-Robo! Zip Lash",
+     "does": [
+      "Desbloqueia uma estatueta do personagem em pose exclusiva (precisa do amiibo do Chibi-Robo)"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Super Mario Maker",
+     "does": [
+      "Desbloqueia uma roupa de Cogumelo Misterioso do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Yoshi's Woolly World",
+     "does": [
+      "Desbloqueia uma estampa de lã do Yoshi com o personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Style Savvy: Fashion Forward",
+     "does": [
+      "Desbloqueia um acessório com tema do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Ace Combat Assault Horizon Legacy +",
+     "does": [
+      "Desbloqueia uma nave exclusiva com tema do personagem e uma peça de tunagem bônus"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Super Smash Bros. for Wii U",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "3DS",
+     "title": "Super Smash Bros. for Nintendo 3DS",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "Wii U",
+     "title": "Hyrule Warriors",
+     "does": [
+      "Ganha uma arma de 3 estrelas ou mais"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Animal Crossing: New Leaf",
+     "does": [
+      "Convida um morador exclusivo com tema de Zelda para o acampamento: ele visita, dá um item ou se muda para a sua cidade"
+     ],
+     "saves": false
+    }
+   ],
+   "series": [
+    {
+     "platform": "Switch",
+     "title": "Conga Master Party!",
+     "does": [
+      "Desbloqueia uma roupa especial"
+     ],
+     "saves": false
+    }
+   ]
+  }
+ },
+ "inkling-girl": {
+  "url": "https://amiibo.life/amiibo/splatoon/inkling-girl-neon-pink",
+  "as": {
+   "figure": [
+    {
+     "platform": "Switch",
+     "title": "Splatoon 3",
+     "does": [
+      "Desbloqueia equipamentos exclusivos",
+      "Salva armas, equipamentos e controles favoritos",
+      "Tira fotos com o personagem ou o equipamento salvo"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "3DS",
+     "title": "WarioWare Gold",
+     "does": [
+      "Ganha um desenho do personagem feito pelo Wario, que pode ser trocado por moedas"
+     ],
+     "saves": false
+    }
+   ],
+   "character": [
+    {
+     "platform": "Switch",
+     "title": "Miitopia",
+     "does": [
+      "Desbloqueia uma roupa do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Splatoon 2",
+     "does": [
+      "Desbloqueia equipamentos exclusivos",
+      "Salva armas, equipamentos e controles favoritos",
+      "Tira fotos com o personagem ou o equipamento salvo"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "3DS",
+     "title": "Poochy & Yoshi's Woolly World",
+     "does": [
+      "Desbloqueia uma estampa de lã do Yoshi com o personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Miitopia",
+     "does": [
+      "Desbloqueia uma roupa do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Chibi-Robo! Zip Lash",
+     "does": [
+      "Desbloqueia uma estatueta do personagem em pose exclusiva (precisa do amiibo do Chibi-Robo)"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Super Mario Maker",
+     "does": [
+      "Desbloqueia uma roupa de Cogumelo Misterioso do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Yoshi's Woolly World",
+     "does": [
+      "Desbloqueia uma estampa de lã do Yoshi com o personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Splatoon",
+     "does": [
+      "Acessa fases de desafio; vencendo, desbloqueia equipamentos exclusivos e minigames"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Style Savvy: Fashion Forward",
+     "does": [
+      "Desbloqueia um acessório com tema do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch 2",
+     "title": "Splatoon Raiders",
+     "does": [
+      "Ganha uma roupa exclusiva de amiibo"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch 2",
+     "title": "Animal Crossing: New Horizons – Nintendo Switch 2 Edition",
+     "does": [
+      "Convida a moradora exclusiva de amiibo Viché",
+      "Desbloqueia itens de Splatoon no catálogo da loja"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Animal Crossing: New Horizons",
+     "does": [
+      "Convida a moradora exclusiva de amiibo Viché",
+      "Desbloqueia itens de Splatoon no catálogo da loja"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Smash Bros. Ultimate",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "Switch",
+     "title": "Mario Kart 8 Deluxe",
+     "does": [
+      "Desbloqueia um macacão de corrida de Splatoon"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Kirby: Planet Robobot",
+     "does": [
+      "Dá ao Kirby uma habilidade de cópia baseada no personagem e um item de vida"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Animal Crossing: New Leaf",
+     "does": [
+      "Convida o morador exclusivo Inkwell para o acampamento: ele visita, dá um item ou se muda para a sua cidade"
+     ],
+     "saves": false
+    }
+   ],
+   "series": [
+    {
+     "platform": "3DS",
+     "title": "Style Savvy: Styling Star",
+     "does": [
+      "Desbloqueia uma estampa de Splatoon"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Conga Master Party!",
+     "does": [
+      "Desbloqueia uma roupa especial"
+     ],
+     "saves": false
+    }
+   ]
+  }
+ },
+ "inkling-boy": {
+  "url": "https://amiibo.life/amiibo/splatoon/inkling-boy-purple",
+  "as": {
+   "figure": [
+    {
+     "platform": "Switch",
+     "title": "Splatoon 3",
+     "does": [
+      "Desbloqueia equipamentos exclusivos",
+      "Salva armas, equipamentos e controles favoritos",
+      "Tira fotos com o personagem ou o equipamento salvo"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "3DS",
+     "title": "WarioWare Gold",
+     "does": [
+      "Ganha um desenho do personagem feito pelo Wario, que pode ser trocado por moedas"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Splatoon 2",
+     "does": [
+      "Desbloqueia equipamentos exclusivos",
+      "Salva armas, equipamentos e controles favoritos",
+      "Tira fotos com o personagem ou o equipamento salvo"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "3DS",
+     "title": "Hey! Pikmin",
+     "does": [
+      "O boneco aparece no jogo e pode ser coletado para ganhar pontos de energia"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Poochy & Yoshi's Woolly World",
+     "does": [
+      "Desbloqueia uma estampa de lã do Yoshi com o personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Splatoon",
+     "does": [
+      "Acessa fases de desafio; vencendo, desbloqueia equipamentos exclusivos e minigames"
+     ],
+     "saves": false
+    }
+   ],
+   "character": [
+    {
+     "platform": "Switch",
+     "title": "Miitopia",
+     "does": [
+      "Desbloqueia uma roupa do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Smash Bros. Ultimate",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "3DS",
+     "title": "Miitopia",
+     "does": [
+      "Desbloqueia uma roupa do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Chibi-Robo! Zip Lash",
+     "does": [
+      "Desbloqueia uma estatueta do personagem em pose exclusiva (precisa do amiibo do Chibi-Robo)"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Super Mario Maker",
+     "does": [
+      "Desbloqueia uma roupa de Cogumelo Misterioso do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Yoshi's Woolly World",
+     "does": [
+      "Desbloqueia uma estampa de lã do Yoshi com o personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch 2",
+     "title": "Splatoon Raiders",
+     "does": [
+      "Ganha uma roupa exclusiva de amiibo"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch 2",
+     "title": "Animal Crossing: New Horizons – Nintendo Switch 2 Edition",
+     "does": [
+      "Convida a moradora exclusiva de amiibo Viché",
+      "Desbloqueia itens de Splatoon no catálogo da loja"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Animal Crossing: New Horizons",
+     "does": [
+      "Convida a moradora exclusiva de amiibo Viché",
+      "Desbloqueia itens de Splatoon no catálogo da loja"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Mario Kart 8 Deluxe",
+     "does": [
+      "Desbloqueia um macacão de corrida de Splatoon"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Kirby: Planet Robobot",
+     "does": [
+      "Dá ao Kirby uma habilidade de cópia baseada no personagem e um item de vida"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Animal Crossing: New Leaf",
+     "does": [
+      "Convida o morador exclusivo Inkwell para o acampamento: ele visita, dá um item ou se muda para a sua cidade"
+     ],
+     "saves": false
+    }
+   ],
+   "series": [
+    {
+     "platform": "3DS",
+     "title": "Style Savvy: Styling Star",
+     "does": [
+      "Desbloqueia uma estampa de Splatoon"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Conga Master Party!",
+     "does": [
+      "Desbloqueia uma roupa especial"
+     ],
+     "saves": false
+    }
+   ]
+  }
+ },
+ "marina": {
+  "url": "https://amiibo.life/amiibo/splatoon/marina",
+  "as": {
+   "figure": [
+    {
+     "platform": "Switch",
+     "title": "Super Smash Bros. Ultimate",
+     "does": [
+      "Ganha o Spirit do personagem"
+     ],
+     "saves": false
+    }
+   ],
+   "character": [
+    {
+     "platform": "Switch 2",
+     "title": "Animal Crossing: New Horizons – Nintendo Switch 2 Edition",
+     "does": [
+      "Convida a moradora exclusiva de amiibo Cece",
+      "Desbloqueia itens de Splatoon no catálogo da loja"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Splatoon 3",
+     "does": [
+      "Desbloqueia equipamentos exclusivos",
+      "Salva armas, equipamentos e controles favoritos",
+      "Tira fotos com o personagem ou o equipamento salvo",
+      "Revisita o Grand Festival Grounds para ver shows de Splatfests passados"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "Switch",
+     "title": "Animal Crossing: New Horizons",
+     "does": [
+      "Convida a moradora exclusiva de amiibo Cece",
+      "Desbloqueia itens de Splatoon no catálogo da loja"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "WarioWare Gold",
+     "does": [
+      "Ganha um desenho do personagem feito pelo Wario, que pode ser trocado por moedas"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Splatoon 2",
+     "does": [
+      "Desbloqueia equipamentos exclusivos",
+      "Salva armas, equipamentos e controles favoritos",
+      "Tira fotos com o personagem ou o equipamento salvo"
+     ],
+     "saves": true
+    }
+   ],
+   "series": [
+    {
+     "platform": "Switch 2",
+     "title": "Splatoon Raiders",
+     "does": [
+      "Ganha uma roupa exclusiva de amiibo"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Style Savvy: Styling Star",
+     "does": [
+      "Desbloqueia uma estampa de Splatoon"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Conga Master Party!",
+     "does": [
+      "Desbloqueia uma roupa especial"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Mario Kart 8 Deluxe",
+     "does": [
+      "Desbloqueia um macacão de corrida de Splatoon"
+     ],
+     "saves": false
+    }
+   ]
+  }
+ },
+ "marina-side-order": {
+  "url": "https://amiibo.life/amiibo/splatoon/marina-side-order",
+  "as": {
+   "figure": [
+    {
+     "platform": "Switch",
+     "title": "Splatoon 3",
+     "does": [
+      "Desbloqueia equipamentos exclusivos",
+      "Salva armas, equipamentos e controles favoritos",
+      "Tira fotos com o personagem ou o equipamento salvo"
+     ],
+     "saves": true
+    }
+   ],
+   "character": [
+    {
+     "platform": "Switch 2",
+     "title": "Animal Crossing: New Horizons – Nintendo Switch 2 Edition",
+     "does": [
+      "Convida a moradora exclusiva de amiibo Cece",
+      "Desbloqueia itens de Splatoon no catálogo da loja"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Splatoon 3",
+     "does": [
+      "Revisita o Grand Festival Grounds para ver shows de Splatfests passados"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Animal Crossing: New Horizons",
+     "does": [
+      "Convida a moradora exclusiva de amiibo Cece",
+      "Desbloqueia itens de Splatoon no catálogo da loja"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "WarioWare Gold",
+     "does": [
+      "Ganha um desenho do personagem feito pelo Wario, que pode ser trocado por moedas"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Splatoon 2",
+     "does": [
+      "Desbloqueia equipamentos exclusivos",
+      "Salva armas, equipamentos e controles favoritos",
+      "Tira fotos com o personagem ou o equipamento salvo"
+     ],
+     "saves": true
+    }
+   ],
+   "series": [
+    {
+     "platform": "Switch 2",
+     "title": "Splatoon Raiders",
+     "does": [
+      "Ganha uma roupa exclusiva de amiibo"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Style Savvy: Styling Star",
+     "does": [
+      "Desbloqueia uma estampa de Splatoon"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Conga Master Party!",
+     "does": [
+      "Desbloqueia uma roupa especial"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Mario Kart 8 Deluxe",
+     "does": [
+      "Desbloqueia um macacão de corrida de Splatoon"
+     ],
+     "saves": false
+    }
+   ]
+  }
+ },
+ "magnamalo": {
+  "url": "https://amiibo.life/amiibo/monster-hunter-rise/magnamalo",
+  "as": {
+   "figure": [],
+   "character": [
+    {
+     "platform": "Switch",
+     "title": "Monster Hunter Stories 2: Wings of Ruin",
+     "does": [
+      "Desbloqueia o conjunto de figurinhas Hunter",
+      "Tsukino lê sua sorte e você ganha um item aleatório"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Monster Hunter Rise",
+     "does": [
+      "Desbloqueia uma armadura de camada especial",
+      "Participa de um sorteio diário de itens úteis"
+     ],
+     "saves": false
+    }
+   ],
+   "series": []
+  }
+ },
+ "ratha": {
+  "url": "https://amiibo.life/amiibo/monster-hunter-stories/ratha",
+  "as": {
+   "figure": [
+    {
+     "platform": "Switch 2",
+     "title": "Monster Hunter Stories 3: Twisted Reflection",
+     "does": [
+      "Ganha uma armadura de camada exclusiva do amiibo ou uma roupa para o Rudy"
+     ],
+     "saves": false
+    }
+   ],
+   "character": [],
+   "series": [
+    {
+     "platform": "Switch",
+     "title": "Monster Hunter Rise",
+     "does": [
+      "Desbloqueia o conjunto de figurinhas de Monster Hunter Stories 2"
+     ],
+     "saves": false
+    }
+   ]
+  }
+ },
+ "ena": {
+  "url": "https://amiibo.life/amiibo/monster-hunter-stories/ena",
+  "as": {
+   "figure": [],
+   "character": [
+    {
+     "platform": "Switch",
+     "title": "Monster Hunter Stories",
+     "does": [
+      "Ganha uma roupa do personagem para o Navirou"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Monster Hunter Stories 2: Wings of Ruin",
+     "does": [
+      "Desbloqueia um conjunto de armadura de camada especial do personagem",
+      "Tsukino lê sua sorte e você ganha um item aleatório"
+     ],
+     "saves": false
+    }
+   ],
+   "series": [
+    {
+     "platform": "Switch",
+     "title": "Monster Hunter Rise",
+     "does": [
+      "Desbloqueia o conjunto de figurinhas de Monster Hunter Stories 2"
+     ],
+     "saves": false
+    }
+   ]
+  }
+ },
+ "ryu": {
+  "url": "https://amiibo.life/amiibo/super-smash-bros/ryu",
+  "as": {
+   "figure": [],
+   "character": [
+    {
+     "platform": "Switch 2",
+     "title": "Street Fighter 6",
+     "does": [
+      "Salva e carrega roupa, cores e configuração de botões",
+      "Lê o amiibo de outro jogador para adicionar ou seguir"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Smash Bros. Ultimate",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "Switch",
+     "title": "Resident Evil Revelations",
+     "does": [
+      "Ganha muitos BP",
+      "Ganha suprimentos melhores que os de outros amiibos"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Resident Evil Revelations 2",
+     "does": [
+      "Ganha muitos BP",
+      "Ganha suprimentos melhores que os de outros amiibos"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Poochy & Yoshi's Woolly World",
+     "does": [
+      "Desbloqueia uma estampa de lã do Yoshi com o personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Super Smash Bros. for Wii U",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "3DS",
+     "title": "Super Smash Bros. for Nintendo 3DS",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    }
+   ],
+   "series": []
+  }
+ },
+ "ken": {
+  "url": "https://amiibo.life/amiibo/super-smash-bros/ken",
+  "as": {
+   "figure": [],
+   "character": [
+    {
+     "platform": "Switch 2",
+     "title": "Street Fighter 6",
+     "does": [
+      "Salva e carrega roupa, cores e configuração de botões",
+      "Lê o amiibo de outro jogador para adicionar ou seguir"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Smash Bros. Ultimate",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    }
+   ],
+   "series": []
+  }
+ },
+ "kimberly": {
+  "url": "https://amiibo.life/amiibo/street-fighter/kimberly",
+  "as": {
+   "figure": [],
+   "character": [],
+   "series": [
+    {
+     "platform": "Switch 2",
+     "title": "Street Fighter 6",
+     "does": [
+      "Salva e carrega roupa, cores e configuração de botões",
+      "Lê o amiibo de outro jogador para adicionar ou seguir"
+     ],
+     "saves": true
+    }
+   ]
+  }
+ },
+ "mega-man": {
+  "url": "https://amiibo.life/amiibo/mega-man/mega-man-mega-man-dual-override",
+  "as": {
+   "figure": [
+    {
+     "platform": "Switch",
+     "title": "Mega Man: Dual Override",
+     "does": [
+      "Função ainda não anunciada"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch 2",
+     "title": "Mega Man: Dual Override",
+     "does": [
+      "Função ainda não anunciada"
+     ],
+     "saves": false
+    }
+   ],
+   "character": [
+    {
+     "platform": "Switch",
+     "title": "Super Smash Bros. Ultimate",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "Switch",
+     "title": "Mega Man 11",
+     "does": [
+      "Ganha E Tanks e outros itens úteis"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Mega Man Legacy Collection",
+     "does": [
+      "Desbloqueia 11 fases de desafio exclusivas criadas por fãs"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Mega Man Legacy Collection 2",
+     "does": [
+      "Desbloqueia novos desafios de plataforma"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Resident Evil Revelations",
+     "does": [
+      "Ganha muitos BP",
+      "Ganha suprimentos melhores que os de outros amiibos"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Resident Evil Revelations 2",
+     "does": [
+      "Ganha muitos BP",
+      "Ganha suprimentos melhores que os de outros amiibos"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Mario Kart 8 Deluxe",
+     "does": [
+      "Desbloqueia um macacão de corrida do personagem para o Mii"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Poochy & Yoshi's Woolly World",
+     "does": [
+      "Desbloqueia uma estampa de lã do Yoshi com o personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Mega Man Legacy Collection",
+     "does": [
+      "Desbloqueia 11 fases de desafio exclusivas criadas por fãs"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Super Mario Maker",
+     "does": [
+      "Desbloqueia uma roupa de Cogumelo Misterioso do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Yoshi's Woolly World",
+     "does": [
+      "Desbloqueia uma estampa de lã do Yoshi com o personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Super Smash Bros. for Wii U",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "3DS",
+     "title": "Super Smash Bros. for Nintendo 3DS",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "Wii U",
+     "title": "Mario Kart 8",
+     "does": [
+      "Desbloqueia um macacão de corrida do personagem para o Mii"
+     ],
+     "saves": false
+    }
+   ],
+   "series": []
+  }
+ },
+ "proto-man": {
+  "url": "https://amiibo.life/amiibo/mega-man/proto-man",
+  "as": {
+   "figure": [
+    {
+     "platform": "Switch",
+     "title": "Mega Man: Dual Override",
+     "does": [
+      "Função ainda não anunciada"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch 2",
+     "title": "Mega Man: Dual Override",
+     "does": [
+      "Função ainda não anunciada"
+     ],
+     "saves": false
+    }
+   ],
+   "character": [],
+   "series": []
+  }
+ },
+ "daisy": {
+  "url": "https://amiibo.life/amiibo/super-mario/daisy",
+  "as": {
+   "figure": [
+    {
+     "platform": "3DS",
+     "title": "Hey! Pikmin",
+     "does": [
+      "O boneco aparece no jogo e pode ser coletado para ganhar pontos de energia"
+     ],
+     "saves": false
+    }
+   ],
+   "character": [
+    {
+     "platform": "Switch 2",
+     "title": "Super Mario Bros. Wonder – Nintendo Switch 2 Edition + Meetup in Bellabel Park",
+     "does": [
+      "Muda a decoração do Bellabel Park para o tema do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch 2",
+     "title": "Mario Tennis Fever",
+     "does": [
+      "Usa uma bola de tênis com o visual do personagem (só estético)"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Mario Galaxy",
+     "does": [
+      "Ganha um item útil que depende do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Mario Galaxy 2",
+     "does": [
+      "Ganha um item útil que depende do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Miitopia",
+     "does": [
+      "Desbloqueia uma roupa do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Mario 3D World + Bowser's Fury",
+     "does": [
+      "Ganha um power-up específico que depende do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Smash Bros. Ultimate",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Mario Party",
+     "does": [
+      "Desbloqueia a figurinha brilhante do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "WarioWare Gold",
+     "does": [
+      "Ganha um desenho do personagem feito pelo Wario, que pode ser trocado por moedas"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Bayonetta 2",
+     "does": [
+      "Desbloqueia uma roupa do personagem (versão de cabelo curto)"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Mario Party: The Top 100",
+     "does": [
+      "Ilha dos Minigames: ao cair numa casa de amiibo, use para ganhar moedas",
+      "Use para reviver o seu personagem uma vez"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Mario Kart 8 Deluxe",
+     "does": [
+      "Desbloqueia um macacão de corrida do personagem para o Mii"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Poochy & Yoshi's Woolly World",
+     "does": [
+      "Desbloqueia uma estampa de lã do Yoshi com o personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Miitopia",
+     "does": [
+      "Desbloqueia uma roupa do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Mario Party: Star Rush",
+     "does": [
+      "Joga como o personagem ou ganha um bônus dele, conforme o modo"
+     ],
+     "saves": false
+    }
+   ],
+   "series": [
+    {
+     "platform": "Switch 2",
+     "title": "Super Mario Bros. Wonder – Nintendo Switch 2 Edition + Meetup in Bellabel Park",
+     "does": [
+      "Ganha um power-up específico que depende do amiibo"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Mario Bros. Wonder",
+     "does": [
+      "Ganha um power-up específico que depende do amiibo"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Conga Master Party!",
+     "does": [
+      "Desbloqueia uma roupa especial"
+     ],
+     "saves": false
+    }
+   ]
+  }
+ },
+ "daisy-smash": {
+  "url": "https://amiibo.life/amiibo/super-smash-bros/daisy",
+  "as": {
+   "figure": [],
+   "character": [
+    {
+     "platform": "Switch 2",
+     "title": "Super Mario Bros. Wonder – Nintendo Switch 2 Edition + Meetup in Bellabel Park",
+     "does": [
+      "Muda a decoração do Bellabel Park para o tema do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch 2",
+     "title": "Mario Tennis Fever",
+     "does": [
+      "Usa uma bola de tênis com o visual do personagem (só estético)"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Mario Galaxy",
+     "does": [
+      "Ganha um item útil que depende do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Mario Galaxy 2",
+     "does": [
+      "Ganha um item útil que depende do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Miitopia",
+     "does": [
+      "Desbloqueia uma roupa do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Mario 3D World + Bowser's Fury",
+     "does": [
+      "Ganha um power-up específico que depende do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Smash Bros. Ultimate",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Mario Party",
+     "does": [
+      "Desbloqueia a figurinha brilhante do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "WarioWare Gold",
+     "does": [
+      "Ganha um desenho do personagem feito pelo Wario, que pode ser trocado por moedas"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Bayonetta 2",
+     "does": [
+      "Desbloqueia uma roupa do personagem (versão de cabelo curto)"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Mario Party: The Top 100",
+     "does": [
+      "Ilha dos Minigames: ao cair numa casa de amiibo, use para ganhar moedas",
+      "Use para reviver o seu personagem uma vez"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Mario Kart 8 Deluxe",
+     "does": [
+      "Desbloqueia um macacão de corrida do personagem para o Mii"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Poochy & Yoshi's Woolly World",
+     "does": [
+      "Desbloqueia uma estampa de lã do Yoshi com o personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Miitopia",
+     "does": [
+      "Desbloqueia uma roupa do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Mario Party: Star Rush",
+     "does": [
+      "Joga como o personagem ou ganha um bônus dele, conforme o modo"
+     ],
+     "saves": false
+    }
+   ],
+   "series": []
+  }
+ },
+ "rosalina": {
+  "url": "https://amiibo.life/amiibo/super-mario/rosalina",
+  "as": {
+   "figure": [
+    {
+     "platform": "3DS",
+     "title": "Hey! Pikmin",
+     "does": [
+      "O boneco aparece no jogo e pode ser coletado para ganhar pontos de energia"
+     ],
+     "saves": false
+    }
+   ],
+   "character": [
+    {
+     "platform": "Switch 2",
+     "title": "Super Mario Bros. Wonder – Nintendo Switch 2 Edition + Meetup in Bellabel Park",
+     "does": [
+      "Muda a decoração do Bellabel Park para o tema do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch 2",
+     "title": "Mario Tennis Fever",
+     "does": [
+      "Usa uma bola de tênis com o visual do personagem (só estético)"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Mario Galaxy",
+     "does": [
+      "Ganha um item útil que depende do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Mario Galaxy 2",
+     "does": [
+      "Ganha um item útil que depende do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Miitopia",
+     "does": [
+      "Desbloqueia uma roupa do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Mario 3D World + Bowser's Fury",
+     "does": [
+      "Ganha um power-up específico que depende do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Smash Bros. Ultimate",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Mario Party",
+     "does": [
+      "Desbloqueia a figurinha brilhante do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "WarioWare Gold",
+     "does": [
+      "Ganha um desenho do personagem feito pelo Wario, que pode ser trocado por moedas"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Mario Party: The Top 100",
+     "does": [
+      "Ilha dos Minigames: ao cair numa casa de amiibo, use para ganhar moedas",
+      "Use para reviver o seu personagem uma vez"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Mario Kart 8 Deluxe",
+     "does": [
+      "Desbloqueia um macacão de corrida do personagem para o Mii"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Poochy & Yoshi's Woolly World",
+     "does": [
+      "Desbloqueia uma estampa de lã do Yoshi com o personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Miitopia",
+     "does": [
+      "Desbloqueia uma roupa do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Mario Party: Star Rush",
+     "does": [
+      "Joga como o personagem ou ganha um bônus dele, conforme o modo"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Metroid Prime: Federation Force",
+     "does": [
+      "Desbloqueia uma pintura de armadura do personagem para o Blast Ball"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Metroid Prime: Blast Ball",
+     "does": [
+      "Desbloqueia uma pintura de armadura do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Kirby: Planet Robobot",
+     "does": [
+      "Dá ao Kirby uma habilidade de cópia baseada no personagem e um item de vida"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Mini Mario & Friends amiibo Challenge",
+     "does": [
+      "Joga fases com uma versão Mini do personagem, com habilidade especial própria, e desbloqueia fases dele"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Mini Mario & Friends amiibo Challenge",
+     "does": [
+      "Joga fases com uma versão Mini do personagem, com habilidade especial própria, e desbloqueia fases dele"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Mario Tennis: Ultra Smash",
+     "does": [
+      "Joga junto e treina um personagem controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "3DS",
+     "title": "Chibi-Robo! Zip Lash",
+     "does": [
+      "Desbloqueia uma estatueta do personagem em pose exclusiva (precisa do amiibo do Chibi-Robo)"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Super Mario Maker",
+     "does": [
+      "Desbloqueia uma roupa de Cogumelo Misterioso do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Yoshi's Woolly World",
+     "does": [
+      "Desbloqueia uma estampa de lã do Yoshi com o personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Style Savvy: Fashion Forward",
+     "does": [
+      "Desbloqueia um acessório com tema do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Mario Party 10",
+     "does": [
+      "Usa como peça no amiibo Party",
+      "Personaliza o tabuleiro do amiibo Party"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "Wii U",
+     "title": "Super Smash Bros. for Wii U",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "3DS",
+     "title": "Super Smash Bros. for Nintendo 3DS",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "Wii U",
+     "title": "Mario Kart 8",
+     "does": [
+      "Desbloqueia um macacão de corrida do personagem para o Mii"
+     ],
+     "saves": false
+    }
+   ],
+   "series": [
+    {
+     "platform": "Switch 2",
+     "title": "Super Mario Bros. Wonder – Nintendo Switch 2 Edition + Meetup in Bellabel Park",
+     "does": [
+      "Ganha um power-up específico que depende do amiibo"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Mario Bros. Wonder",
+     "does": [
+      "Ganha um power-up específico que depende do amiibo"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Conga Master Party!",
+     "does": [
+      "Desbloqueia uma roupa especial"
+     ],
+     "saves": false
+    }
+   ]
+  }
+ },
+ "rosalina-lumas": {
+  "url": "https://amiibo.life/amiibo/super-mario/rosalina-and-lumas",
+  "as": {
+   "figure": [],
+   "character": [
+    {
+     "platform": "Switch 2",
+     "title": "Super Mario Bros. Wonder – Nintendo Switch 2 Edition + Meetup in Bellabel Park",
+     "does": [
+      "Muda a decoração do Bellabel Park para o tema do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "WarioWare Gold",
+     "does": [
+      "Ganha um desenho do personagem feito pelo Wario, que pode ser trocado por moedas"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch 2",
+     "title": "Mario Tennis Fever",
+     "does": [
+      "Usa uma bola de tênis com o visual do personagem (só estético)"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Mario Galaxy",
+     "does": [
+      "Ganha um item útil que depende do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Mario Galaxy 2",
+     "does": [
+      "Ganha um item útil que depende do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Miitopia",
+     "does": [
+      "Desbloqueia uma roupa do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Mario 3D World + Bowser's Fury",
+     "does": [
+      "Ganha um power-up específico que depende do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Smash Bros. Ultimate",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Mario Party",
+     "does": [
+      "Desbloqueia a figurinha brilhante do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Mario Party: The Top 100",
+     "does": [
+      "Ilha dos Minigames: ao cair numa casa de amiibo, use para ganhar moedas",
+      "Use para reviver o seu personagem uma vez"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Mario Kart 8 Deluxe",
+     "does": [
+      "Desbloqueia um macacão de corrida do personagem para o Mii"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Poochy & Yoshi's Woolly World",
+     "does": [
+      "Desbloqueia uma estampa de lã do Yoshi com o personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Miitopia",
+     "does": [
+      "Desbloqueia uma roupa do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Mario Party: Star Rush",
+     "does": [
+      "Joga como o personagem ou ganha um bônus dele, conforme o modo"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Metroid Prime: Federation Force",
+     "does": [
+      "Desbloqueia uma pintura de armadura do personagem para o Blast Ball"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Metroid Prime: Blast Ball",
+     "does": [
+      "Desbloqueia uma pintura de armadura do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Kirby: Planet Robobot",
+     "does": [
+      "Dá ao Kirby uma habilidade de cópia baseada no personagem e um item de vida"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Mini Mario & Friends amiibo Challenge",
+     "does": [
+      "Joga fases com uma versão Mini do personagem, com habilidade especial própria, e desbloqueia fases dele"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Mini Mario & Friends amiibo Challenge",
+     "does": [
+      "Joga fases com uma versão Mini do personagem, com habilidade especial própria, e desbloqueia fases dele"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Mario Tennis: Ultra Smash",
+     "does": [
+      "Joga junto e treina um personagem controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "3DS",
+     "title": "Chibi-Robo! Zip Lash",
+     "does": [
+      "Desbloqueia uma estatueta do personagem em pose exclusiva (precisa do amiibo do Chibi-Robo)"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Super Mario Maker",
+     "does": [
+      "Desbloqueia uma roupa de Cogumelo Misterioso do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Yoshi's Woolly World",
+     "does": [
+      "Desbloqueia uma estampa de lã do Yoshi com o personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Style Savvy: Fashion Forward",
+     "does": [
+      "Desbloqueia um acessório com tema do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Mario Party 10",
+     "does": [
+      "Usa como peça no amiibo Party",
+      "Personaliza o tabuleiro do amiibo Party"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "Wii U",
+     "title": "Super Smash Bros. for Wii U",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "3DS",
+     "title": "Super Smash Bros. for Nintendo 3DS",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "Wii U",
+     "title": "Mario Kart 8",
+     "does": [
+      "Desbloqueia um macacão de corrida do personagem para o Mii"
+     ],
+     "saves": false
+    }
+   ],
+   "series": [
+    {
+     "platform": "Switch 2",
+     "title": "Super Mario Bros. Wonder – Nintendo Switch 2 Edition + Meetup in Bellabel Park",
+     "does": [
+      "Ganha um power-up específico que depende do amiibo"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Mario Bros. Wonder",
+     "does": [
+      "Ganha um power-up específico que depende do amiibo"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Conga Master Party!",
+     "does": [
+      "Desbloqueia uma roupa especial"
+     ],
+     "saves": false
+    }
+   ]
+  }
+ },
+ "rosalina-smash": {
+  "url": "https://amiibo.life/amiibo/super-smash-bros/rosalina",
+  "as": {
+   "figure": [],
+   "character": [
+    {
+     "platform": "Switch 2",
+     "title": "Super Mario Bros. Wonder – Nintendo Switch 2 Edition + Meetup in Bellabel Park",
+     "does": [
+      "Muda a decoração do Bellabel Park para o tema do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "WarioWare Gold",
+     "does": [
+      "Ganha um desenho do personagem feito pelo Wario, que pode ser trocado por moedas"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch 2",
+     "title": "Mario Tennis Fever",
+     "does": [
+      "Usa uma bola de tênis com o visual do personagem (só estético)"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Mario Galaxy",
+     "does": [
+      "Ganha um item útil que depende do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Mario Galaxy 2",
+     "does": [
+      "Ganha um item útil que depende do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Miitopia",
+     "does": [
+      "Desbloqueia uma roupa do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Mario 3D World + Bowser's Fury",
+     "does": [
+      "Ganha um power-up específico que depende do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Smash Bros. Ultimate",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Mario Party",
+     "does": [
+      "Desbloqueia a figurinha brilhante do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Mario Party: The Top 100",
+     "does": [
+      "Ilha dos Minigames: ao cair numa casa de amiibo, use para ganhar moedas",
+      "Use para reviver o seu personagem uma vez"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Mario Kart 8 Deluxe",
+     "does": [
+      "Desbloqueia um macacão de corrida do personagem para o Mii"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Poochy & Yoshi's Woolly World",
+     "does": [
+      "Desbloqueia uma estampa de lã do Yoshi com o personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Miitopia",
+     "does": [
+      "Desbloqueia uma roupa do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Mario Party: Star Rush",
+     "does": [
+      "Joga como o personagem ou ganha um bônus dele, conforme o modo"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Metroid Prime: Federation Force",
+     "does": [
+      "Desbloqueia uma pintura de armadura do personagem para o Blast Ball"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Metroid Prime: Blast Ball",
+     "does": [
+      "Desbloqueia uma pintura de armadura do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Kirby: Planet Robobot",
+     "does": [
+      "Dá ao Kirby uma habilidade de cópia baseada no personagem e um item de vida"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Mini Mario & Friends amiibo Challenge",
+     "does": [
+      "Joga fases com uma versão Mini do personagem, com habilidade especial própria, e desbloqueia fases dele"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Mini Mario & Friends amiibo Challenge",
+     "does": [
+      "Joga fases com uma versão Mini do personagem, com habilidade especial própria, e desbloqueia fases dele"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Mario Tennis: Ultra Smash",
+     "does": [
+      "Joga junto e treina um personagem controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "3DS",
+     "title": "Chibi-Robo! Zip Lash",
+     "does": [
+      "Desbloqueia uma estatueta do personagem em pose exclusiva (precisa do amiibo do Chibi-Robo)"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Super Mario Maker",
+     "does": [
+      "Desbloqueia uma roupa de Cogumelo Misterioso do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Yoshi's Woolly World",
+     "does": [
+      "Desbloqueia uma estampa de lã do Yoshi com o personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Style Savvy: Fashion Forward",
+     "does": [
+      "Desbloqueia um acessório com tema do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Mario Party 10",
+     "does": [
+      "Usa como peça no amiibo Party",
+      "Personaliza o tabuleiro do amiibo Party"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "Wii U",
+     "title": "Super Smash Bros. for Wii U",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "3DS",
+     "title": "Super Smash Bros. for Nintendo 3DS",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "Wii U",
+     "title": "Mario Kart 8",
+     "does": [
+      "Desbloqueia um macacão de corrida do personagem para o Mii"
+     ],
+     "saves": false
+    }
+   ],
+   "series": []
+  }
+ },
+ "palutena": {
+  "url": "https://amiibo.life/amiibo/super-smash-bros/palutena",
+  "as": {
+   "figure": [],
+   "character": [
+    {
+     "platform": "Switch",
+     "title": "Super Smash Bros. Ultimate",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "3DS",
+     "title": "WarioWare Gold",
+     "does": [
+      "Ganha um desenho do personagem feito pelo Wario, que pode ser trocado por moedas"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Poochy & Yoshi's Woolly World",
+     "does": [
+      "Desbloqueia uma estampa de lã do Yoshi com o personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Kirby: Planet Robobot",
+     "does": [
+      "Dá ao Kirby uma habilidade de cópia baseada no personagem e um item de vida"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Chibi-Robo! Zip Lash",
+     "does": [
+      "Desbloqueia uma estatueta do personagem em pose exclusiva (precisa do amiibo do Chibi-Robo)"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Super Mario Maker",
+     "does": [
+      "Desbloqueia uma roupa de Cogumelo Misterioso do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Yoshi's Woolly World",
+     "does": [
+      "Desbloqueia uma estampa de lã do Yoshi com o personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Style Savvy: Fashion Forward",
+     "does": [
+      "Desbloqueia um acessório com tema do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Super Smash Bros. for Wii U",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "3DS",
+     "title": "Super Smash Bros. for Nintendo 3DS",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    }
+   ],
+   "series": []
+  }
+ },
+ "bayonetta-p2": {
+  "url": "https://amiibo.life/amiibo/super-smash-bros/bayonetta-player-2",
+  "as": {
+   "figure": [
+    {
+     "platform": "Switch",
+     "title": "Bayonetta 2",
+     "does": [
+      "Desbloqueia o Super Mirror e o Super Mirror 64, com todas as roupas deles"
+     ],
+     "saves": false
+    }
+   ],
+   "character": [
+    {
+     "platform": "Switch",
+     "title": "Super Smash Bros. Ultimate",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "Wii U",
+     "title": "Super Smash Bros. for Wii U",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "3DS",
+     "title": "Super Smash Bros. for Nintendo 3DS",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    }
+   ],
+   "series": []
+  }
+ },
+ "samus-returns": {
+  "url": "https://amiibo.life/amiibo/metroid/samus-aran-metroid-samus-returns",
+  "as": {
+   "figure": [
+    {
+     "platform": "Switch",
+     "title": "Metroid Prime 4: Beyond",
+     "does": [
+      "Toca uma musiquinha"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch 2",
+     "title": "Metroid Prime 4: Beyond – Nintendo Switch 2 Edition",
+     "does": [
+      "Toca uma musiquinha"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Metroid Dread",
+     "does": [
+      "Recupera uma quantidade aleatória de vida, uma vez por dia"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Metroid: Samus Returns",
+     "does": [
+      "Ganha itens úteis que dependem do amiibo",
+      "Depois de zerar: desbloqueia um bônus ou recurso que depende do amiibo"
+     ],
+     "saves": false
+    }
+   ],
+   "character": [
+    {
+     "platform": "Switch",
+     "title": "Miitopia",
+     "does": [
+      "Desbloqueia uma roupa do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Smash Bros. Ultimate",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "3DS",
+     "title": "WarioWare Gold",
+     "does": [
+      "Ganha um desenho do personagem feito pelo Wario, que pode ser trocado por moedas"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Bayonetta 2",
+     "does": [
+      "Desbloqueia uma roupa do personagem (versão de cabelo curto)"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Mario Kart 8 Deluxe",
+     "does": [
+      "Desbloqueia um macacão de corrida de Metroid para o Mii"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Poochy & Yoshi's Woolly World",
+     "does": [
+      "Desbloqueia uma estampa de lã do Yoshi com o personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Miitopia",
+     "does": [
+      "Desbloqueia uma roupa do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Metroid Prime: Federation Force",
+     "does": [
+      "Desbloqueia uma pintura de armadura do personagem para o Blast Ball",
+      "Desbloqueia uma pintura de armadura com munição extra para as missões da campanha"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Metroid Prime: Blast Ball",
+     "does": [
+      "Desbloqueia uma pintura de armadura do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Kirby: Planet Robobot",
+     "does": [
+      "Dá ao Kirby uma habilidade de cópia baseada no personagem e um item de vida"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Chibi-Robo! Zip Lash",
+     "does": [
+      "Desbloqueia uma estatueta do personagem em pose exclusiva (precisa do amiibo do Chibi-Robo)"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Super Mario Maker",
+     "does": [
+      "Desbloqueia uma roupa de Cogumelo Misterioso do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Yoshi's Woolly World",
+     "does": [
+      "Desbloqueia uma estampa de lã do Yoshi com o personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Style Savvy: Fashion Forward",
+     "does": [
+      "Desbloqueia um acessório com tema do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Ace Combat Assault Horizon Legacy +",
+     "does": [
+      "Desbloqueia uma nave exclusiva com tema do personagem e uma peça de tunagem bônus"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Super Smash Bros. for Wii U",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "3DS",
+     "title": "One Piece: Super Grand Battle! X",
+     "does": [
+      "Desbloqueia uma roupa do personagem com habilidades especiais"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Super Smash Bros. for Nintendo 3DS",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "Wii U",
+     "title": "Mario Kart 8",
+     "does": [
+      "Desbloqueia um macacão de corrida do personagem para o Mii"
+     ],
+     "saves": false
+    }
+   ],
+   "series": [
+    {
+     "platform": "Switch",
+     "title": "Conga Master Party!",
+     "does": [
+      "Desbloqueia uma roupa especial"
+     ],
+     "saves": false
+    }
+   ]
+  }
+ },
+ "samus-metroid-suit": {
+  "url": "https://amiibo.life/amiibo/metroid/samus-metroid-suit",
+  "as": {
+   "figure": [],
+   "character": [
+    {
+     "platform": "Switch",
+     "title": "Miitopia",
+     "does": [
+      "Desbloqueia uma roupa do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Smash Bros. Ultimate",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "3DS",
+     "title": "WarioWare Gold",
+     "does": [
+      "Ganha um desenho do personagem feito pelo Wario, que pode ser trocado por moedas"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Bayonetta 2",
+     "does": [
+      "Desbloqueia uma roupa do personagem (versão de cabelo curto)"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Metroid: Samus Returns",
+     "does": [
+      "Ganha itens úteis que dependem do amiibo",
+      "Depois de zerar: desbloqueia um bônus ou recurso que depende do amiibo"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Mario Kart 8 Deluxe",
+     "does": [
+      "Desbloqueia um macacão de corrida de Metroid para o Mii"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Poochy & Yoshi's Woolly World",
+     "does": [
+      "Desbloqueia uma estampa de lã do Yoshi com o personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Miitopia",
+     "does": [
+      "Desbloqueia uma roupa do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Metroid Prime: Federation Force",
+     "does": [
+      "Desbloqueia uma pintura de armadura do personagem para o Blast Ball",
+      "Desbloqueia uma pintura de armadura com munição extra para as missões da campanha"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Metroid Prime: Blast Ball",
+     "does": [
+      "Desbloqueia uma pintura de armadura do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Kirby: Planet Robobot",
+     "does": [
+      "Dá ao Kirby uma habilidade de cópia baseada no personagem e um item de vida"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Chibi-Robo! Zip Lash",
+     "does": [
+      "Desbloqueia uma estatueta do personagem em pose exclusiva (precisa do amiibo do Chibi-Robo)"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Super Mario Maker",
+     "does": [
+      "Desbloqueia uma roupa de Cogumelo Misterioso do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Yoshi's Woolly World",
+     "does": [
+      "Desbloqueia uma estampa de lã do Yoshi com o personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Style Savvy: Fashion Forward",
+     "does": [
+      "Desbloqueia um acessório com tema do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Ace Combat Assault Horizon Legacy +",
+     "does": [
+      "Desbloqueia uma nave exclusiva com tema do personagem e uma peça de tunagem bônus"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Super Smash Bros. for Wii U",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "3DS",
+     "title": "One Piece: Super Grand Battle! X",
+     "does": [
+      "Desbloqueia uma roupa do personagem com habilidades especiais"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Super Smash Bros. for Nintendo 3DS",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "Wii U",
+     "title": "Mario Kart 8",
+     "does": [
+      "Desbloqueia um macacão de corrida do personagem para o Mii"
+     ],
+     "saves": false
+    }
+   ],
+   "series": [
+    {
+     "platform": "Switch",
+     "title": "Conga Master Party!",
+     "does": [
+      "Desbloqueia uma roupa especial"
+     ],
+     "saves": false
+    }
+   ]
+  }
+ },
+ "samus-prime-4": {
+  "url": "https://amiibo.life/amiibo/metroid/samus-metroid-prime-4",
+  "as": {
+   "figure": [
+    {
+     "platform": "Switch",
+     "title": "Metroid Prime 4: Beyond",
+     "does": [
+      "Troca a música de fundo enquanto pilota a Vi-O-La",
+      "Recupera a vida e aumenta a vida máxima em 99, uma vez por dia"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch 2",
+     "title": "Metroid Prime 4: Beyond – Nintendo Switch 2 Edition",
+     "does": [
+      "Troca a música de fundo enquanto pilota a Vi-O-La",
+      "Recupera a vida e aumenta a vida máxima em 99, uma vez por dia"
+     ],
+     "saves": false
+    }
+   ],
+   "character": [
+    {
+     "platform": "Switch",
+     "title": "Miitopia",
+     "does": [
+      "Desbloqueia uma roupa do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Smash Bros. Ultimate",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "3DS",
+     "title": "WarioWare Gold",
+     "does": [
+      "Ganha um desenho do personagem feito pelo Wario, que pode ser trocado por moedas"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Bayonetta 2",
+     "does": [
+      "Desbloqueia uma roupa do personagem (versão de cabelo curto)"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Metroid: Samus Returns",
+     "does": [
+      "Ganha itens úteis que dependem do amiibo",
+      "Depois de zerar: desbloqueia um bônus ou recurso que depende do amiibo"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Mario Kart 8 Deluxe",
+     "does": [
+      "Desbloqueia um macacão de corrida de Metroid para o Mii"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Poochy & Yoshi's Woolly World",
+     "does": [
+      "Desbloqueia uma estampa de lã do Yoshi com o personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Miitopia",
+     "does": [
+      "Desbloqueia uma roupa do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Metroid Prime: Federation Force",
+     "does": [
+      "Desbloqueia uma pintura de armadura do personagem para o Blast Ball",
+      "Desbloqueia uma pintura de armadura com munição extra para as missões da campanha"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Metroid Prime: Blast Ball",
+     "does": [
+      "Desbloqueia uma pintura de armadura do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Kirby: Planet Robobot",
+     "does": [
+      "Dá ao Kirby uma habilidade de cópia baseada no personagem e um item de vida"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Chibi-Robo! Zip Lash",
+     "does": [
+      "Desbloqueia uma estatueta do personagem em pose exclusiva (precisa do amiibo do Chibi-Robo)"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Super Mario Maker",
+     "does": [
+      "Desbloqueia uma roupa de Cogumelo Misterioso do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Yoshi's Woolly World",
+     "does": [
+      "Desbloqueia uma estampa de lã do Yoshi com o personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Style Savvy: Fashion Forward",
+     "does": [
+      "Desbloqueia um acessório com tema do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Ace Combat Assault Horizon Legacy +",
+     "does": [
+      "Desbloqueia uma nave exclusiva com tema do personagem e uma peça de tunagem bônus"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Super Smash Bros. for Wii U",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "3DS",
+     "title": "One Piece: Super Grand Battle! X",
+     "does": [
+      "Desbloqueia uma roupa do personagem com habilidades especiais"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Super Smash Bros. for Nintendo 3DS",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "Wii U",
+     "title": "Mario Kart 8",
+     "does": [
+      "Desbloqueia um macacão de corrida do personagem para o Mii"
+     ],
+     "saves": false
+    }
+   ],
+   "series": [
+    {
+     "platform": "Switch",
+     "title": "Conga Master Party!",
+     "does": [
+      "Desbloqueia uma roupa especial"
+     ],
+     "saves": false
+    }
+   ]
+  }
+ },
+ "samus-vi-o-la": {
+  "url": "https://amiibo.life/amiibo/metroid/samus-vi-o-la",
+  "as": {
+   "figure": [
+    {
+     "platform": "Switch",
+     "title": "Metroid Prime 4: Beyond",
+     "does": [
+      "Muda a cor da Vi-O-La",
+      "Melhora a recarga do turbo da Vi-O-La, uma vez por dia",
+      "Mostra a distância total percorrida com a Vi-O-La"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch 2",
+     "title": "Metroid Prime 4: Beyond – Nintendo Switch 2 Edition",
+     "does": [
+      "Muda a cor da Vi-O-La",
+      "Melhora a recarga do turbo da Vi-O-La, uma vez por dia",
+      "Mostra a distância total percorrida com a Vi-O-La"
+     ],
+     "saves": false
+    }
+   ],
+   "character": [
+    {
+     "platform": "Switch",
+     "title": "Miitopia",
+     "does": [
+      "Desbloqueia uma roupa do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Super Smash Bros. Ultimate",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "3DS",
+     "title": "WarioWare Gold",
+     "does": [
+      "Ganha um desenho do personagem feito pelo Wario, que pode ser trocado por moedas"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Bayonetta 2",
+     "does": [
+      "Desbloqueia uma roupa do personagem (versão de cabelo curto)"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Metroid: Samus Returns",
+     "does": [
+      "Ganha itens úteis que dependem do amiibo",
+      "Depois de zerar: desbloqueia um bônus ou recurso que depende do amiibo"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Switch",
+     "title": "Mario Kart 8 Deluxe",
+     "does": [
+      "Desbloqueia um macacão de corrida de Metroid para o Mii"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Poochy & Yoshi's Woolly World",
+     "does": [
+      "Desbloqueia uma estampa de lã do Yoshi com o personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Miitopia",
+     "does": [
+      "Desbloqueia uma roupa do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Metroid Prime: Federation Force",
+     "does": [
+      "Desbloqueia uma pintura de armadura do personagem para o Blast Ball",
+      "Desbloqueia uma pintura de armadura com munição extra para as missões da campanha"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Metroid Prime: Blast Ball",
+     "does": [
+      "Desbloqueia uma pintura de armadura do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Kirby: Planet Robobot",
+     "does": [
+      "Dá ao Kirby uma habilidade de cópia baseada no personagem e um item de vida"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Chibi-Robo! Zip Lash",
+     "does": [
+      "Desbloqueia uma estatueta do personagem em pose exclusiva (precisa do amiibo do Chibi-Robo)"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Super Mario Maker",
+     "does": [
+      "Desbloqueia uma roupa de Cogumelo Misterioso do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Yoshi's Woolly World",
+     "does": [
+      "Desbloqueia uma estampa de lã do Yoshi com o personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Style Savvy: Fashion Forward",
+     "does": [
+      "Desbloqueia um acessório com tema do personagem"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Ace Combat Assault Horizon Legacy +",
+     "does": [
+      "Desbloqueia uma nave exclusiva com tema do personagem e uma peça de tunagem bônus"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "Wii U",
+     "title": "Super Smash Bros. for Wii U",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "3DS",
+     "title": "One Piece: Super Grand Battle! X",
+     "does": [
+      "Desbloqueia uma roupa do personagem com habilidades especiais"
+     ],
+     "saves": false
+    },
+    {
+     "platform": "3DS",
+     "title": "Super Smash Bros. for Nintendo 3DS",
+     "does": [
+      "Luta e treina um Figure Player do personagem, controlado pelo computador"
+     ],
+     "saves": true
+    },
+    {
+     "platform": "Wii U",
+     "title": "Mario Kart 8",
+     "does": [
+      "Desbloqueia um macacão de corrida do personagem para o Mii"
+     ],
+     "saves": false
+    }
+   ],
+   "series": [
+    {
+     "platform": "Switch",
+     "title": "Conga Master Party!",
+     "does": [
+      "Desbloqueia uma roupa especial"
+     ],
+     "saves": false
+    }
+   ]
+  }
+ }
+}

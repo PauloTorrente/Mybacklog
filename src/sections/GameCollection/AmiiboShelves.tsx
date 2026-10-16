@@ -2,6 +2,9 @@ import { useEffect, useRef, type CSSProperties } from 'react';
 import { motion, useMotionValue, useSpring, useTransform } from 'framer-motion';
 import styled from 'styled-components';
 import { amiiboSeries, type Amiibo } from '../../data/amiibo';
+import { amiiboKey } from '../../data/catalog';
+import { wallpapers } from '../../data/wallpapers';
+import { DetailsButton, InfoIcon, useInfoTrigger } from './InfoMenu';
 import { useI18n } from '../../i18n/I18nProvider';
 import { PlatformMark } from './PlatformMark';
 import { glass } from './styles';
@@ -96,6 +99,7 @@ const Slot = styled(motion.li)`
   width: calc(var(--u) * var(--slot) * 1px);
   height: var(--row);
   perspective: 600px;
+  cursor: pointer;
 `;
 
 const Stage = styled.div<{ $wish: boolean }>`
@@ -130,6 +134,15 @@ const Figure = styled(motion.img)`
   will-change: transform;
 `;
 
+/** "Detalhes" floats just above the name. */
+const Details = styled(DetailsButton)`
+  left: 50%;
+  top: calc(var(--fig) - 30px);
+  transform: translate(-50%, 4px);
+  *:hover > &, &:focus-visible { transform: translate(-50%, 0); }
+  @media (hover: none) { transform: translate(-50%, 0); }
+`;
+
 /** The name sits under the base, not under the middle of the photo (a sword held out moves the middle). */
 const Caption = styled.div`
   position: absolute;
@@ -147,13 +160,23 @@ const Caption = styled.div`
 `;
 
 /** One figure: tilts towards the pointer around its base (a fake turn, the photo is 2D) and hops up a little. */
-function AmiiboFigure({ amiibo, index, reveal, gap }: { amiibo: Amiibo; index: number; reveal: boolean; gap: number }) {
+function AmiiboFigure({ amiibo, index, reveal, gap, series }: { amiibo: Amiibo; index: number; reveal: boolean; gap: number; series: string }) {
   const { t } = useI18n();
   const x = useMotionValue(0); // -1 … 1 across the slot
   const hover = useMotionValue(0);
   const rotateY = useSpring(useTransform(x, [-1, 1], [-24, 24]), { stiffness: 160, damping: 14 });
   const lift = useSpring(useTransform(hover, [0, 1], [0, -10]), { stiffness: 220, damping: 15 });
   const wish = !amiibo.owned;
+  const info = useInfoTrigger({
+    key: amiiboKey(amiibo.id),
+    title: amiibo.name,
+    subtitle: ['amiibo', series, amiibo.line].filter(Boolean).join(' · '),
+    owned: amiibo.owned,
+    image: amiibo.image,
+    wallpaper: wallpapers.get(amiiboKey(amiibo.id)),
+    kind: 'amiibo',
+    amiiboId: amiibo.id,
+  });
   const { width, height, baseX, baseWidth } = amiibo.fit;
   // Room the figure may NOT spill over: base + gap, or most of a very wide figure.
   const slot = Math.max(baseWidth + gap, width - OVERHANG);
@@ -175,6 +198,23 @@ function AmiiboFigure({ amiibo, index, reveal, gap }: { amiibo: Amiibo; index: n
         x.set(0);
         hover.set(0);
       }}
+      onClick={(e) => {
+        if ((e.target as HTMLElement).closest('button')) return;
+        info.openFrom(e.currentTarget);
+      }}
+      onContextMenu={info.onContextMenu}
+      onPointerDown={info.onPointerDown}
+      onPointerUp={info.onPointerUp}
+      onPointerCancel={info.onPointerCancel}
+      tabIndex={0}
+      onKeyDown={(e) => {
+        if (e.target !== e.currentTarget) return;
+        if (e.key === 'Enter' || e.key === ' ') {
+          e.preventDefault();
+          info.openFrom(e.currentTarget);
+        } else info.onKeyDown(e);
+      }}
+      title={`${amiibo.name} · clique para ver detalhes`}
     >
       <Stage $wish={wish}>
         {amiibo.image && (
@@ -188,6 +228,10 @@ function AmiiboFigure({ amiibo, index, reveal, gap }: { amiibo: Amiibo; index: n
           />
         )}
       </Stage>
+      <Details type="button" onClick={(e) => info.openFrom(e.currentTarget)} aria-label={`Detalhes de ${amiibo.name}`}>
+        <InfoIcon />
+        Detalhes
+      </Details>
       <Caption>
         <span className="name">{amiibo.name}</span>
         {amiibo.line && <span className="line">{amiibo.line}</span>}
@@ -235,12 +279,12 @@ export function AmiiboShelves() {
             <Shelf style={{ '--tallest': tallest } as CSSProperties}>
               {runs(series.items).map((run) =>
                 run.length === 1 ? (
-                  <AmiiboFigure key={run[0].id} amiibo={run[0]} index={index++} reveal={firstRender.current} gap={GAP} />
+                  <AmiiboFigure key={run[0].id} amiibo={run[0]} index={index++} reveal={firstRender.current} gap={GAP} series={series.name} />
                 ) : (
                   <Bundle key={run[0].id} style={{ margin: `0 calc(var(--u) * ${(GAP - GROUP_GAP) / 2} * 1px)` }}>
                     <ul>
                       {run.map((a) => (
-                        <AmiiboFigure key={a.id} amiibo={a} index={index++} reveal={firstRender.current} gap={GROUP_GAP} />
+                        <AmiiboFigure key={a.id} amiibo={a} index={index++} reveal={firstRender.current} gap={GROUP_GAP} series={series.name} />
                       ))}
                     </ul>
                   </Bundle>

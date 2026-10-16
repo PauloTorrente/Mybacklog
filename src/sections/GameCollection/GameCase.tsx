@@ -4,6 +4,8 @@ import styled from 'styled-components';
 import { caseSpecs, covers } from '../../data/covers';
 import { platformById, type Game } from '../../data/games';
 import { useI18n } from '../../i18n/I18nProvider';
+import { DetailsButton, InfoIcon, useInfoTrigger } from './InfoMenu';
+import { gameTarget } from './infoTargets';
 
 /**
  * A game as a physical case standing on the shelf: front, spine, back and plastic edges in 3D.
@@ -172,6 +174,15 @@ const BlankSpine = styled.span`
   text-overflow: ellipsis;
 `;
 
+/** "Detalhes" sits on the plank, under the case. */
+const Details = styled(DetailsButton)`
+  left: 50%;
+  bottom: 4px;
+  transform: translate(-50%, 4px);
+  *:hover > &, &:focus-visible { transform: translate(-50%, 0); }
+  @media (hover: none) { transform: translate(-50%, 0); }
+`;
+
 /** Stagger only the first 12 cases; the rest just rise in as they scroll into view. */
 const STAGGER_LIMIT = 12;
 
@@ -190,6 +201,7 @@ export const GameCase = forwardRef<HTMLLIElement, Props>(function GameCase({ gam
   const delay = reveal && index < STAGGER_LIMIT ? index * 0.1 : 0;
   const { plastic, plasticInk } = caseSpecs[game.platformId];
   const platform = platformById.get(game.platformId);
+  const info = useInfoTrigger(gameTarget(game));
 
   return (
     <Slot
@@ -205,8 +217,14 @@ export const GameCase = forwardRef<HTMLLIElement, Props>(function GameCase({ gam
         type="button"
         $wish={wish}
         aria-pressed={flipped}
-        title={`${game.title} — ${t('games.flipHint')}`}
-        onClick={() => setFlipped((f) => !f)}
+        title={`${game.title} — ${t('games.flipHint')} · clique direito: informações`}
+        onClick={() => !info.consumeLongPress() && setFlipped((f) => !f)}
+        onContextMenu={info.onContextMenu}
+        onPointerDown={info.onPointerDown}
+        onPointerUp={info.onPointerUp}
+        onPointerCancel={info.onPointerCancel}
+        onPointerMove={info.onPointerMove}
+        onKeyDown={info.onKeyDown}
         style={{ ['--plastic' as string]: plastic, ['--plastic-ink' as string]: plasticInk }}
       >
         <span className="visually-hidden">
@@ -243,6 +261,10 @@ export const GameCase = forwardRef<HTMLLIElement, Props>(function GameCase({ gam
           <Face className="bottom" />
         </Box>
       </CaseButton>
+      <Details type="button" onClick={(e) => info.openFrom(e.currentTarget)} aria-label={`Detalhes de ${game.title}`}>
+        <InfoIcon />
+        Detalhes
+      </Details>
     </Slot>
   );
 });

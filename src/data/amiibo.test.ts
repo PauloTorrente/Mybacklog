@@ -40,3 +40,16 @@ describe('amiibo couples', () => {
   });
 });
 
+
+describe('amiibo compatible games', () => {
+  it('links amiibo.life titles to the games on the shelves', async () => {
+    const { matchGame, amiiboGames } = await import('./amiiboGames');
+    expect(matchGame('Switch', 'Splatoon 3')?.title).toBe('Splatoon 3 + DLC');
+    expect(matchGame('Switch', 'The Legend of Zelda: Breath of the Wild')?.title).toBe('Zelda: Breath of the Wild');
+    expect(matchGame('Switch', 'Hyrule Warriors: Definitive Edition')?.title).toBe('Hyrule Warriors (original)');
+    expect(matchGame('Switch', 'Fire Emblem Warriors')).toBeUndefined();
+    expect(matchGame('Wii U', 'Splatoon')).toBeUndefined();
+    const marina = amiiboGames('marina').list;
+    expect(marina.find((g) => g.title === 'Splatoon 3')?.does).toContain('Desbloqueia equipamentos exclusivos');
+  });
+});

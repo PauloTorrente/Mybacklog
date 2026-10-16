@@ -4,6 +4,9 @@ import styled from 'styled-components';
 import { useI18n } from '../../i18n/I18nProvider';
 import { amiibos } from '../../data/amiibo';
 import { AmiiboShelves } from './AmiiboShelves';
+import { ProgressButton, ProgressPanel } from './ProgressPanel';
+import { PixCard } from './PixCard';
+import { DetailsTip } from './DetailsTip';
 import { GameGrid } from './GameGrid';
 import { GenreBar } from './GenreBar';
 import { GenreFilter } from './GenreFilter';
@@ -29,6 +32,13 @@ const Tools = styled.div`
   gap: 0.25rem;
   margin-left: auto;
   max-width: 100%;
+`;
+
+const HeaderActions = styled.div`
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.25rem;
 `;
 
 const Toggle = styled.button`
@@ -104,6 +114,7 @@ export default function GameCollection() {
   const selectedGenres = f.filters.genres.length;
   // Genre tools stay folded away unless a genre filter is already active (e.g. from a shared link).
   const [genresOpen, setGenresOpen] = useState(selectedGenres > 0);
+  const [progressOpen, setProgressOpen] = useState(false);
 
   // After a pick, bring the list into view if it opened below the fold (mostly on phones).
   const statusRef = useRef<HTMLParagraphElement>(null);
@@ -122,6 +133,7 @@ export default function GameCollection() {
   return (
     <Section id="colecao" aria-labelledby="colecao-title">
       <Header>
+        <div className="intro">
         <Title id="colecao-title">{t('games.title')}</Title>
         <Dream>“{t('games.dream')}”</Dream>
         <Total>
@@ -131,7 +143,15 @@ export default function GameCollection() {
           <strong className="small">{f.wishlistCount}</strong>
           {t('games.totalWishlist')}
         </Total>
+        <HeaderActions>
+          <ProgressButton onOpen={() => setProgressOpen(true)} />
+        </HeaderActions>
+        </div>
+        <PixCard />
       </Header>
+
+      <AnimatePresence>{progressOpen && <ProgressPanel key="progress" onClose={() => setProgressOpen(false)} />}</AnimatePresence>
+      <DetailsTip show={platform !== null} />
 
       <PlatformCubes value={platform} counts={f.platformCounts} onChange={f.setPlatform} />
 

@@ -1,0 +1,1958 @@
+{
+  "switch-bayonetta-2": {
+    "publisher": "Nintendo",
+    "developer": "PlatinumGames",
+    "released": "2014",
+    "director": "Yusuke Hashimoto",
+    "composer": "Masami Ueda, Hiroshi Yamaguchi, Rei Kondoh e outros",
+    "synopsis": "A bruxa Bayonetta volta ao Inferno para resgatar a alma de Jeanne, em uma aventura ainda mais exagerada que a primeira. Combos estilosos, chefes do tamanho de prédios e o famoso Witch Time, que desacelera o mundo quando você esquiva no último segundo, fazem desse um dos melhores jogos de ação da PlatinumGames."
+  },
+  "switch-bayonetta-3": {
+    "publisher": "Nintendo",
+    "developer": "PlatinumGames",
+    "released": "2022",
+    "director": "Yusuke Miyata",
+    "composer": "Naofumi Harada",
+    "synopsis": "Um multiverso em colapso coloca diversas versões de Bayonetta contra uma ameaça artificial chamada Homunculi. A novidade são os Demon Slaves: invocações gigantes que ela controla dançando no meio do combate, além de fases jogadas com a jovem bruxa Viola, numa ação tão frenética quanto criativa."
+  },
+  "switch-bravely-default-ii": {
+    "publisher": "Nintendo Switch, Windows",
+    "developer": "Claytechworks",
+    "released": "2021",
+    "director": "Shunsuke Iwami",
+    "composer": "Revo",
+    "synopsis": "Quatro Heróis da Luz partem em busca dos cristais elementais roubados no novo continente de Excillant. RPG por turnos clássico com o sistema Brave e Default, em que você acumula ou gasta turnos para virar batalhas, e dezenas de classes para combinar livremente."
+  },
+  "switch-digimon-survive": {
+    "publisher": "Bandai Namco Entertainment",
+    "developer": "Hyde",
+    "released": "2022",
+    "director": "Yusuke Shimada",
+    "composer": "Tomoki Miyoshi",
+    "synopsis": "Um acampamento escolar termina num mundo estranho, cheio de monstros e lendas antigas. Metade visual novel, metade RPG tático, a história muda conforme suas escolhas morais e define como os Digimon dos alunos evoluem, num tom bem mais sombrio que o habitual da franquia."
+  },
+  "switch-digimon-world-next-order": {
+    "publisher": "Bandai Namco Entertainment",
+    "developer": "B.B. Studio",
+    "released": "2016",
+    "composer": "Toshiyuki Kishi",
+    "synopsis": "Você é puxado para o Digital World e precisa cuidar de dois Digimon parceiros: alimentar, treinar, dar bronca e vê-los envelhecer e renascer. Enquanto isso, recruta moradores para reconstruir a cidade de Floatia, num RPG de criação viciante e cheio de evoluções para descobrir."
+  },
+  "switch-donkey-kong-bananza": {
+    "publisher": "Nintendo",
+    "developer": "Nintendo EPD",
+    "released": "2025",
+    "director": "Wataru Tanaka, Kazuya Takahashi",
+    "composer": "Naoto Kubo",
+    "synopsis": "Donkey Kong desce ao centro da Terra atrás de bananas douradas e descobre um mundo inteiro para quebrar com as próprias mãos. Quase tudo no cenário é destrutível: abra túneis, arremesse pedaços de terreno e se transforme com a ajuda da jovem Pauline, numa das aventuras 3D mais criativas da Nintendo."
+  },
+  "switch-dragon-quest-xi-s": {
+    "publisher": "Square Enix",
+    "developer": "Square Enix",
+    "released": "2017",
+    "director": "Takeshi Uchikawa",
+    "composer": "Koichi Sugiyama",
+    "synopsis": "O jovem Luminar descobre ser a reencarnação de um herói lendário e, em vez de celebrado, é caçado como o Filho da Escuridão. Um RPG épico e acolhedor com trilha de Koichi Sugiyama, arte de Akira Toriyama e conteúdo extra nesta versão definitiva, incluindo um modo em 2D no estilo 16 bits."
+  },
+  "switch-final-fantasy-xii-the-zodiac-age": {
+    "publisher": "Square Enix",
+    "developer": "Square Enix",
+    "released": "2006",
+    "director": "Hiroyuki Ito, Hiroshi Minagawa",
+    "composer": "Hitoshi Sakimoto, Hayato Matsuo, Masaharu Iwata",
+    "synopsis": "No reino de Dalmasca invadido pelo Império Arcadiano, o ladrão Vaan se une à princesa Ashe numa trama de guerra e política. A versão remasterizada traz o sistema de licenças por signos do zodíaco e os Gambits, que permitem programar o comportamento do grupo em batalhas fluidas."
+  },
+  "switch-fire-emblem-engage": {
+    "publisher": "Nintendo",
+    "developer": "Intelligent Systems",
+    "released": "2023",
+    "director": "Tsutomu Tei, Kenta Nakanishi",
+    "composer": "Yasuhisa Baba, Kazuki Komai, Hiroki Morishita e outros",
+    "synopsis": "O Divino Dragão Alear desperta de um sono de mil anos para reunir os Anéis Emblema, que invocam heróis lendários da série. Estratégia tática clássica com mapas desafiadores e a possibilidade de fundir seus personagens com ídolos como Marth, Ike, Lucina e Byleth."
+  },
+  "switch-fire-emblem-warriors-three-hopes": {
+    "publisher": "Nintendo, Koei Tecmo Games",
+    "developer": "Omega Force",
+    "released": "2022",
+    "director": "Hayato Iwata",
+    "composer": "Hiromu Akaba, Asami Mitake, Ayako Toyoda, Yuki Matsumura",
+    "synopsis": "Uma versão alternativa da guerra de Fódlan, vista pelos olhos do mercenário Shez. Combates no estilo musou contra centenas de soldados, mas com a profundidade de Fire Emblem: classes, relações de apoio e escolhas de rota com Edelgard, Dimitri ou Claude."
+  },
+  "switch-fire-emblem-three-houses": {
+    "publisher": "Nintendo",
+    "developer": "Intelligent Systems, Kou Shibusawa",
+    "released": "2019",
+    "director": "Toshiyuki Kusakihara, Genki Yokota",
+    "composer": "Takeru Kanazaki, Hiroki Morishita, Rei Kondoh",
+    "synopsis": "Como professor no Mosteiro Garreg Mach, você escolhe lecionar para uma das três casas, lideradas por futuros soberanos de Fódlan. Anos depois, a guerra os coloca em lados opostos, e a casa escolhida define que história você vai viver, num RPG tático cheio de laços e decisões difíceis."
+  },
+  "switch-hyrule-warriors-age-of-calamity": {
+    "publisher": "Nintendo",
+    "developer": "Omega Force",
+    "released": "2020",
+    "director": "Ryouta Matsushita",
+    "composer": "Kumi Tanioka, Reo Uratani, Ryotaro Yagi, Haruki Yamada",
+    "synopsis": "Cem anos antes de Breath of the Wild, Link, Zelda e os quatro Campeões enfrentam a Grande Calamidade. Um musou com o visual e o mundo de BotW que mostra a guerra que todos conheciam só por lembranças, com Urbosa, Daruk, Revali e Mipha jogáveis."
+  },
+  "switch-kirby-and-the-forgotten-land": {
+    "publisher": "Nintendo",
+    "developer": "HAL Laboratory",
+    "released": "2022",
+    "director": "Shinya Kumazaki, Tatsuya Kamiyama",
+    "composer": "Yuuta Ogasawara, Hirokazu Ando, Jun Ishikawa e outros",
+    "synopsis": "Kirby é sugado por um vórtice e cai num mundo pós-apocalíptico tomado pela natureza, onde precisa resgatar os Waddle Dees. Sua primeira aventura totalmente 3D traz o Modo Boca Cheia: engolir carros, máquinas de venda e até escadas para resolver desafios de forma hilária."
+  },
+  "switch-labyrinth-of-galleria-the-moon-society": {
+    "publisher": "Nippon Ichi Software",
+    "developer": "Nippon Ichi Software",
+    "released": "2020",
+    "composer": "Tenpei Sato",
+    "synopsis": "Uma jovem é contratada por uma mansão misteriosa para explorar um labirinto que ninguém conseguiu mapear. Você controla um batalhão de bonecas guerreiras num dungeon crawler profundo e excêntrico, com atmosfera gótica e sistemas de personalização quase infinitos."
+  },
+  "switch-mario-kart-8-deluxe": {
+    "publisher": "Nintendo",
+    "developer": "Nintendo EAD, Nintendo EPD",
+    "released": "2014",
+    "director": "Kosuke Yabuki, Yusuke Shiraiwa",
+    "composer": "Shiho Fujii, Atsuko Asahi, Ryō Nagamatsu e outros",
+    "synopsis": "O kart mais completo da Nintendo, com dezenas de pistas que viram de cabeça para baixo graças à antigravidade. Com as expansões do Booster Course Pass, chega a quase cem circuitos, além do modo Batalha e de um elenco enorme, de Inklings a personagens de Zelda."
+  },
+  "switch-mario-kart-world": {
+    "publisher": "Nintendo",
+    "developer": "Nintendo EPD",
+    "released": "2025",
+    "director": "Kenta Sato, Masaaki Ishikawa, Shintaro Jikumaru",
+    "composer": "Atsuko Asahi, Maasa Miyoshi, Takuhiro Honda, Yutaro Takakuwa",
+    "synopsis": "Mario Kart deixa as pistas fechadas para trás: todos os circuitos estão ligados num grande mundo aberto, percorrido no modo Free Roam. As corridas aceitam até 24 pilotos, e o modo Knockout Tour elimina os últimos colocados numa maratona de pista em pista."
+  },
+  "switch-marvel-ultimate-alliance-3": {
+    "publisher": "Nintendo",
+    "developer": "Team Ninja",
+    "released": "2019",
+    "director": "Hiroya Usuda",
+    "composer": "Takahiro Umeda, Masafumi Okubo",
+    "synopsis": "Thanos está atrás das Joias do Infinito e você monta uma equipe dos sonhos com Homem-Aranha, Wolverine, os Guardiões da Galáxia, os X-Men e muitos outros. Um RPG de ação cooperativo para até quatro jogadores, com combos entre heróis e uma lista gigante de personagens."
+  },
+  "switch-metroid-dread": {
+    "publisher": "Nintendo",
+    "released": "2021",
+    "director": "Jose Luis Márquez, Fumi Hayashi",
+    "composer": "Kenji Yamamoto, Soshi Abe, Sayako Doi",
+    "synopsis": "Samus investiga o planeta ZDR e se torna presa dos E.M.M.I., robôs implacáveis que a perseguem por corredores apertados. O retorno da série 2D depois de 19 anos traz movimentação fluida, chefes intensos e um clima de tensão constante, fechando o arco iniciado em 1986."
+  },
+  "switch-metroid-prime-remastered": {
+    "publisher": "Nintendo",
+    "developer": "Retro Studios",
+    "released": "2002",
+    "director": "Mark Pacini",
+    "composer": "Kenji Yamamoto, Kouichi Kyuma",
+    "synopsis": "A primeira aventura de Samus em primeira pessoa, refeita com gráficos modernos e controles atualizados. Explore Tallon IV escaneando cada pedaço do cenário para desvendar a história dos Chozo e dos Piratas Espaciais, num clássico que redefiniu a série em 3D."
+  },
+  "switch-minecraft-dungeons": {
+    "publisher": "Xbox Game Studios",
+    "developer": "Mojang Studios, Double Eleven",
+    "released": "2020",
+    "director": "Måns Olson",
+    "composer": "Johan Johnson, Peter Hont",
+    "synopsis": "Um dungeon crawler no universo de Minecraft, em que até quatro heróis enfrentam o Arch-Illager e seu exército. Sem classes fixas, você define o estilo pelos equipamentos e encantamentos, numa aventura de ação simples de pegar e ótima para jogar em grupo."
+  },
+  "switch-monster-hunter-generations-ultimate": {
+    "publisher": "Capcom",
+    "developer": "Capcom",
+    "released": "2015",
+    "director": "Yasunori Ichinose, Daisuke Ichihara (Ultimate)",
+    "composer": "Reo Uratani",
+    "synopsis": "Uma celebração da série, reunindo monstros e regiões clássicas com centenas de missões. Os Hunting Styles e as Hunter Arts mudam a forma de lutar com cada arma, e é possível jogar como Palico, num dos Monster Hunter com mais conteúdo já feitos."
+  },
+  "switch-monster-hunter-rise": {
+    "publisher": "Capcom",
+    "developer": "Capcom",
+    "released": "2021",
+    "director": "Yasunori Ichinose",
+    "composer": "Satoshi Hori",
+    "synopsis": "O vilarejo de Kamura se prepara para o Rampage, uma onda de monstros que ameaça tudo. Com o Wirebug, que permite escalar e contra-atacar no ar, e o fiel Palamute para montar, Rise é o Monster Hunter mais ágil e acessível, inspirado no folclore japonês."
+  },
+  "switch-neo-the-world-ends-with-you": {
+    "publisher": "Square Enix",
+    "developer": "Square Enix Creative Business Unit I, h.a.n.d.",
+    "released": "2021",
+    "director": "Hiroyuki Itou, Tatsuya Kando",
+    "composer": "Takeharu Ishimoto",
+    "synopsis": "Rindo acorda no Reapers' Game, uma competição de vida ou morte em Shibuya, com sete dias para sobreviver. Sequência do cult de DS com combate frenético, uma trilha sonora marcante e a moda e a cultura de rua da Tóquio contemporânea."
+  },
+  "switch-octopath-traveler-ii": {
+    "publisher": "Square Enix",
+    "developer": "Acquire, Square Enix Creative Business Unit 2",
+    "released": "2023",
+    "director": "Keisuke Miyauchi",
+    "composer": "Yasunori Nishiki",
+    "synopsis": "Oito novos viajantes, cada um com sua jornada, atravessam o continente de Solistia. O visual HD-2D mistura pixel art e iluminação moderna, e as batalhas por turnos giram em torno de quebrar a defesa dos inimigos. A novidade é o ciclo de dia e noite, que muda as ações de cada personagem."
+  },
+  "switch-persona-5-tactica": {
+    "publisher": "Sega",
+    "developer": "P-Studio",
+    "released": "2023",
+    "director": "Naoya Maeda",
+    "composer": "Toshiki Konishi",
+    "synopsis": "Os Ladrões Fantasmas caem num reino misterioso e ajudam uma rebelde chamada Erina contra um governo tirano. Um spin-off de estratégia por turnos com o estilo único de Persona 5, combinando posicionamento, cobertura e ataques em trio."
+  },
+  "switch-splatoon-3-dlc": {
+    "publisher": "Nintendo",
+    "developer": "Nintendo EPD",
+    "released": "2022",
+    "director": "Seita Inoue, Shintaro Sato",
+    "composer": "Toshiyuki Sudo, Ryō Nagamatsu, Toru Minegishi e outros",
+    "synopsis": "Lulas e polvos disputam território pintando o cenário de tinta, agora na região desértica de Splatlands. Além do multiplayer, há modo história, o Salmon Run cooperativo, o jogo de cartas Tableturf e, na expansão Side Order, um modo roguelike com Pearl e Marina."
+  },
+  "switch-super-mario-3d-world": {
+    "publisher": "Nintendo",
+    "developer": "Nintendo EAD Tokyo",
+    "released": "2013",
+    "director": "Koichi Hayashida, Kenta Motokura",
+    "composer": "Mahito Yokota, Toru Minegishi, Koji Kondo, Yasuaki Iwata",
+    "synopsis": "Mario, Luigi, Peach e Toad salvam o Reino das Fadas, com até quatro jogadores ao mesmo tempo. O traje de gato permite escalar paredes. Esta versão inclui Bowser's Fury, uma aventura em mundo aberto em que um Bowser gigante e furioso aparece de tempos em tempos."
+  },
+  "switch-super-mario-odyssey": {
+    "publisher": "Nintendo",
+    "developer": "Nintendo EPD",
+    "released": "2017",
+    "director": "Kenta Motokura",
+    "composer": "Naoto Kubo, Shiho Fujii, Koji Kondo",
+    "synopsis": "Mario viaja pelo mundo a bordo da nave Odyssey ao lado de Cappy, um chapéu vivo capaz de possuir inimigos e objetos. Ser um T-Rex, um tanque ou até um sapo é só o começo de uma das aventuras 3D mais criativas e cheias de segredos da série."
+  },
+  "switch-super-mario-rpg": {
+    "publisher": "Nintendo",
+    "developer": "Square",
+    "released": "1996",
+    "composer": "Yoko Shimomura",
+    "synopsis": "Remake do clássico de Super Nintendo. Um grupo improvável, com Mario, Bowser, Peach e os novos Mallow e Geno, precisa recuperar as Estrelas de um mundo dominado pela gangue Smithy. Batalhas por turnos com comandos no tempo certo, muito humor e uma trilha icônica."
+  },
+  "switch-super-smash-bros-ultimate": {
+    "publisher": "Nintendo",
+    "developer": "Bandai Namco Studios, Sora Ltd.",
+    "released": "2018",
+    "director": "Masahiro Sakurai",
+    "composer": "Hideki Sakamoto",
+    "synopsis": "Todos os lutadores da história da série num só jogo, mais de 80 no total, de Mario a Sephiroth. Um jogo de luta em que o objetivo é jogar o rival para fora da arena, com o modo história World of Light e centenas de Spirits, numa celebração gigante dos videogames."
+  },
+  "switch-tokyo-mirage-sessions": {
+    "publisher": "Nintendo",
+    "developer": "Atlus",
+    "released": "2015",
+    "director": "Mitsuru Hirata, Eiji Ishida, Kaori Ando",
+    "composer": "Yoshiaki Fujisawa",
+    "synopsis": "Em Tóquio, jovens aspirantes a ídolos lutam contra seres de outra dimensão ao lado de Mirages, versões dos heróis de Fire Emblem. Um RPG por turnos que une a Atlus e a Intelligent Systems, com o mundo do entretenimento japonês, coreografias e combos musicais."
+  },
+  "switch-xenoblade-chronicles": {
+    "publisher": "Nintendo",
+    "developer": "Monolith Soft",
+    "released": "2010",
+    "synopsis": "Num mundo construído sobre os corpos de dois titãs adormecidos, o jovem Shulk empunha a Monado, uma espada capaz de ver o futuro. Um RPG de proporções épicas, com paisagens imensas, combate em tempo real e uma das histórias mais memoráveis do gênero, nesta versão definitiva."
+  },
+  "switch-xenoblade-chronicles-2": {
+    "publisher": "Nintendo",
+    "developer": "Monolith Soft",
+    "released": "2017",
+    "director": "Koh Kojima, Genki Yokota",
+    "composer": "Yasunori Mitsuda, ACE, Kenji Hiramatsu, Manami Kiyota",
+    "synopsis": "Rex, um jovem salvador que vive num mar de nuvens, encontra Pyra, uma Blade lendária, e parte rumo ao Elysium, o paraíso no topo da Árvore do Mundo. Um RPG grandioso com titãs vivos como continentes, combate em cadeia e uma trilha sonora espetacular."
+  },
+  "switch-xenoblade-chronicles-3": {
+    "publisher": "Nintendo",
+    "developer": "Monolith Soft",
+    "released": "2022",
+    "synopsis": "Noah e Mio vêm de nações em guerra eterna, mas descobrem uma verdade capaz de libertar todos os soldados de Aionios. O encerramento da trilogia une os mundos dos jogos anteriores, com seis heróis jogáveis e combate profundo."
+  },
+  "switch-xenoblade-chronicles-x": {
+    "publisher": "Nintendo",
+    "developer": "Monolith Soft",
+    "released": "2015",
+    "director": "Koh Kojima, Genki Yokota",
+    "composer": "Hiroyuki Sawano",
+    "synopsis": "A humanidade foge da Terra destruída e cai no planeta Mira, onde precisa sobreviver como pode. Exploração livre num dos maiores mundos abertos já feitos, com criaturas colossais e os Skells, robôs gigantes que você pilota, voa e personaliza."
+  },
+  "switch-zelda-breath-of-the-wild": {
+    "publisher": "Nintendo",
+    "developer": "Nintendo EPD",
+    "released": "2017",
+    "director": "Hidemaro Fujibayashi",
+    "synopsis": "Link acorda de um sono de cem anos num reino em ruínas e tem total liberdade para explorar Hyrule como quiser. Escale qualquer montanha, plane de qualquer altura e resolva problemas usando a física. O jogo que reinventou os mundos abertos."
+  },
+  "switch-zelda-link-s-awakening": {
+    "publisher": "Nintendo",
+    "developer": "Grezzo",
+    "released": "2019",
+    "director": "Mikiharu Oiwa",
+    "composer": "Ryō Nagamatsu",
+    "synopsis": "Naufragado na misteriosa Ilha Koholint, Link precisa acordar o Peixe dos Ventos para conseguir voltar para casa. O clássico do Game Boy refeito com visual de brinquedo de plástico, cheio de charme, humor e um dos finais mais bonitos da série."
+  },
+  "switch-zelda-tears-of-the-kingdom": {
+    "publisher": "Nintendo",
+    "developer": "Nintendo EPD",
+    "released": "2022",
+    "director": "Hidemaro Fujibayashi",
+    "composer": "Manaka Kataoka, Maasa Miyoshi, Masato Ohashi, Tsukasa Usui",
+    "synopsis": "Hyrule se ergue em ilhas flutuantes no céu e mergulha em profundezas escuras, enquanto Link procura Zelda após o retorno de Ganondorf. Os poderes Ultrahand e Fuse permitem construir veículos, armas e máquinas, numa sequência que multiplica a liberdade de Breath of the Wild."
+  },
+  "switch-fire-emblem-fortune-s-weave": {
+    "publisher": "Nintendo",
+    "developer": "Intelligent Systems, Nintendo",
+    "released": "2026",
+    "director": "Toshiyuki Kusakihara",
+    "composer": "Takeru Kanazaki",
+    "synopsis": "Novo Fire Emblem de estratégia tática para Switch 2. Mantém o coração da série: mapas em grade, personagens marcantes e escolhas que pesam em cada batalha, agora numa nova história cheia de reviravoltas."
+  },
+  "switch-nis-classics-vol-3": {
+    "publisher": "Nippon Ichi Software",
+    "developer": "Nippon Ichi Software",
+    "released": "1998",
+    "director": "Kōichi Kitazumi",
+    "composer": "Tenpei Satō",
+    "synopsis": "Coletânea com dois clássicos da Nippon Ichi. Em Rhapsody: A Musical Adventure, uma princesa que fala com bonecos parte para salvar o príncipe enquanto todos cantam. La Pucelle: Ragnarok é um RPG tático sobre uma jovem exorcista que enfrenta demônios."
+  },
+  "switch-monark": {
+    "publisher": "Furyu Corporation, NIS America",
+    "developer": "Lancarse",
+    "released": "2021",
+    "director": "Fuyuki Hayashi, Mitsuhiro Hoshino",
+    "composer": "Tsukasa Masuko",
+    "synopsis": "Na escola Shin Mikado, uma névoa misteriosa enlouquece os alunos, e você faz um pacto com demônios para enfrentá-la. Um RPG tático sombrio sobre ego e pecado, em que a força vem da sua própria loucura, criado por veteranos de Shin Megami Tensei."
+  },
+  "switch-astral-chain": {
+    "publisher": "Nintendo",
+    "developer": "PlatinumGames",
+    "released": "2019",
+    "director": "Takahisa Taura, Kaori Ando, Makoto Okazaki",
+    "composer": "Satoshi Igarashi, Naofumi Harada, Hitomi Kurokawa",
+    "synopsis": "Numa cidade tomada por criaturas de outra dimensão, um policial de elite luta acorrentado a um Legion, um ser alienígena domesticado. Você controla os dois ao mesmo tempo num combate original e cheio de estilo, criado pela PlatinumGames."
+  },
+  "switch-shin-megami-tensei-iii-nocturne-hd-remaster": {
+    "publisher": "Atlus, Sega",
+    "developer": "Atlus",
+    "released": "2003",
+    "director": "Katsura Hashino, Kazuyuki Yamai (Maniax)",
+    "composer": "Shoji Meguro, Toshiko Tasaki, Kenichi Tsuchiya",
+    "synopsis": "Tóquio é destruída pela Concepção, e você renasce como o Demi-Fiend, meio humano e meio demônio, num mundo em ruínas. Recrute e funda demônios num RPG difícil e atmosférico que define a série, em que cada escolha leva a um final diferente."
+  },
+  "switch-shin-megami-tensei-v": {
+    "publisher": "Sega",
+    "developer": "Atlus",
+    "released": "2021",
+    "director": "Shigeo Komori",
+    "composer": "Ryota Kozuka, Toshiki Konishi",
+    "synopsis": "Um estudante é engolido por uma Tóquio pós-apocalíptica dominada por anjos e demônios e se funde a um ser misterioso, tornando-se um Nahobino. Explore desertos que já foram a cidade, negocie com centenas de demônios e decida o destino do mundo."
+  },
+  "switch-shin-megami-tensei-v-vengeance": {
+    "publisher": "Sega",
+    "developer": "Atlus",
+    "released": "2021",
+    "director": "Shigeo Komori",
+    "composer": "Ryota Kozuka, Toshiki Konishi",
+    "synopsis": "A versão definitiva de Shin Megami Tensei V, com uma nova rota inteira, a Canon of Vengeance, protagonizada pela misteriosa Yoko Hiromine. Inclui novos demônios, áreas e melhorias de jogabilidade."
+  },
+  "switch-the-alliance-alive": {
+    "priceMin": 35,
+    "priceMax": 45,
+    "publisher": "Furyu Corporation",
+    "developer": "Cattle Call",
+    "released": "2017",
+    "director": "Masataka Matsuura",
+    "composer": "Masashi Hamauzu",
+    "synopsis": "O mundo foi dividido por uma barreira há mil anos, quando os demônios dominaram os humanos. Um grupo de rebeldes busca derrubar esse domínio num RPG por turnos criado por veteranos de SaGa, com nove protagonistas e uma rede de guildas para formar."
+  },
+  "switch-bayonetta-origins": {
+    "priceMin": 46,
+    "priceMax": 60,
+    "publisher": "Nintendo",
+    "developer": "PlatinumGames",
+    "released": "2023",
+    "director": "Abebe Tinari",
+    "composer": "Aoba Nakanishi, Hitomi Kurokawa, Masahiro Miyauchi, Rina Yugi",
+    "synopsis": "Muito antes de virar a bruxa estilosa, a pequena Cereza entra numa floresta proibida para salvar a mãe, guiada por Cheshire, um demônio preso no seu bichinho de pelúcia. Um conto de fadas em aquarela em que você controla os dois personagens ao mesmo tempo."
+  },
+  "switch-captain-toad": {
+    "priceMin": 25,
+    "priceMax": 35,
+    "publisher": "Nintendo",
+    "developer": "Nintendo EAD Tokyo",
+    "released": "2014",
+    "director": "Kenta Motokura, Shinya Hiratake",
+    "composer": "Naoto Kubo, Mahito Yokota",
+    "synopsis": "O Capitão Toad não sabe pular, mas não desiste de nenhum tesouro. Cada fase é um pequeno diorama que você gira para encontrar caminhos e segredos, num jogo de quebra-cabeça charmoso que nasceu como fase bônus de Super Mario 3D World."
+  },
+  "switch-crisis-core": {
+    "priceMin": 35,
+    "priceMax": 50,
+    "publisher": "Square Enix",
+    "developer": "Square Enix, Tose (Reunion)",
+    "released": "2007",
+    "director": "Hajime Tabata, Reunion, Tetsuya Nomura, Takeshi Asano",
+    "composer": "Takeharu Ishimoto",
+    "synopsis": "A história de Zack Fair, membro do SOLDIER, anos antes de Final Fantasy VII. Ao investigar o desaparecimento de Genesis, ele descobre os segredos sombrios da Shinra, numa jornada de ação que termina num dos finais mais emocionantes da série."
+  },
+  "switch-dragon-quest-i-ii": {
+    "priceMin": 30,
+    "priceMax": 45,
+    "publisher": "Enix, Square Enix",
+    "developer": "Chunsoft",
+    "released": "1986",
+    "director": "Koichi Nakamura",
+    "composer": "Koichi Sugiyama",
+    "synopsis": "As duas primeiras aventuras de Dragon Quest refeitas no estilo HD-2D, com pixel art e efeitos modernos. A lenda de Erdrick começa aqui, com o herói que enfrenta o Lorde Dragão e, gerações depois, seus descendentes contra um novo mal."
+  },
+  "switch-dragon-quest-iii": {
+    "priceMin": 35,
+    "priceMax": 45,
+    "publisher": "Enix, Square Enix",
+    "developer": "Chunsoft",
+    "released": "1986",
+    "director": "Koichi Nakamura",
+    "composer": "Koichi Sugiyama",
+    "synopsis": "O clássico que deu origem à lenda de Erdrick, refeito em HD-2D. O filho de um herói desaparecido parte com um grupo que você monta para derrotar o Archfiend Baramos, num RPG atemporal com classes, viagens pelo mundo e um final inesquecível."
+  },
+  "switch-fantasy-life": {
+    "priceMin": 35,
+    "priceMax": 45,
+    "publisher": "Level-5",
+    "developer": "Level-5",
+    "released": "2024",
+    "director": "Yugo Nakajima",
+    "composer": "Nobuo Uematsu, Haruno Ito",
+    "synopsis": "Uma vida de fantasia em que você escolhe e troca de profissão quando quiser: paladino, mago, ferreiro, cozinheiro, pescador e muito mais. A Level-5 mistura RPG e simulação de vida num mundo encantador, com muita coisa para coletar e construir."
+  },
+  "switch-the-hundred-line": {
+    "priceMin": 44,
+    "priceMax": 55,
+    "publisher": "Aniplex",
+    "developer": "Too Kyo Games, Media.Vision",
+    "released": "2025",
+    "director": "Kazutaka Kodaka, Kotaro Uchikoshi",
+    "composer": "Masafumi Takada",
+    "synopsis": "Cem dias para defender uma academia contra invasores monstruosos, ao lado de outros estudantes que podem morrer pelo caminho. Um RPG tático com uma história ramificada em dezenas de finais, dos criadores de Danganronpa e Zero Escape."
+  },
+  "switch-hyrule-warriors-original": {
+    "priceMin": 45,
+    "priceMax": 55,
+    "publisher": "Nintendo, Koei Tecmo Holdings",
+    "developer": "Omega Force, Team Ninja",
+    "released": "2014",
+    "director": "Masaki Furusawa",
+    "composer": "Masato Koike, Yuki Matsumura",
+    "synopsis": "Link, Zelda e personagens de toda a série lutam contra exércitos de monstros no estilo musou. A versão Definitive Edition reúne todo o conteúdo lançado, com personagens de Ocarina, Twilight Princess, Wind Waker e muito mais."
+  },
+  "switch-kirby-s-return-to-dream-land-deluxe": {
+    "priceMin": 45,
+    "priceMax": 55,
+    "publisher": "Nintendo",
+    "developer": "HAL Laboratory",
+    "released": "2011",
+    "director": "Shinya Kumazaki",
+    "composer": "Hirokazu Ando, Jun Ishikawa",
+    "synopsis": "A nave do alienígena Magolor cai em Dream Land, e Kirby e seus amigos se juntam para recuperar as peças espalhadas. Plataforma clássica para até quatro jogadores, com novos poderes e o epílogo Magolor Epilogue, que revela o outro lado da história."
+  },
+  "switch-mario-luigi-brothership": {
+    "priceMin": 30,
+    "priceMax": 45,
+    "publisher": "Nintendo",
+    "developer": "Acquire",
+    "released": "2024",
+    "director": "Haruyuki Ohashi",
+    "composer": "Hideki Sakamoto",
+    "synopsis": "Mario e Luigi viajam por um mundo de ilhas a bordo de uma ilha-navio, tentando reconectar um arquipélago que foi partido. Um RPG por turnos cheio de humor, com ataques em dupla que pedem bom tempo de reação e a primeira aventura inédita da série em quase dez anos."
+  },
+  "switch-marvel-vs-capcom-collection": {
+    "priceMin": 30,
+    "priceMax": 45,
+    "publisher": "Capcom",
+    "developer": "Capcom",
+    "released": "2024",
+    "synopsis": "Uma coletânea com sete clássicos de luta e ação da Capcom com a Marvel, incluindo o lendário Marvel vs. Capcom 2. Lutas em equipe, combos absurdos e partidas online com rollback, ideais para quem cresceu nos fliperamas."
+  },
+  "switch-mega-man-battle-network": {
+    "priceMin": 30,
+    "priceMax": 45,
+    "publisher": "Capcom",
+    "developer": "Capcom, NeoBards Entertainment",
+    "released": "2023",
+    "director": "Masakazu Eguchi",
+    "synopsis": "Coletânea com os dez jogos da série em que Lan e seu NetNavi MegaMan.EXE combatem vírus num mundo hiperconectado. Batalhas em grade com chips de ataque, dezenas de horas de RPG e todas as versões duplas de cada jogo."
+  },
+  "switch-metroid-prime-4": {
+    "priceMin": 30,
+    "priceMax": 45,
+    "publisher": "Nintendo",
+    "developer": "Retro Studios",
+    "released": "2025",
+    "director": "Bill Vandervoort, Jhony Ljungstedt, Eric Sebesta",
+    "composer": "Kenji Yamamoto, Minako Hamano",
+    "synopsis": "Samus é transportada para o misterioso planeta Viewros e ganha poderes psíquicos para sobreviver. A tão esperada continuação da série Prime, com exploração em primeira pessoa, a motocicleta Vi-O-La e um novo mistério para desvendar."
+  },
+  "switch-pokken-tournament": {
+    "priceMin": 30,
+    "priceMax": 45,
+    "publisher": "Bandai Namco Entertainment, The Pokémon Company, Nintendo",
+    "developer": "Bandai Namco Studios",
+    "released": "2015",
+    "director": "Haruki Suzaki",
+    "composer": "Hiroyuki Kawada, Rio Hamamoto, Taku Inoue e outros",
+    "synopsis": "Pokémon num jogo de luta de verdade, criado pela equipe de Tekken. Lucario, Pikachu, Mewtwo e outros trocam golpes em arenas 3D, com batalhas que alternam entre visão lateral e livre, e um modo história para virar campeão de Ferrum."
+  },
+  "switch-rain-code": {
+    "priceMin": 30,
+    "priceMax": 45,
+    "publisher": "Spike Chunsoft",
+    "developer": "Spike Chunsoft, Too Kyo Games",
+    "released": "2023",
+    "director": "Takahiro Suzuki",
+    "composer": "Masafumi Takada",
+    "synopsis": "Na cidade de Kanai Ward, onde nunca para de chover, o detetive Yuma investiga assassinatos com a ajuda de Shinigami, uma deusa da morte. Os mistérios são resolvidos no Labirinto dos Mistérios, numa aventura dos criadores de Danganronpa."
+  },
+  "switch-rune-factory-5": {
+    "priceMin": 3,
+    "priceMax": 30,
+    "publisher": "Marvelous Entertainment, Xseed Games",
+    "developer": "Hakama",
+    "released": "2021",
+    "director": "Shiro Maekawa",
+    "composer": "Tomoko Morita",
+    "synopsis": "Você acorda sem memória na cidade de Rigbarth e entra para os SEED, uma patrulha que protege a região. RPG e vida no campo se misturam: plante, crie monstros, explore masmorras e conquiste um dos moradores para casar."
+  },
+  "switch-unicorn-overlord": {
+    "priceMin": 30,
+    "priceMax": 45,
+    "publisher": "Sega",
+    "developer": "Vanillaware",
+    "released": "2024",
+    "director": "Takafumi Noma",
+    "synopsis": "O príncipe Alain lidera uma rebelião para retomar o continente de Fevrith de um império tirano. Um RPG tático da Vanillaware, com arte lindíssima e esquadrões que você monta e programa para agir sozinhos em batalhas táticas profundas."
+  },
+  "switch-zelda-echoes-of-wisdom": {
+    "priceMin": 30,
+    "priceMax": 45,
+    "publisher": "Nintendo",
+    "developer": "Nintendo EPD, Grezzo",
+    "released": "2024",
+    "director": "Satoshi Terada, Tomomi Sano",
+    "composer": "Masato Ohashi, Manaka Kataoka, Chisaki Hosaka e outros",
+    "synopsis": "Pela primeira vez, Zelda é a protagonista. Hyrule está sendo engolida por fendas misteriosas, e ela usa o Tri Rod para criar ecos de objetos e monstros e resolver tudo do seu jeito, numa aventura de criatividade livre no estilo de Link's Awakening."
+  },
+  "switch-street-fighter-6": {
+    "priceMin": 55,
+    "priceMax": 60,
+    "publisher": "Capcom",
+    "developer": "Capcom",
+    "released": "2023",
+    "director": "Takayuki Nakayama",
+    "composer": "Yoshiya Terayama, Shigeyuki Kameda, Yasumasa Kitagawa e outros",
+    "synopsis": "A série de luta mais famosa do mundo volta com um elenco renovado e o World Tour, um modo história em que você cria o seu lutador e aprende com os mestres. Inclui controles modernos para iniciantes e o Drive System, que deixa as lutas mais agressivas."
+  },
+  "switch-pokemon-legends-z-a": {
+    "priceMin": 35,
+    "priceMax": 45,
+    "publisher": "The Pokémon Company, Nintendo",
+    "developer": "Game Freak",
+    "released": "2025",
+    "director": "Shigeru Ohmori, Haruka Tochigi",
+    "composer": "Junichi Masuda, Shota Kageyama",
+    "synopsis": "Lumiose City está passando por uma grande reurbanização, e Pokémon e humanos precisam aprender a conviver. Batalhas em tempo real, a volta das Mega Evoluções e uma cidade inteira para explorar, de dia e de noite."
+  },
+  "switch-pokemon-legends-arceus": {
+    "priceMin": 30,
+    "priceMax": 45,
+    "publisher": "The Pokémon Company, Nintendo",
+    "developer": "Game Freak",
+    "released": "2022",
+    "director": "Kazumasa Iwao",
+    "composer": "Go Ichinose, Hitomi Sato, Hiromitsu Maeba",
+    "synopsis": "Uma volta ao passado da região de Sinnoh, quando ela ainda se chamava Hisui e Pokémon e humanos mal conviviam. Você captura Pokémon na natureza, se esgueirando e mirando as Poké Balls, para montar a primeira Pokédex da história."
+  },
+  "switch-pokemon-pokopia": {
+    "priceMin": 45,
+    "priceMax": 55,
+    "publisher": "Nintendo, The Pokémon Company",
+    "developer": "Game Freak, Omega Force",
+    "released": "2026",
+    "director": "Shigeru Ohmori, Takuto Edagawa, Tatsuto Tsuchishita, Teruyuki Shimoyamada",
+    "composer": "Hiromu Akaba, Jieun Kim",
+    "synopsis": "Um Ditto que imita um humano reconstrói um mundo abandonado ao lado de Pokémon. Um jogo de construção e vida tranquila, em que você ganha habilidades dos Pokémon para criar o lar dos seus sonhos."
+  },
+  "switch-diablo-iii": {
+    "priceMin": 25,
+    "priceMax": 39,
+    "publisher": "Blizzard Entertainment",
+    "developer": "Blizzard Entertainment",
+    "released": "2012",
+    "director": "Jay Wilson",
+    "composer": "Russell Brower, Derek Duke, Edo Guidotti e outros",
+    "synopsis": "O mal desperta em Santuário e você enfrenta hordas de demônios até os Infernos. Ação em RPG viciante, com o loot clássico da Blizzard, sete classes e esta coletânea completa com Reaper of Souls e o Necromante."
+  },
+  "switch-monster-hunter-stories-3": {
+    "priceMin": 45,
+    "priceMax": 55,
+    "publisher": "Capcom",
+    "developer": "Capcom",
+    "released": "2026",
+    "director": "Kenji Oguro",
+    "composer": "Kota Yokoseki, Marika Suzuki, Yuko Miyata e outros",
+    "synopsis": "Um novo capítulo da série de RPG por turnos de Monster Hunter, com uma história sobre reinos em conflito e Riders que criam e montam monstros. Visual de anime ainda mais caprichado e uma jornada pelo mundo dos caçadores."
+  },
+  "switch-the-elder-scrolls-iv-oblivion": {
+    "priceMin": 45,
+    "priceMax": 57,
+    "publisher": "Bethesda Softworks",
+    "developer": "Virtuos, Bethesda Game Studios",
+    "released": "2025",
+    "director": "Theo Gallego, Tom Mustaine",
+    "synopsis": "Portais para o Oblivion se abrem por toda Cyrodiil, e você é o único capaz de fechá-los. A remasterização do clássico RPG de mundo aberto da Bethesda traz gráficos refeitos e todo o conteúdo extra, como a ilha de Shivering Isles."
+  },
+  "switch-granblue-fantasy-relink-endless-ragnarok": {
+    "priceMin": 45,
+    "priceMax": 55,
+    "publisher": "Cygames",
+    "developer": "Osaka Cygames",
+    "released": "2024",
+    "director": "Tetsuya Fukuhara, Yasuyuki Kaji",
+    "composer": "Tsutomu Narita",
+    "synopsis": "Um RPG de ação no céu, em que a tripulação de Gran e Djeeta navega entre ilhas flutuantes. Combate rápido e cooperativo para quatro jogadores, com um visual de anime impressionante."
+  },
+  "switch-digimon-story-time-stranger": {
+    "priceMin": 42,
+    "priceMax": 57,
+    "publisher": "Bandai Namco Entertainment",
+    "developer": "Media.Vision",
+    "released": "2025",
+    "director": "Yusuke Tomono",
+    "composer": "Masafumi Takada",
+    "synopsis": "Um agente da ADAMAS viaja no tempo para impedir uma catástrofe que ameaça os mundos humano e digital. Um RPG por turnos com centenas de Digimon para criar e evoluir e uma história sobre os deuses do Digital World."
+  },
+  "switch-hyrule-warriors-age-of-imprisonment": {
+    "priceMin": 45,
+    "priceMax": 55,
+    "publisher": "Nintendo",
+    "developer": "AAA Games Studio",
+    "released": "2025",
+    "director": "Koki Aoyanagi",
+    "composer": "Keiichi Okabe, Ryuichi Takada, Kuniyuki Takahashi e outros",
+    "synopsis": "Um musou que conta a guerra de fundação de Hyrule, no passado distante de Tears of the Kingdom. Zelda, Rauru, Sonia e os sábios ancestrais enfrentam o exército de Ganondorf numa história que até então só conhecíamos por memórias."
+  },
+  "switch-persona-3-reload": {
+    "priceMin": 45,
+    "priceMax": 55,
+    "publisher": "Sega",
+    "developer": "P-Studio",
+    "released": "2024",
+    "director": "Takuya Yamaguchi",
+    "composer": "Atsushi Kitajoh",
+    "synopsis": "Remake completo de Persona 3. Durante a misteriosa Hora Sombria, que existe entre um dia e outro, um grupo de estudantes sobe a torre Tartarus para enfrentar Shadows. Vida escolar, laços de amizade e uma trama sobre a morte."
+  },
+  "switch-cyberpunk-2077": {
+    "priceMin": 45,
+    "priceMax": 60,
+    "publisher": "CD Projekt",
+    "developer": "CD Projekt Red",
+    "released": "2020",
+    "director": "Adam Badowski, Konrad Tomaszkiewicz, Gabriel Amatangelo",
+    "composer": "P. T. Adamczyk, Marcin Przybyłowicz, Paul Leonard-Morgan",
+    "synopsis": "Em Night City, uma metrópole obcecada por poder e implantes cibernéticos, o mercenário V carrega um chip com a consciência do rockstar rebelde Johnny Silverhand. RPG de mundo aberto com várias formas de jogar, nesta edição com a expansão Phantom Liberty."
+  },
+  "switch-rune-factory-guardians-of-azuma": {
+    "priceMin": 45,
+    "priceMax": 55,
+    "publisher": "Marvelous Entertainment",
+    "developer": "Marvelous",
+    "released": "2025",
+    "director": "Shiro Maekawa",
+    "composer": "Noriyuki Asakura",
+    "synopsis": "Um Rune Factory inspirado no Japão antigo, em que você reconstrói vilarejos e restaura a terra de Azuma com a ajuda de deuses. Combate com armas tradicionais, agricultura, festivais e romances numa nova era da série."
+  },
+  "switch-sonic-x-shadow-generations": {
+    "priceMin": 30,
+    "priceMax": 35,
+    "publisher": "Sega",
+    "developer": "Sonic Team",
+    "released": "2024",
+    "director": "Katsuyuki Shigihara, Yuka Kobayashi",
+    "composer": "Jun Senoue",
+    "synopsis": "Duas aventuras em uma: o clássico Sonic Generations, em que o Sonic moderno e o clássico atravessam a história da série, e Shadow Generations, uma campanha nova em que Shadow enfrenta o passado e ganha novos poderes de Doom."
+  },
+  "switch-no-man-s-sky": {
+    "priceMin": 25,
+    "priceMax": 35,
+    "publisher": "Hello Games",
+    "developer": "Hello Games",
+    "released": "2016",
+    "composer": "65daysofstatic, Earcom / Paul Weir",
+    "synopsis": "Um universo procedural com trilhões de planetas para explorar, cada um com fauna, clima e paisagens próprios. Construa bases, pilote naves e cargueiros e descubra a origem do universo, sozinho ou com outros jogadores."
+  },
+  "3ds-fire-emblem-awakening": {
+    "publisher": "Nintendo",
+    "developer": "Intelligent Systems",
+    "released": "2012",
+    "director": "Kouhei Maeda, Genki Yokota",
+    "composer": "Hiroki Morishita, Rei Kondoh",
+    "synopsis": "O príncipe Chrom e seus Pastores protegem Ylisse quando uma jovem mascarada, que diz se chamar Marth, aparece trazendo avisos sobre um futuro terrível. O RPG tático que salvou a série, com sistema de casamento entre aliados, filhos que vêm do futuro e o modo casual para iniciantes."
+  },
+  "3ds-fire-emblem-fates-conquest": {
+    "publisher": "Nintendo",
+    "developer": "Intelligent Systems",
+    "released": "2015",
+    "director": "Kouhei Maeda, Genki Yokota",
+    "composer": "Takeru Kanazaki, Hiroki Morishita, Rei Kondoh e outros",
+    "synopsis": "Criado pela família real de Nohr, Corrin escolhe ficar ao lado do reino que o adotou, mesmo sabendo dos crimes do rei Garon. A rota mais desafiadora de Fates, com mapas cheios de objetivos táticos e sem batalhas extras para treinar."
+  },
+  "3ds-super-mario-3d-land": {
+    "publisher": "Nintendo",
+    "developer": "Nintendo EAD Tokyo",
+    "released": "2011",
+    "director": "Koichi Hayashida",
+    "composer": "Asuka Hayazaki, Takeshi Hama, Mahito Yokota",
+    "synopsis": "Mario corre atrás de Bowser em fases compactas que misturam o melhor dos Mario 2D e 3D, usando o 3D estereoscópico de verdade para medir distâncias. A volta da Folha Tanooki e muitos segredos para colecionar."
+  },
+  "3ds-super-smash-bros": {
+    "publisher": "Nintendo",
+    "developer": "Bandai Namco Studios, Sora Ltd.",
+    "released": "2014",
+    "director": "Masahiro Sakurai",
+    "composer": "Junichi Nakatsuru, Keiki Kobayashi, Hiroki Hashimoto e outros",
+    "synopsis": "O primeiro Smash portátil reúne mais de 50 lutadores, com os estreantes Mega Man, Pac-Man, Robin, Lucina e Palutena. Traz o modo Smash Run, em que você coleta power-ups numa arena gigante antes do confronto final."
+  },
+  "3ds-fire-emblem-echoes-shadows-of-valentia": {
+    "publisher": "Nintendo",
+    "developer": "Intelligent Systems",
+    "released": "2017",
+    "director": "Toshiyuki Kusakihara, Kenta Nakanishi, Genki Yokota",
+    "composer": "Takeru Kanazaki, Yasuhisa Baba, Takafumi Wada, Sho Murakami",
+    "synopsis": "Remake de Fire Emblem Gaiden. Os amigos de infância Alm e Celica seguem caminhos diferentes para salvar o continente de Valentia da guerra entre Zofia e Rigel. Exploração de masmorras em 3D, dublagem completa e a mecânica de voltar o tempo com Mila's Turnwheel."
+  },
+  "3ds-fire-emblem-fates-birthright": {
+    "publisher": "Nintendo",
+    "developer": "Intelligent Systems",
+    "released": "2015",
+    "director": "Kouhei Maeda, Genki Yokota",
+    "composer": "Takeru Kanazaki, Hiroki Morishita, Rei Kondoh e outros",
+    "synopsis": "Corrin descobre que nasceu na família real de Hoshido e decide ficar ao lado de seus irmãos de sangue contra Nohr. A rota mais acessível de Fates, com visual inspirado no Japão feudal e liberdade para treinar o exército."
+  },
+  "3ds-persona-q2-new-cinema-labyrinth": {
+    "publisher": "Sega",
+    "developer": "P-Studio, Lancarse",
+    "released": "2018",
+    "director": "Yuta Aihara",
+    "composer": "Atsushi Kitajoh",
+    "synopsis": "Os elencos de Persona 3, 4 e 5 ficam presos num cinema misterioso e precisam atravessar labirintos baseados em filmes para escapar. Um dungeon crawler em que você mapeia os corredores à mão, com mais de 20 personagens jogáveis."
+  },
+  "3ds-xenoblade-chronicles-3d": {
+    "publisher": "Nintendo",
+    "developer": "Monolith Soft",
+    "released": "2010",
+    "synopsis": "A versão portátil do épico de Shulk e da espada Monado, num mundo construído sobre os corpos de dois titãs. Só roda no New 3DS e mantém o RPG completo, com áreas enormes e combate em tempo real."
+  },
+  "3ds-pokemon-x": {
+    "publisher": "Nintendo, The Pokémon Company, Game Freak, Creatures Inc.",
+    "developer": "Game Freak",
+    "released": "2013",
+    "director": "Junichi Masuda",
+    "composer": "Shota Kageyama, Minako Adachi, Hitomi Sato, Junichi Masuda",
+    "synopsis": "Na região de Kalos, inspirada na França, a sexta geração estreia os gráficos 3D na série principal, o tipo Fada e as Mega Evoluções. Torre de Lumiose, aventura com amigos e o lendário Xerneas na capa."
+  },
+  "3ds-pokemon-omega-ruby": {
+    "publisher": "The Pokémon Company, Nintendo",
+    "developer": "Game Freak",
+    "released": "2014",
+    "director": "Shigeru Ohmori",
+    "composer": "Shota Kageyama, Minako Adachi, Hideaki Kuroda, Hitomi Sato",
+    "synopsis": "Remake de Pokémon Ruby na região de Hoenn. As equipes Magma e Aqua querem expandir a terra e o mar, e o lendário Groudon está no centro da disputa. Traz Mega Evoluções, Primal Reversion e o capítulo extra Delta Episode."
+  },
+  "3ds-pokemon-sun": {
+    "publisher": "The Pokémon Company",
+    "developer": "Game Freak",
+    "released": "2016",
+    "director": "Shigeru Ohmori",
+    "composer": "Minako Adachi, Go Ichinose, Junichi Masuda e outros",
+    "synopsis": "Na região tropical de Alola, a tradicional jornada de ginásios dá lugar às Island Trials, com Pokémon Totem e Z-Moves. A sétima geração apresenta as formas regionais de Alola, os Ultra Beasts e o lendário Solgaleo."
+  },
+  "3ds-bravely-default": {
+    "publisher": "Square Enix, Nintendo",
+    "developer": "Silicon Studio, Cattle Call (HD Remaster)",
+    "released": "2012",
+    "director": "Kensuke Nakahara",
+    "composer": "Revo",
+    "synopsis": "Quatro heróis precisam despertar os cristais elementais para salvar Luxendarc de uma escuridão que se espalha. Um RPG por turnos com o sistema Brave e Default, em que você acumula ou gasta turnos, e mais de 20 classes para combinar livremente."
+  },
+  "3ds-project-x-zone-2": {
+    "publisher": "Bandai Namco Entertainment",
+    "developer": "Monolith Soft",
+    "released": "2015",
+    "director": "Soichiro Morizumi",
+    "composer": "Yuzo Koshiro (abertura e encerramento)",
+    "synopsis": "Personagens da Capcom, da Sega e da Bandai Namco se unem contra correntes dimensionais que misturam seus mundos. Um RPG tático cheio de combos espetaculares, com Ryu, Ken, Chrom, Lucina e dezenas de outros heróis."
+  },
+  "3ds-resident-evil-revelations": {
+    "publisher": "Capcom",
+    "developer": "Capcom",
+    "released": "2012",
+    "director": "Koshi Nakanishi",
+    "composer": "Kota Suzuki, Takeshi Miura",
+    "synopsis": "Entre Resident Evil 4 e 5, Jill Valentine investiga um navio de cruzeiro abandonado no meio do mar. Uma volta ao terror de sobrevivência de corredores apertados, com o scanner Genesis e um novo vírus mortal, o T-Abyss."
+  },
+  "3ds-bravely-second-end-layer": {
+    "publisher": "Square Enix",
+    "developer": "Silicon Studio",
+    "released": "2015",
+    "director": "Kensuke Nakahara, Keita Oka",
+    "composer": "Ryo",
+    "synopsis": "Dois anos depois de Bravely Default, o papa Agnès é sequestrado pelo misterioso Kaiser Oblivion, e o jovem Yew parte para resgatá-la. Volta o sistema de turnos com o novo poder Bravely Second, que congela o tempo para atacar de surpresa."
+  },
+  "3ds-dragon-ball-fusions": {
+    "publisher": "Bandai Namco Entertainment",
+    "developer": "Ganbarion",
+    "released": "2016",
+    "synopsis": "Um desejo às Esferas do Dragão cria um universo onde personagens de todas as épocas se encontram para lutar. Você monta uma equipe com cerca de mil personagens e faz fusões impossíveis, como Goku com Freeza."
+  },
+  "3ds-dragon-quest-vii": {
+    "publisher": "Enix",
+    "developer": "Heartbeat, ArtePiazza, HexaDrive",
+    "released": "2000",
+    "director": "Manabu Yamana",
+    "composer": "Koichi Sugiyama",
+    "synopsis": "Numa ilha que parece ser a única do mundo, um jovem e seus amigos descobrem fragmentos que reconstroem ilhas perdidas. Cada fragmento leva a uma história sobre o passado do mundo, neste remake de um dos RPGs mais longos da série."
+  },
+  "3ds-dragon-quest-viii-el-periplo-del-rey-maldito": {
+    "publisher": "Square Enix",
+    "developer": "Level-5",
+    "released": "2004",
+    "director": "Akihiro Hino",
+    "composer": "Koichi Sugiyama",
+    "synopsis": "O rei Trode e a princesa Medea foram transformados num monstro e num cavalo pelo bobo da corte Dhoulmagus, e um jovem guarda parte para quebrar a maldição. Um dos Dragon Quest mais queridos, com um vasto mundo e dois personagens jogáveis a mais nesta versão."
+  },
+  "3ds-fantasy-life": {
+    "publisher": "Nintendo",
+    "developer": "Level-5",
+    "released": "2012",
+    "director": "Atsushi Kanno",
+    "composer": "Nobuo Uematsu",
+    "synopsis": "Uma vida de fantasia na Ilha Reveria, em que você escolhe e troca livremente de profissão: paladino, mago, ferreiro, cozinheiro, pescador e muito mais. Uma mistura charmosa de RPG e simulação de vida da Level-5, com trilha de Nobuo Uematsu."
+  },
+  "3ds-kid-icarus": {
+    "publisher": "Nintendo",
+    "developer": "Project Sora",
+    "released": "2012",
+    "director": "Masahiro Sakurai",
+    "composer": "Motoi Sakuraba, Yuzo Koshiro, Masafumi Takada e outros",
+    "synopsis": "Pit, o anjo servo da deusa Palutena, volta depois de 25 anos para enfrentar Medusa e o Exército do Submundo. Partes aéreas no estilo shooter e combate em terra, com diálogos cheios de humor e um sistema de dificuldade em que você aposta corações."
+  },
+  "3ds-mario-kart-7": {
+    "publisher": "Nintendo",
+    "developer": "Nintendo EAD, Retro Studios",
+    "released": "2011",
+    "director": "Kosuke Yabuki",
+    "composer": "Kenta Nagata, Satomi Terui",
+    "synopsis": "O Mario Kart do 3DS traz asa-delta para planar e hélices para correr debaixo d'água, além de karts personalizáveis peça por peça. Inclui pistas novas e clássicas e corridas online."
+  },
+  "3ds-metroid-samus-returns": {
+    "publisher": "Nintendo",
+    "released": "2017",
+    "director": "Takehiko Hosokawa, Jose Luis Márquez",
+    "composer": "Kenji Yamamoto, Daisuke Matsuoka",
+    "synopsis": "Remake de Metroid II. Samus vai ao planeta SR388 com a missão de exterminar todos os Metroids. Traz o contra-ataque corpo a corpo, habilidades de Aeion e uma exploração em 2D que abriu caminho para Metroid Dread."
+  },
+  "3ds-monster-hunter-4-ultimate": {
+    "publisher": "Capcom",
+    "developer": "Capcom",
+    "released": "2013",
+    "director": "Kaname Fujioka",
+    "composer": "Marika Suzuki, Miwako Chinone, Reo Uratani",
+    "synopsis": "Você viaja com uma caravana pelo continente enquanto investiga um monstro misterioso, o Gore Magala. A versão que trouxe a verticalidade para a série: pular de penhascos, montar nos monstros e lutar em terrenos acidentados."
+  },
+  "3ds-pokemon-super-mystery-dungeon": {
+    "publisher": "The Pokémon Company",
+    "developer": "Spike Chunsoft",
+    "released": "2015",
+    "director": "Seiichiro Nagahata, Hironori Ishigami",
+    "composer": "Keisuke Ito, Yasuhiro Kawagoe, Noriko Murakami",
+    "synopsis": "Você acorda transformado num Pokémon e vive aventuras ao lado de outros Pokémon em masmorras geradas aleatoriamente. Um roguelike com os 720 Pokémon da época e uma história sobre amizade e conexões."
+  },
+  "3ds-project-x-zone": {
+    "publisher": "Namco Bandai Games",
+    "developer": "Monolith Soft",
+    "released": "2012",
+    "director": "Soichiro Morizumi",
+    "composer": "Naofumi Tsuruyama, Takuya Hanaoka, Kayoko Matsushima",
+    "synopsis": "Personagens da Capcom, da Sega e da Bandai Namco se cruzam num conflito entre dimensões. Um RPG tático com batalhas em combos, reunindo Ryu, Chun-Li, X, Jill e dezenas de heróis desses universos."
+  },
+  "3ds-resident-evil-the-mercenaries-3d": {
+    "publisher": "Capcom",
+    "developer": "TOSE",
+    "released": "2011",
+    "director": "Kazuhisa Inoue",
+    "synopsis": "O clássico modo Mercenaries em formato portátil: escolha entre oito personagens da série e sobreviva a hordas de inimigos com tempo limitado. Ação pura, rápida e cheia de ranking para melhorar."
+  },
+  "3ds-rune-factory-4": {
+    "publisher": "Marvelous Entertainment",
+    "developer": "Neverland",
+    "released": "2012",
+    "director": "Masahide Miyata, Shinichi Manabe",
+    "composer": "Tomoko Morita",
+    "synopsis": "Você cai de uma aeronave na cidade de Selphia e é confundido com o príncipe. Agora precisa cuidar do vilarejo, plantar, criar monstros, explorar masmorras e, quem sabe, encontrar alguém para casar."
+  },
+  "3ds-shin-megami-tensei-iv": {
+    "publisher": "Atlus, Atlus USA, Deep Silver",
+    "developer": "Atlus",
+    "released": "2013",
+    "director": "Kazuyuki Yamai",
+    "composer": "Ryota Kozuka, Kenichi Tsuchiya, Toshiki Konishi",
+    "synopsis": "Flynn se torna samurai no reino medieval de Mikado, mas descobre que o mundo abaixo dele é uma Tóquio devastada por demônios. Escolhas entre Lei, Caos e Neutralidade, negociação com demônios e um dos RPGs mais desafiadores do 3DS."
+  },
+  "3ds-shin-megami-tensei-iv-apocalypse": {
+    "publisher": "Atlus, Deep Silver",
+    "developer": "Atlus",
+    "released": "2016",
+    "director": "Satoshi Ōyama",
+    "composer": "Ryota Kozuka",
+    "synopsis": "Uma história paralela a SMT IV, vista pelos olhos de Nanashi, um caçador que morre e é ressuscitado pelo deus Dagda. Personagens novos, um tom mais emocional e muitas melhorias de jogabilidade."
+  },
+  "3ds-shin-megami-tensei-devil-summoner-soul-hackers": {
+    "publisher": "Nippon Ichi Software",
+    "developer": "Atlus",
+    "released": "1997",
+    "synopsis": "Numa cidade digital do futuro, um hacker e sua namorada se envolvem com invocadores de demônios e uma conspiração ligada à realidade virtual. Clássico cult da Atlus refeito para o 3DS."
+  },
+  "3ds-shin-megami-tensei-strange-journey": {
+    "publisher": "Atlus",
+    "developer": "Atlus, Lancarse",
+    "released": "2009",
+    "director": "Eiji Ishida",
+    "composer": "Shoji Meguro, Toshiki Konishi (Redux)",
+    "synopsis": "Uma tropa de elite é enviada à Schwarzwelt, uma anomalia na Antártida que ameaça engolir o planeta. Um dungeon crawler difícil e sombrio, nesta versão Redux com nova masmorra, finais extras e a misteriosa Alex."
+  },
+  "3ds-sonic-lost-world": {
+    "publisher": "Sega",
+    "developer": "Sonic Team (Wii U), Dimps (3DS)",
+    "released": "2013",
+    "director": "Morio Kishimoto (Wii U), Takao Hirabayashi (3DS)",
+    "composer": "Tomoya Ohtani, Takahito Eguchi",
+    "synopsis": "Sonic vai até o Lost Hex, um mundo de planetas tubulares, para enfrentar o Deadly Six, que se voltou contra Eggman. Fases criativas com o novo parkour e muita velocidade."
+  },
+  "3ds-star-fox-64-3d": {
+    "publisher": "Nintendo",
+    "developer": "Nintendo EAD, Q-Games",
+    "released": "2011",
+    "director": "Dylan Cuthbert",
+    "composer": "Satomi Terui",
+    "synopsis": "Remake do clássico de N64. Fox McCloud e a equipe Star Fox voam por Lylat para derrotar Andross. Missões em nave Arwing, Landmaster e submarino, com rotas secretas e falas que viraram memes, como o famoso 'Do a barrel roll!'."
+  },
+  "3ds-stella-glow": {
+    "developer": "Imageepoch",
+    "released": "2015",
+    "director": "Dai Oba",
+    "composer": "Shunsuke Tsuchiya, Yasunori Mitsuda",
+    "synopsis": "Num mundo em que a música tem poder mágico, o jovem Alto se une a bruxas capazes de cantar para salvar o reino da Bruxa da Destruição. Um RPG tático da Imageepoch com músicas cantadas, estratégia e muitos laços entre personagens."
+  },
+  "3ds-tales-of-the-abyss": {
+    "publisher": "Namco",
+    "developer": "Namco Tales Studio",
+    "released": "2005",
+    "director": "Yoshito Higuchi",
+    "composer": "Motoi Sakuraba, Shinji Tamura, Motoo Fujiwara",
+    "synopsis": "O jovem nobre Luke fon Fabre, mimado e isolado do mundo, é jogado numa aventura ao ser acusado de destruir uma cidade inteira. Um dos melhores Tales, com combate em tempo real e uma das jornadas de amadurecimento mais marcantes do gênero."
+  },
+  "3ds-zelda-a-link-between-worlds": {
+    "publisher": "Nintendo",
+    "developer": "Nintendo EAD",
+    "released": "2013",
+    "director": "Hiromasa Shikata",
+    "composer": "Ryō Nagamatsu",
+    "synopsis": "Sequência espiritual de A Link to the Past, em que Link pode virar um desenho e se mover pelas paredes. Você aluga os itens desde o início e escolhe a ordem das masmorras, entre Hyrule e o reino sombrio de Lorule."
+  },
+  "3ds-zelda-majora-s-mask": {
+    "publisher": "Nintendo",
+    "developer": "Grezzo",
+    "released": "2015",
+    "director": "Mikiharu Ooiwa",
+    "composer": "Koji Kondo",
+    "synopsis": "Link tem três dias para impedir que a lua caia sobre Termina. O tempo volta sempre ao primeiro dia, e você aprende a rotina de cada morador para ajudá-los, usando máscaras com poderes. O Zelda mais sombrio e melancólico, refeito em 3D."
+  },
+  "3ds-zelda-ocarina-of-time": {
+    "publisher": "Nintendo",
+    "developer": "Grezzo",
+    "released": "2011",
+    "composer": "Koji Kondo, Mahito Yokota, Takeshi Hama",
+    "synopsis": "O jovem Link precisa impedir que Ganondorf conquiste a Triforce e viaja entre a infância e a vida adulta com a Ocarina do Tempo. Remake para 3DS do jogo que definiu as aventuras 3D, com gráficos refeitos e a Master Quest."
+  },
+  "3ds-shin-megami-tensei-devil-survivor-overclocked": {
+    "publisher": "Atlus",
+    "developer": "Atlus",
+    "released": "2009",
+    "director": "Shinjiro Takada",
+    "composer": "Takami Asano, Kenichi Tsuchiya, Atsushi Kitajoh",
+    "synopsis": "Tóquio entra em quarentena por uma semana, e um grupo de jovens recebe aparelhos capazes de invocar demônios e prever mortes. RPG tático com a fusão de demônios de Megami Tensei e várias rotas para sobreviver aos sete dias."
+  },
+  "3ds-shin-megami-tensei-devil-survivor-2-record-breaker": {
+    "publisher": "Atlus",
+    "developer": "Atlus",
+    "released": "2009",
+    "director": "Shinjiro Takada",
+    "composer": "Takami Asano, Kenichi Tsuchiya, Atsushi Kitajoh",
+    "synopsis": "Monstros alienígenas chamados Septentriones atacam o Japão, e jovens com celulares capazes de invocar demônios precisam resistir. Uma semana de escolhas difíceis, agora com o arco extra Triangulum."
+  },
+  "3ds-etrian-odyssey-v": {
+    "publisher": "Atlus",
+    "developer": "Atlus",
+    "released": "2016",
+    "director": "Shigeo Komori",
+    "composer": "Yuzo Koshiro",
+    "synopsis": "Em busca do topo da lendária Árvore Yggdrasil, você monta e personaliza sua guilda de aventureiros. Um dungeon crawler exigente, em que você desenha os mapas à mão e enfrenta FOEs, monstros que patrulham os corredores."
+  },
+  "3ds-pokemon-ultra-sun": {
+    "publisher": "The Pokémon Company",
+    "developer": "Game Freak",
+    "released": "2017",
+    "director": "Kazumasa Iwao",
+    "composer": "Minako Adachi, Go Ichinose, Junichi Masuda, Tomoaki Oga",
+    "synopsis": "Uma versão expandida de Pokémon Sun, com uma história alternativa ligada a Necrozma e aos Ultra Beasts. Novos Pokémon, novas formas, o Ultra Wormhole e o Rainbow Rocket com chefes de vilões de todas as gerações."
+  },
+  "3ds-persona-q-shadow-of-the-labyrinth": {
+    "publisher": "Nippon Ichi Software",
+    "developer": "P-Studio",
+    "released": "2014",
+    "director": "Daisuke Kanada",
+    "composer": "Atsushi Kitajoh, Toshiki Konishi",
+    "synopsis": "Os heróis de Persona 3 e Persona 4 se encontram numa escola misteriosa cheia de labirintos. Um dungeon crawler com mapas desenhados à mão e personagens em estilo chibi, com uma história leve e bem-humorada."
+  },
+  "3ds-zelda-tri-force-heroes": {
+    "publisher": "Nintendo",
+    "developer": "Nintendo EPD, Grezzo",
+    "released": "2015",
+    "director": "Hiromasa Shikata",
+    "composer": "Ryō Nagamatsu",
+    "synopsis": "Três Links empilham-se em totens e combinam itens para resolver quebra-cabeças cooperativos. Tudo para salvar a princesa de Hytopia de uma maldição que a obriga a usar um macacão feio."
+  },
+  "3ds-kirby-planet-robobot": {
+    "publisher": "Nintendo",
+    "developer": "HAL Laboratory",
+    "released": "2016",
+    "director": "Shinya Kumazaki",
+    "composer": "Hirokazu Ando, Jun Ishikawa",
+    "synopsis": "Uma invasão alienígena transforma Dream Land em máquinas, e Kirby pilota uma armadura robótica que copia poderes dos inimigos. Uma das melhores aventuras 2.5D do Kirby, com chefes incríveis e muitos segredos."
+  },
+  "3ds-ever-oasis": {
+    "publisher": "Nintendo",
+    "developer": "Grezzo",
+    "released": "2017",
+    "director": "Koichi Ishii",
+    "composer": "Sebastian Schwartz",
+    "synopsis": "Você planta um oásis no meio do deserto e convida viajantes para viver e abrir lojas nele, enquanto enfrenta o Caos que se espalha. Um RPG de ação com construção de cidade, da Grezzo."
+  },
+  "3ds-final-fantasy-explorers": {
+    "publisher": "Square Enix",
+    "developer": "Racjin, Square Enix",
+    "released": "2014",
+    "director": "Atsushi Hashimoto",
+    "composer": "Tsuyoshi Sekito",
+    "synopsis": "Um RPG de ação cooperativo em que caçadores enfrentam Eidolons clássicos de Final Fantasy, como Shiva e Bahamut. Trocas de classe, Trance para se transformar em heróis da série e muitas caçadas com amigos."
+  },
+  "ds-away-shuffle-dungeon": {
+    "publisher": "AQ Interactive",
+    "developer": "Artoon, Mistwalker",
+    "released": "2008",
+    "director": "Masahide Kobayashi",
+    "composer": "Nobuo Uematsu, Yutaka Minobe",
+    "synopsis": "Os moradores de uma vila desaparecem misteriosamente, e um jovem sai em busca deles numa masmorra que se reorganiza o tempo todo. Um RPG de ação da Mistwalker com fases que mudam de forma e ritmo frenético."
+  },
+  "ds-bleach-dark-souls": {
+    "publisher": "Sega",
+    "developer": "Treasure",
+    "released": "2007",
+    "director": "Tetsuya Iizuka",
+    "synopsis": "Ichigo e os Shinigami enfrentam os Arrancar de Aizen num jogo de luta em 2D com dezenas de personagens do anime. O modo história traz uma trama exclusiva e um sistema de cartas que adiciona estratégia às lutas."
+  },
+  "ds-blue-dragon-plus": {
+    "publisher": "AQ Interactive",
+    "developer": "feelplus, Brownie Brown",
+    "released": "2008",
+    "director": "Takeo Ōin",
+    "composer": "Nobuo Uematsu",
+    "synopsis": "Um ano depois de Blue Dragon, Shu e seus amigos investigam um mundo partido em cubos flutuantes. Um RPG de estratégia em tempo real com os personagens de Akira Toriyama e trilha de Nobuo Uematsu."
+  },
+  "ds-blue-dragon-awakened-shadow": {
+    "publisher": "Bandai Namco Entertainment",
+    "developer": "Mistwalker, tri-Crescendo",
+    "released": "2009",
+    "director": "Yoshiharu Miyake, Takeshi Kaneda",
+    "composer": "Nobuo Uematsu",
+    "synopsis": "Um jovem sem memória desperta seu próprio poder de sombra e se junta a Shu e companhia para enfrentar uma nova ameaça. Um RPG de ação com o visual de Akira Toriyama."
+  },
+  "ds-castlevania-order-of-ecclesia": {
+    "publisher": "Konami",
+    "developer": "Konami",
+    "released": "2008",
+    "director": "Akihiro Minakata",
+    "composer": "Michiru Yamane, Yasuhiro Ichihashi",
+    "synopsis": "Shanoa, membro da Ordem de Ecclesia, persegue um traidor que roubou o poder capaz de destruir Drácula. Um dos Castlevania mais difíceis, com o sistema de Glyphs, magias que ela absorve dos inimigos."
+  },
+  "ds-dinosaur-king": {
+    "publisher": "Sega",
+    "developer": "Sega AM3",
+    "released": "2007",
+    "synopsis": "Rex, Max e Zoe usam cartas para trazer dinossauros de volta à vida e enfrentar a Gangue Alfa. Um RPG baseado no anime, com batalhas de pedra, papel e tesoura e dezenas de dinossauros para colecionar."
+  },
+  "ds-disgaea": {
+    "publisher": "Nippon Ichi Software",
+    "developer": "Nippon Ichi Software",
+    "released": "2003",
+    "director": "Yoshitsuna Kobayashi",
+    "composer": "Tenpei Sato",
+    "synopsis": "Laharl, um príncipe arrogante, acorda depois de dois anos e descobre que o pai morreu e o Submundo virou um caos. Um RPG tático hilário com níveis absurdos (até 9999), o Item World e uma trama cheia de humor negro."
+  },
+  "ds-dragon-quest-iv": {
+    "publisher": "Square Enix (2007-present)",
+    "developer": "Heartbeat, ArtePiazza (PS), ArtePiazza, Cattle Call (NDS)",
+    "released": "1990",
+    "director": "Koichi Nakamura",
+    "composer": "Koichi Sugiyama",
+    "synopsis": "Os Capítulos dos Escolhidos: uma história em cinco partes, cada uma com seus próprios heróis, que se unem no final contra o rei demônio Psaro. Este remake traz o capítulo extra, que revela o lado do vilão."
+  },
+  "ds-dragon-quest-monsters-joker": {
+    "publisher": "Square Enix",
+    "developer": "Tose",
+    "released": "2006",
+    "director": "Toshimichi Wada",
+    "composer": "Koichi Sugiyama",
+    "synopsis": "Um jovem participa de um torneio de domadores de monstros num arquipélago misterioso. Capture monstros, combine-os em novas criaturas e monte a equipe definitiva no primeiro Dragon Quest Monsters em 3D."
+  },
+  "ds-dragon-quest-monsters-joker-2": {
+    "publisher": "Nintendo",
+    "developer": "Tose",
+    "released": "2010",
+    "director": "Toshimichi Wada",
+    "composer": "Koichi Sugiyama",
+    "synopsis": "Um passageiro clandestino cai numa ilha cheia de monstros e precisa sobreviver capturando e combinando criaturas. A sequência traz monstros gigantes e mais de 300 criaturas para criar."
+  },
+  "ds-dragon-quest-v": {
+    "publisher": "Enix (SFC), Square Enix (PS2, DS e outros",
+    "developer": "Chunsoft (SFC), ArtePiazza (PS2, DS e outros",
+    "released": "1992",
+    "director": "Manabu Yamana",
+    "composer": "Koichi Sugiyama",
+    "synopsis": "A Mão da Noiva Celestial: uma história que acompanha o herói por toda a vida, da infância ao casamento e aos filhos. Uma das narrativas mais emocionantes da série, com monstros que se juntam ao grupo."
+  },
+  "ds-dragon-quest-vi": {
+    "publisher": "Super Famicom, Nintendo DS, iOS, Android",
+    "developer": "Heartbeat",
+    "released": "1995",
+    "director": "Manabu Yamana",
+    "composer": "Koichi Sugiyama",
+    "synopsis": "Reinos de Reverie: um herói viaja entre o mundo real e o mundo dos sonhos para enfrentar o lorde demônio Murdaw. Um sistema de vocações profundo e uma história sobre identidade."
+  },
+  "ds-final-fantasy-iii": {
+    "publisher": "Square Enix",
+    "developer": "Matrix Software, Square Enix",
+    "released": "2011",
+    "director": "Hiromichi Tanaka",
+    "composer": "Tsuyoshi Sekito, Keiji Kawamori",
+    "synopsis": "Quatro órfãos são escolhidos pelo Cristal do Vento para restaurar o equilíbrio do mundo. Remake 3D do clássico japonês que estreou o sistema de trocas de classe da série."
+  },
+  "ds-final-fantasy-iv": {
+    "publisher": "Square Enix",
+    "developer": "Matrix Software",
+    "released": "2007",
+    "director": "Takashi Tokita",
+    "composer": "Junya Nakano, Kenichiro Fukui",
+    "synopsis": "Cecil, um cavaleiro sombrio do reino de Baron, questiona as ordens cruéis do rei e parte em busca de redenção. Um dos Final Fantasy mais marcantes, refeito em 3D com cenas dubladas."
+  },
+  "ds-final-fantasy-the-4-heroes-of-light": {
+    "publisher": "Square Enix",
+    "developer": "Matrix Software",
+    "released": "2009",
+    "director": "Takashi Tokita, Hiroaki Yabuta",
+    "composer": "Naoshi Mizuta",
+    "synopsis": "Quatro jovens partem para salvar a princesa e acabam envolvidos numa aventura contra a Bruxa da Luz. Um RPG no estilo clássico, com visual de livro ilustrado e o sistema de Coroas para trocar de classe."
+  },
+  "ds-grand-theft-auto-chinatown-wars": {
+    "publisher": "Rockstar Games",
+    "developer": "Rockstar Leeds, Rockstar North",
+    "released": "2009",
+    "synopsis": "Huang Lee chega a Liberty City para entregar uma espada da família e é roubado logo de cara. Um GTA completo no portátil, com visão de cima, minigames na tela de toque e um mercado de drogas para lucrar."
+  },
+  "ds-mario-luigi-partners-in-time": {
+    "publisher": "Nintendo",
+    "developer": "AlphaDream",
+    "released": "2005",
+    "director": "Hiroyuki Kubota",
+    "composer": "Yoko Shimomura",
+    "synopsis": "Mario e Luigi viajam ao passado e se unem às versões bebês deles mesmos para salvar o Reino dos Cogumelos dos alienígenas Shroobs. Quatro personagens controlados ao mesmo tempo num RPG cheio de humor."
+  },
+  "ds-mario-luigi-viaje-al-centro-de-bowser": {
+    "publisher": "Nintendo",
+    "developer": "AlphaDream",
+    "released": "2009",
+    "director": "Hiroyuki Kubota",
+    "composer": "Yoko Shimomura",
+    "synopsis": "Bowser engole Mario e Luigi sem perceber, e os irmãos precisam ajudá-lo de dentro do próprio corpo. Uma das aventuras mais engraçadas da série, alternando entre Bowser do lado de fora e os irmãos lá dentro."
+  },
+  "ds-mario-slam-basketball": {
+    "publisher": "Nintendo",
+    "developer": "Square Enix",
+    "released": "2006",
+    "director": "Shin Azuma",
+    "composer": "Masayoshi Soken",
+    "synopsis": "Mario e companhia jogam basquete de três contra três com cestas especiais e golpes absurdos. Os movimentos são feitos com toques e deslizes na tela, numa parceria entre a Nintendo e a Square Enix."
+  },
+  "ds-mega-man-star-force": {
+    "publisher": "Capcom",
+    "developer": "Capcom Production Studio 2",
+    "released": "2006",
+    "director": "Masahiro Yasuma",
+    "composer": "Yoshino Aoki, Mitsuhiko Takano",
+    "synopsis": "Geo Stelar se funde ao alienígena Omega-Xis e se transforma em Mega Man para combater ameaças no mundo das ondas eletromagnéticas. Batalhas com cartas, inspiradas em Battle Network."
+  },
+  "ds-mega-man-zero-collection": {
+    "publisher": "Capcom",
+    "developer": "Inti Creates",
+    "director": "Ryota Ito, Yoshinori Kawano",
+    "composer": "Ippo Yamada, Masaki Suzuki, Luna Umegaki e outros",
+    "synopsis": "Os quatro Mega Man Zero do Game Boy Advance num só cartucho. Zero desperta de um sono de cem anos para defender os Reploids, em jogos de ação difíceis e muito estilosos."
+  },
+  "ds-metroid-prime-hunters": {
+    "publisher": "Nintendo",
+    "developer": "Nintendo Software Technology",
+    "released": "2006",
+    "director": "Masamichi Abe",
+    "composer": "Lawrence Schwedler, James Phillipsen",
+    "synopsis": "Samus disputa os segredos do sistema Alimbic com seis caçadores de recompensas rivais. Um jogo de tiro em primeira pessoa no DS, com multiplayer online e controle pela tela de toque."
+  },
+  "ds-pokemon-edicion-negra": {
+    "publisher": "Nintendo, The Pokémon Company",
+    "developer": "Game Freak",
+    "released": "2010",
+    "director": "Junichi Masuda",
+    "composer": "Shota Kageyama, Go Ichinose, Hitomi Sato e outros",
+    "synopsis": "A região de Unova, inspirada em Nova York, apresenta 156 Pokémon totalmente novos. A Equipe Plasma defende a libertação dos Pokémon, numa das histórias mais marcantes da série, ao lado do lendário Reshiram."
+  },
+  "ds-pokemon-ranger-sombras-de-almia": {
+    "publisher": "Nintendo",
+    "developer": "Creatures Inc.",
+    "released": "2008",
+    "director": "Katsuyoshi Irie",
+    "composer": "Takuto Kitsuta, Kinta Sato, Shinobu Amayake",
+    "synopsis": "Um jovem Ranger entra para a escola de Rangers em Almia e protege os Pokémon desenhando círculos na tela para acalmá-los. Uma aventura de ação diferente da série principal, contra a misteriosa Equipe Dim Sun."
+  },
+  "ds-pokemon-soulsilver": {
+    "publisher": "Nintendo, The Pokémon Company",
+    "developer": "Game Freak",
+    "released": "2009",
+    "director": "Shigeki Morimoto",
+    "composer": "Go Ichinose, Shota Kageyama, Hitomi Sato e outros",
+    "synopsis": "Remake de Pokémon Silver nas regiões de Johto e Kanto. Seu Pokémon parceiro anda ao seu lado o tempo todo, e o Pokéwalker vira um pedômetro para levar no bolso. Para muitos, o melhor Pokémon já feito."
+  },
+  "ds-sonic-rush": {
+    "publisher": "Sega",
+    "developer": "Dimps, Sonic Team",
+    "released": "2005",
+    "director": "Akinori Nishiyama",
+    "composer": "Hideki Naganuma, Teruhiko Nakagawa",
+    "synopsis": "Sonic e a nova personagem Blaze correm por fases nas duas telas do DS, num ritmo alucinante. Velocidade pura, com uma trilha sonora de Hideki Naganuma."
+  },
+  "ds-sonic-rush-adventure": {
+    "publisher": "Sega",
+    "developer": "Dimps, Sonic Team",
+    "released": "2007",
+    "director": "Sakae Osumi, Yukihiro Higashi",
+    "composer": "Tomoya Ohtani, Seirou Okamoto, Mariko Nanba",
+    "synopsis": "Sonic e Tails naufragam num mundo de ilhas e precisam construir barcos para navegar entre elas. Fases rápidas em duas telas e a volta de Blaze."
+  },
+  "ds-super-mario-64-ds": {
+    "publisher": "Nintendo",
+    "developer": "Nintendo EAD",
+    "released": "2004",
+    "director": "Shinichi Ikematsu",
+    "composer": "Kenta Nagata",
+    "synopsis": "Remake do clássico de N64 em que, além de Mario, você joga com Yoshi, Luigi e Wario, cada um com suas habilidades. Novas estrelas para coletar e minigames na tela de toque."
+  },
+  "ds-tetris-ds": {
+    "publisher": "Nintendo",
+    "developer": "Nintendo SPD",
+    "released": "2006",
+    "director": "Masaki Tawara",
+    "composer": "Minako Hamano, Akira Fujiwara",
+    "synopsis": "Tetris clássico com seis modos temáticos de clássicos da Nintendo, como Mario, Zelda e Metroid. Inclui multiplayer online e local."
+  },
+  "ds-transformers-autobots": {
+    "publisher": "Activision",
+    "developer": "Vicarious Visions",
+    "released": "2007",
+    "composer": "Rod Abernethy, Jason Graves",
+    "synopsis": "Os Autobots lutam contra os Decepticons numa cidade aberta, transformando-se em veículos a qualquer momento. Um jogo de ação baseado no filme de 2007."
+  },
+  "ds-valkyrie-profile-covenant-of-the-plume": {
+    "publisher": "Square Enix",
+    "developer": "tri-Ace",
+    "released": "2008",
+    "director": "Shunsuke Katsumata",
+    "composer": "Motoi Sakuraba",
+    "synopsis": "Wylfred jura vingança contra a Valquíria que levou o pai dele e recebe uma pena capaz de sacrificar aliados em troca de poder. Um RPG tático sombrio sobre culpa e redenção."
+  },
+  "ds-yoshi-s-island-ds": {
+    "publisher": "Nintendo",
+    "developer": "Artoon",
+    "released": "2006",
+    "director": "Hidetoshi Takeshita",
+    "composer": "Yutaka Minobe, Masayoshi Ishi",
+    "synopsis": "Os Yoshis carregam vários bebês, como Mario, Peach e Wario, cada um com uma habilidade, para resgatar o bebê Luigi. Plataforma com o charme de Yoshi's Island, agora nas duas telas."
+  },
+  "ds-zelda-phantom-hourglass": {
+    "publisher": "Nintendo",
+    "developer": "Nintendo EAD",
+    "released": "2007",
+    "director": "Daiki Iwamoto",
+    "synopsis": "Link procura Tetra, que foi raptada por um navio fantasma, e navega por um oceano cheio de ilhas. Os controles são todos pela tela de toque, e você desenha caminhos e anotações direto no mapa."
+  },
+  "ds-digimon-world-ds": {
+    "publisher": "Bandai Namco Games",
+    "developer": "BEC",
+    "released": "2006",
+    "director": "Akiyoshi Kanbe",
+    "composer": "Koji Yamada",
+    "synopsis": "Você é sugado para o Digital World e se torna domador de Digimon para impedir que ele seja destruído. Mais de 200 Digimon para capturar, treinar e evoluir."
+  },
+  "ds-digimon-world-dawn": {
+    "publisher": "Namco Bandai Games",
+    "developer": "BEC",
+    "released": "2007",
+    "synopsis": "Os Digimon de uma cidade estão sendo atacados, e jovens domadores se unem para descobrir o culpado. Um RPG com mais de 400 Digimon e muitas evoluções para desbloquear."
+  },
+  "ds-dragon-quest-ix": {
+    "publisher": "Nintendo",
+    "developer": "Level-5, Square Enix",
+    "released": "2009",
+    "director": "Akihiro Hino, Jin Fujisawa",
+    "composer": "Koichi Sugiyama",
+    "synopsis": "Um anjo guardião cai na Terra, perde as asas e precisa ajudar os humanos para recuperar o lugar no céu. O primeiro Dragon Quest com um grupo totalmente personalizável e multiplayer local para quatro."
+  },
+  "ds-pokemon-white-2": {
+    "publisher": "Nintendo, The Pokémon Company",
+    "developer": "Game Freak",
+    "released": "2012",
+    "director": "Takao Unno",
+    "composer": "Go Ichinose, Hitomi Sato",
+    "synopsis": "Dois anos depois de Black e White, a Equipe Plasma volta em Unova com novos planos. A primeira sequência direta da série principal, com novas cidades, o Pokéstar Studios e o Pokémon World Tournament."
+  },
+  "ds-pokemon-conquest": {
+    "publisher": "Nintendo, The Pokémon Company",
+    "developer": "Tecmo Koei",
+    "released": "2012",
+    "director": "Osamu Mieda",
+    "synopsis": "Pokémon encontra Nobunaga's Ambition, da Koei Tecmo. Senhores de guerra do Japão feudal formam laços com Pokémon e disputam 17 reinos numa estratégia por turnos."
+  },
+  "ds-pokemon-platinum": {
+    "publisher": "Nintendo",
+    "developer": "Game Freak",
+    "released": "2008",
+    "director": "Takeshi Kawachimaru",
+    "composer": "Hitomi Sato, Satoshi Nohara, Junichi Masuda, Go Ichinose",
+    "synopsis": "Uma versão expandida de Pokémon Diamond e Pearl em Sinnoh. O lendário Giratina e o Distortion World entram na história, com novas áreas e mudanças nos líderes de ginásio."
+  },
+  "ds-the-world-ends-with-you": {
+    "publisher": "Square Enix",
+    "developer": "Square Enix, Jupiter",
+    "released": "2007",
+    "director": "Tatsuya Kando, Tomohiro Hasegawa, Tetsuro Hosokawa",
+    "composer": "Takeharu Ishimoto",
+    "synopsis": "Neku acorda no Reapers' Game em Shibuya e tem sete dias para sobreviver. Um RPG que usa as duas telas do DS ao mesmo tempo, com muita moda, música e cultura de rua de Tóquio."
+  },
+  "wii-dragon-quest-swords": {
+    "publisher": "Square Enix",
+    "developer": "Genius Sonority, Eighting",
+    "released": "2007",
+    "director": "Takatsugu Nagayama",
+    "composer": "Manami Matsumae",
+    "synopsis": "O jovem herói enfrenta monstros num reino ameaçado pela Rainha Mascarada usando o Wii Remote como espada. Um Dragon Quest de ação em primeira pessoa, com golpes desenhados no ar e o visual de Akira Toriyama."
+  },
+  "wii-pandora-s-tower": {
+    "publisher": "Xseed Games",
+    "developer": "Ganbarion",
+    "released": "2011",
+    "director": "Toru Hoga, Takao Nakano",
+    "composer": "Takayuki Kobara",
+    "synopsis": "Para salvar Elena de uma maldição que a transforma num monstro, Aeron escala torres e arranca a carne dos senhores que as guardam. Um RPG de ação melancólico, com a corrente Oraclos como arma e um relógio correndo contra você."
+  },
+  "wii-pokemon-battle-revolution": {
+    "publisher": "Nintendo",
+    "developer": "Genius Sonority",
+    "released": "2006",
+    "director": "Manabu Yamana",
+    "composer": "Tsukasa Tawada",
+    "synopsis": "Batalhas Pokémon em 3D no Wii usando os seus Pokémon de Diamond, Pearl e Platinum. Coliseus temáticos em Pokétopia e batalhas online."
+  },
+  "wii-sega-bass-fishing": {
+    "publisher": "Sega",
+    "developer": "AM1 (Arcade, PC), Sims (DC e outros",
+    "released": "1999",
+    "synopsis": "O clássico de pesca dos fliperamas da Sega, com o Wii Remote fazendo o papel da vara. Escolha a isca, lance a linha e brigue com robalos enormes em lagos de todo tipo."
+  },
+  "wii-super-mario-galaxy-2": {
+    "publisher": "Nintendo",
+    "developer": "Nintendo EAD Tokyo",
+    "released": "2010",
+    "director": "Koichi Hayashida",
+    "composer": "Mahito Yokota, Ryō Nagamatsu, Koji Kondo",
+    "synopsis": "Mario volta ao espaço numa sequência ainda mais criativa, agora acompanhado por Yoshi. Cada galáxia traz uma ideia nova, e para muitos este é um dos melhores jogos de plataforma de todos os tempos."
+  },
+  "wii-zelda-skyward-sword": {
+    "publisher": "Nintendo",
+    "developer": "Nintendo EAD",
+    "released": "2011",
+    "director": "Hidemaro Fujibayashi",
+    "composer": "Hajime Wakai, Shiho Fujii, Mahito Yokota, Takeshi Hama",
+    "synopsis": "A primeira história da cronologia de Zelda: Link vive numa ilha flutuante e desce à terra para resgatar Zelda. Combate com a espada controlado pelo movimento do Wii Remote, numa aventura que revela a origem da Master Sword."
+  },
+  "wii-sonic-colors": {
+    "publisher": "Sega",
+    "developer": "Sonic Team",
+    "released": "2010",
+    "director": "Morio Kishimoto, Takao Hirabayashi",
+    "composer": "Tomoya Ohtani, Kenichi Tokoi, Fumie Kumatani e outros",
+    "synopsis": "Eggman constrói um parque de diversões interplanetário para capturar os Wisps, pequenos alienígenas que dão poderes ao Sonic. Velocidade, plataformas e um dos Sonic 3D mais bem recebidos."
+  },
+  "wii-super-mario-galaxy": {
+    "publisher": "Nintendo",
+    "developer": "Nintendo EAD Tokyo",
+    "released": "2007",
+    "director": "Yoshiaki Koizumi",
+    "composer": "Mahito Yokota, Koji Kondo",
+    "synopsis": "Mario viaja pelo espaço com a ajuda da Rosalina para salvar Peach. A gravidade muda a cada planetoide, e você corre ao redor de pequenos mundos, numa das aventuras mais encantadoras da Nintendo."
+  },
+  "wii-zelda-twilight-princess": {
+    "publisher": "Nintendo",
+    "developer": "Nintendo EAD",
+    "released": "2005",
+    "director": "Eiji Aonuma",
+    "synopsis": "Hyrule é coberta pelo Crepúsculo, e Link se transforma em lobo, guiado pela misteriosa Midna. O Zelda mais sombrio e épico da era, com masmorras memoráveis e uma Hyrule vasta para cavalgar."
+  },
+  "wii-the-last-story": {
+    "publisher": "Nintendo",
+    "developer": "Mistwalker, AQ Interactive",
+    "released": "2011",
+    "director": "Hironobu Sakaguchi",
+    "composer": "Nobuo Uematsu",
+    "synopsis": "Zael, um mercenário, sonha em se tornar cavaleiro na ilha de Lazulis e se envolve com a nobre Calista. Um RPG de ação do criador de Final Fantasy, Hironobu Sakaguchi, com trilha de Nobuo Uematsu."
+  },
+  "wii-tales-of-symphonia-dawn-of-the-new-world": {
+    "publisher": "Namco Bandai Games",
+    "developer": "Namco Tales Studio",
+    "released": "2008",
+    "director": "Kiyoshi Nagai, Eiji Kikuchi, Akihiro Arahori",
+    "composer": "Motoi Sakuraba, Shinji Tamura",
+    "synopsis": "Dois anos depois de Tales of Symphonia, o jovem Emil enfrenta as consequências do mundo reunificado. Volta o combate em tempo real, agora com monstros recrutáveis para o grupo."
+  },
+  "wii-monster-hunter-tri": {
+    "publisher": "Capcom",
+    "developer": "Capcom Production Studio 1",
+    "released": "2009",
+    "director": "Kaname Fujioka",
+    "composer": "Yuko Komiyama, Tadayoshi Makino, Reo Uratani",
+    "synopsis": "Uma vila costeira sofre com terremotos causados por Lagiacrus, e você é chamado para caçá-lo. Introduziu as caçadas submarinas e foi o primeiro Monster Hunter num console da Nintendo."
+  },
+  "wii-okami": {
+    "publisher": "Capcom",
+    "developer": "Clover Studio",
+    "released": "2006",
+    "director": "Hideki Kamiya",
+    "composer": "Masami Ueda, Hiroshi Yamaguchi, Rei Kondoh, Akari Kaida",
+    "synopsis": "A deusa do sol Amaterasu, na forma de um lobo branco, devolve a vida ao Japão antigo com o Pincel Celestial. Uma aventura inspirada em Zelda, com visual de pintura em tinta sumi-e e o Wii Remote como pincel."
+  },
+  "wii-metroid-prime-3-corruption": {
+    "publisher": "Nintendo",
+    "developer": "Retro Studios",
+    "released": "2007",
+    "director": "Mark Pacini",
+    "composer": "Kenji Yamamoto, Minako Hamano, Masaru Tajima",
+    "synopsis": "Samus é infectada pelo Phazon enquanto combate os Piratas Espaciais e a misteriosa Dark Samus. O fim da trilogia Prime, com mira livre pelo Wii Remote e o modo Hypermode."
+  },
+  "wii-mario-party-8": {
+    "publisher": "Nintendo",
+    "developer": "Hudson Soft",
+    "released": "2007",
+    "director": "Shuichiro Nishiya, Kenji Kikuchi",
+    "composer": "Yoshihiro Tsukahara",
+    "synopsis": "Mario e amigos disputam um tabuleiro de festa num parque de diversões cheio de minigames feitos para o Wii Remote. Até quatro jogadores, muita confusão e amizades testadas."
+  },
+  "wii-wii-sports-resort": {
+    "publisher": "Nintendo",
+    "developer": "Nintendo EAD",
+    "released": "2009",
+    "director": "Takayuki Shimamura, Yoshikazu Yamashita",
+    "composer": "Ryō Nagamatsu",
+    "synopsis": "Wii Sports vai de férias para a ilha de Wuhu Island, com esportes como espadas, arco e flecha, frisbee e jet ski. Usa o Wii MotionPlus para movimentos mais precisos, num dos jogos mais divertidos do console."
+  },
+  "wii-marvel-ultimate-alliance": {
+    "publisher": "Activision",
+    "developer": "Raven Software",
+    "released": "2006",
+    "director": "Dan Vondrak",
+    "composer": "Mark Griskey, Chance Thomas, Cris Velasco",
+    "synopsis": "O Doutor Destino reúne os maiores vilões da Marvel, e Nick Fury convoca os heróis para detê-los. Monte uma equipe de quatro com dezenas de personagens, de Wolverine a Thor, num RPG de ação cooperativo."
+  },
+  "wii-alien-syndrome": {
+    "publisher": "Sega",
+    "developer": "Totally Games",
+    "released": "2007",
+    "director": "Lawrence Holland",
+    "synopsis": "Aliana investiga uma nave de pesquisa infestada por alienígenas no espaço. Um jogo de ação em visão de cima, com sistema de RPG, que reinventa o clássico da Sega de 1987."
+  },
+  "wii-ben-10-protector-of-earth": {
+    "publisher": "D3 Publisher",
+    "developer": "High Voltage Software",
+    "released": "2007",
+    "synopsis": "Ben e o Omnitrix viajam pelos Estados Unidos em férias que viram uma luta contra o vilão Vilgax. Ação com transformações em alienígenas como Quatro Braços, Chama e Diamante."
+  },
+  "wii-muramasa-the-demon-blade": {
+    "publisher": "WiiVitaRevenant Blades, Marvelous",
+    "developer": "Vanillaware",
+    "released": "2009",
+    "director": "George Kamitani, Wataru Nakanishi (Revenant Blades)",
+    "synopsis": "Dois guerreiros no Japão da era Genroku empunham espadas amaldiçoadas para enfrentar demônios e deuses. Um jogo de ação 2D da Vanillaware, com arte pintada à mão, deslumbrante."
+  },
+  "wii-star-wars-the-force-unleashed": {
+    "publisher": "LucasArts",
+    "developer": "Krome Studios",
+    "released": "2008",
+    "director": "Haden Blackman",
+    "composer": "Mark Griskey",
+    "synopsis": "O aprendiz secreto de Darth Vader é enviado para caçar os últimos Jedi entre os episódios III e IV. Poderes da Força exagerados, numa história que liga as trilogias."
+  },
+  "wii-dragon-ball-revenge-of-king-piccolo": {
+    "publisher": "Namco Bandai Games",
+    "developer": "Media.Vision",
+    "released": "2009",
+    "synopsis": "Uma aventura de Goku criança, da era clássica de Dragon Ball, contra o Exército Red Ribbon e o Rei Piccolo. Ação em plataformas 2.5D com o visual do anime original."
+  },
+  "wii-fire-emblem-radiant-dawn": {
+    "publisher": "Nintendo",
+    "developer": "Intelligent Systems",
+    "released": "2007",
+    "director": "Taeko Kaneda",
+    "composer": "Yoshito Hirano, Chika Sekigawa, Naoko Mitome",
+    "synopsis": "Três anos depois de Path of Radiance, a jovem Micaiah lidera a resistência de Daein, enquanto Ike volta à guerra. Um dos Fire Emblem mais longos e difíceis, com uma história contada por vários exércitos."
+  },
+  "wii-marvel-ultimate-alliance-2": {
+    "publisher": "Activision",
+    "developer": "Vicarious Visions (PS3/XB360), n-Space (PS2/Wii/DS), Savage Entertainment (PSP), Zoë Mode (Windows/PS4/XBO)",
+    "released": "2009",
+    "composer": "Trevor Morris",
+    "synopsis": "Baseado na saga Guerra Civil dos quadrinhos: os heróis se dividem entre apoiar ou combater a lei de registro dos super-humanos. Escolha um lado num RPG de ação com poderes combinados."
+  },
+  "wii-new-super-mario-bros-wii": {
+    "publisher": "Nintendo",
+    "developer": "Nintendo EAD Software Development Group No. 4",
+    "released": "2009",
+    "director": "Shigeyuki Asuke",
+    "composer": "Shiho Fujii, Ryō Nagamatsu, Kenta Nagata",
+    "synopsis": "Mario, Luigi e dois Toads correm juntos por fases 2D para salvar Peach, com até quatro jogadores ao mesmo tempo. Caótico, divertido e cheio de segredos."
+  },
+  "wii-one-piece-unlimited-cruise": {
+    "publisher": "Bandai Namco Games",
+    "developer": "Ganbarion",
+    "released": "2008",
+    "synopsis": "Luffy e o bando do Chapéu de Palha navegam por ilhas misteriosas em busca de tesouros. Ação e exploração com todos os tripulantes do anime até a época."
+  },
+  "wii-project-zero-2": {
+    "publisher": "Tecmo, Ubisoft, Xbox Game Studios",
+    "developer": "Tecmo",
+    "released": "2003",
+    "director": "Makoto Shibata",
+    "composer": "Ayako Toyoda",
+    "synopsis": "Duas irmãs gêmeas se perdem numa vila amaldiçoada, e a única defesa contra os fantasmas é a Câmera Obscura. Um dos jogos de terror mais assustadores já feitos, nesta versão refeita para o Wii."
+  },
+  "wii-rune-factory-frontier": {
+    "publisher": "Marvelous Interactive Inc.",
+    "developer": "Neverland",
+    "released": "2008",
+    "director": "Masahide Miyata, Fumio Shimoyama",
+    "composer": "Tomoko Morita",
+    "synopsis": "Raguna chega à vila de Trampoli procurando por Mist, sua amiga de infância. Mistura de RPG e vida no campo, com plantações, masmorras e romance."
+  },
+  "wii-sonic-and-the-black-knight": {
+    "publisher": "Sega",
+    "developer": "Sonic Team",
+    "released": "2009",
+    "director": "Tetsu Katano",
+    "composer": "Jun Senoue, Yutaka Minobe, Richard Jacques e outros",
+    "synopsis": "Sonic é levado ao mundo das lendas do Rei Arthur e empunha uma espada falante para enfrentar o Cavaleiro Negro. Velocidade e ação com espadas, controlados pelo Wii Remote."
+  },
+  "wii-sonic-unleashed": {
+    "publisher": "Sega",
+    "developer": "Sonic Team",
+    "released": "2008",
+    "director": "Yoshihisa Hashimoto",
+    "composer": "Tomoya Ohtani, Fumie Kumatani, Kenichi Tokoi e outros",
+    "synopsis": "Eggman parte o planeta em pedaços, e Sonic ganha uma forma de lobisomem à noite. Fases diurnas de velocidade pura e fases noturnas de pancadaria, numa volta ao mundo para restaurar o planeta."
+  },
+  "wii-tatsunoko-vs-capcom-ultimate-all-stars": {
+    "publisher": "Capcom",
+    "developer": "Eighting",
+    "released": "2008",
+    "director": "Hidetoshi Ishizawa, Shinji Ueda",
+    "synopsis": "Os heróis da Capcom enfrentam os personagens dos animes da Tatsunoko num jogo de luta em equipe. Ryu, Chun-Li, Mega Man e Zero contra Ken, a Águia e outros clássicos do anime."
+  },
+  "wii-trauma-center-new-blood": {
+    "publisher": "Nintendo, Atlus, Atlus USA",
+    "developer": "Atlus",
+    "released": "2007",
+    "director": "Daisuke Kanada",
+    "composer": "Kenichi Tsuchiya, Atsushi Kitajoh",
+    "synopsis": "Dois cirurgiões com o Toque de Cura combatem o GUILT, uma doença causada por um bioterrorismo. Cirurgias feitas com o Wii Remote, numa simulação médica dramática e cheia de tensão."
+  },
+  "wii-trauma-center-second-opinion": {
+    "publisher": "Atlus, Nintendo, Atlus USA",
+    "developer": "Atlus",
+    "released": "2006",
+    "director": "Daisuke Kanada",
+    "composer": "Kenichi Tsuchiya, Shingo Yasumoto",
+    "synopsis": "O jovem cirurgião Derek Stiles descobre o Toque de Cura enquanto enfrenta uma doença misteriosa e mortal. A primeira história de Trauma Center, refeita para o Wii, com cirurgias pelo Wii Remote."
+  },
+  "wii-fragile-dreams": {
+    "publisher": "Bandai Namco Entertainment",
+    "developer": "Namco, Tri-Crescendo",
+    "released": "2009",
+    "director": "Kentaro Kawashima",
+    "composer": "Riei Saito",
+    "synopsis": "Seto atravessa uma Tóquio pós-apocalíptica e vazia em busca de outras pessoas, com uma lanterna como única luz. Um RPG melancólico e poético sobre solidão e despedidas."
+  },
+  "wii-xenoblade-chronicles": {
+    "publisher": "Nintendo",
+    "developer": "Monolith Soft",
+    "released": "2010",
+    "synopsis": "Num mundo construído sobre os corpos de dois titãs adormecidos, o jovem Shulk empunha a Monado, uma espada capaz de ver o futuro. O épico original do Wii, com paisagens imensas e uma das histórias mais memoráveis dos RPGs."
+  },
+  "wii-arc-rise-fantasia": {
+    "publisher": "Ignition Entertainment",
+    "developer": "Imageepoch, Marvelous Entertainment",
+    "released": "2009",
+    "director": "Hiroyuki Kanemaru",
+    "composer": "Yasunori Mitsuda, Shunsuke Tsuchiya, Yuki Harada",
+    "synopsis": "O mercenário L'Arc se envolve com uma diva que pode controlar o tempo, num mundo em guerra. Um RPG por turnos clássico da Imageepoch, com um sistema de pontos de ação compartilhados."
+  },
+  "wii-mario-kart-wii": {
+    "publisher": "Nintendo",
+    "developer": "Nintendo EAD Software Development Group No. 1",
+    "released": "2008",
+    "director": "Yasuyuki Oyagi",
+    "composer": "Asuka Hayazaki, Ryō Nagamatsu",
+    "synopsis": "O Mario Kart mais vendido da história, com o volante Wii Wheel, motos e manobras no ar. Corridas online com até doze jogadores e trinta e duas pistas."
+  },
+  "wii-super-smash-bros-brawl": {
+    "publisher": "Nintendo",
+    "developer": "Sora Ltd.",
+    "released": "2008",
+    "director": "Masahiro Sakurai",
+    "composer": "Takahiro Nishi, Shogo Sakai, Masaaki Iwasaki e outros",
+    "synopsis": "O Smash do Wii trouxe Sonic e Snake para a luta e o modo história The Subspace Emissary. Mais de 30 lutadores, editor de fases e Final Smashes."
+  },
+  "wii-metroid-other-m": {
+    "publisher": "Nintendo",
+    "developer": "Team Ninja, Nintendo SPD",
+    "released": "2010",
+    "director": "Yoshio Sakamoto, Yosuke Hayashi, Takehiko Hosokawa",
+    "composer": "Kuniaki Haishima",
+    "synopsis": "Samus responde a um pedido de socorro numa nave abandonada e se reencontra com o antigo comandante, Adam Malkovich. Ação em terceira pessoa do Team Ninja, com cenas que exploram o passado de Samus."
+  },
+  "wii-baroque": {
+    "publisher": "Sega Saturn, PlayStation, PlayStation 2 e outros",
+    "developer": "Sting Entertainment",
+    "released": "1998",
+    "director": "Kazunari Yonemitsu, Noriaki Kaneko, Daizo Harada (Remake)",
+    "composer": "Masaharu Iwata, Shigeki Hayashi (Remake)",
+    "synopsis": "Num mundo pós-apocalíptico, um jovem desce à Torre Neuro em busca da verdade. Um roguelike sombrio e enigmático, em que a morte faz parte da história e revela novas informações a cada tentativa."
+  },
+  "wii-sakura-wars-so-long-my-love": {
+    "publisher": "Sega",
+    "developer": "Sega GE2 R&D, Red Entertainment",
+    "released": "2005",
+    "director": "Takehiko Akaba",
+    "composer": "Kohei Tanaka",
+    "synopsis": "O jovem marinheiro Shinjiro chega a Nova York e entra para uma trupe de teatro que, nas horas vagas, combate demônios com robôs a vapor. Uma mistura de simulador de relacionamentos e RPG tático."
+  },
+  "wii-mario-sports-mix": {
+    "publisher": "Nintendo",
+    "developer": "Square Enix",
+    "released": "2010",
+    "director": "Shin Azuma",
+    "composer": "Masayoshi Soken, Kumi Tanioka",
+    "synopsis": "Mario e personagens de Final Fantasy disputam vôlei, hóquei, queimada e basquete. Partidas rápidas e caóticas com golpes especiais, da Square Enix."
+  },
+  "wii-hot-wheels-beat-that": {
+    "publisher": "Activision",
+    "developer": "Eutechnyx",
+    "released": "2007",
+    "synopsis": "Os carrinhos da Hot Wheels correm em pistas montadas pela casa, com loops e saltos impossíveis. Corridas arcade com turbo e dezenas de carros para coletar."
+  },
+  "wii-final-fantasy-crystal-chronicles-echoes-of-time": {
+    "publisher": "Square Enix",
+    "developer": "Square Enix",
+    "released": "2009",
+    "director": "Mitsuru Kamiyama",
+    "composer": "Kumi Tanioka",
+    "synopsis": "Um jovem descobre sua ligação com os cristais e com uma garota misteriosa. Um RPG de ação cooperativo com masmorras para explorar em grupo, compartilhado entre Wii e DS."
+  },
+  "ps4-battlefield-1": {
+    "publisher": "Electronic Arts",
+    "developer": "DICE",
+    "released": "2016",
+    "director": "Stefan Strandberg",
+    "composer": "Patrik Andrén, Johan Söderqvist",
+    "synopsis": "A Primeira Guerra Mundial vista por soldados de várias frentes, em histórias curtas e intensas. No multiplayer, batalhas de até 64 jogadores com cavalos, tanques, aviões e zepelins, num cenário destruído ao vivo."
+  },
+  "ps4-bloodborne-game-of-the-year-edition": {
+    "publisher": "Sony Computer Entertainment",
+    "developer": "FromSoftware",
+    "released": "2015",
+    "director": "Hidetaka Miyazaki",
+    "composer": "Ryan Amon, Tsukasa Saitoh, Yuka Kitamura e outros",
+    "synopsis": "O caçador chega a Yharnam, uma cidade gótica tomada por uma doença que transforma as pessoas em bestas. Um soulslike rápido e agressivo da FromSoftware, que aqui inclui a expansão The Old Hunters."
+  },
+  "ps4-destiny": {
+    "publisher": "Activision (2014–2018), Bungie (2019–current)",
+    "developer": "Bungie",
+    "released": "2014",
+    "director": "Jason Jones",
+    "composer": "Michael Salvatori, C Paul Johnson, Martin O'Donnell, Paul McCartney",
+    "synopsis": "Os Guardiões protegem a última cidade da humanidade, abrigada sob o misterioso Viajante. Um jogo de tiro com elementos de RPG da Bungie, com missões cooperativas, raides e muito loot."
+  },
+  "ps4-far-cry-4": {
+    "publisher": "Ubisoft",
+    "developer": "Ubisoft Montreal",
+    "released": "2014",
+    "director": "Alex Hutchinson, Patrik Méthé",
+    "composer": "Cliff Martinez",
+    "synopsis": "Ajay Ghale volta à terra natal, o Kyrat, para espalhar as cinzas da mãe e se envolve numa guerra civil contra o excêntrico ditador Pagan Min. Mundo aberto no Himalaia, com elefantes, helicópteros e escolhas difíceis."
+  },
+  "ps4-final-fantasy-vii-remake": {
+    "publisher": "Square Enix",
+    "developer": "Square Enix Business Division 1",
+    "released": "2020",
+    "director": "Tetsuya Nomura, Naoki Hamaguchi, Motomu Toriyama",
+    "composer": "Masashi Hamauzu, Mitsuto Suzuki",
+    "synopsis": "Cloud, um ex-SOLDIER, se une ao grupo eco-terrorista Avalanche para combater a Shinra em Midgar. Uma reimaginação do clássico, com combate em tempo real e tático e uma história que guarda surpresas até para quem conhece o original."
+  },
+  "ps4-final-fantasy-xv-royal-edition": {
+    "publisher": "Square Enix",
+    "developer": "Square Enix Business Division 2",
+    "released": "2016",
+    "director": "Hajime Tabata",
+    "composer": "Yoko Shimomura",
+    "synopsis": "O príncipe Noctis e três amigos partem numa viagem de carro pelo mundo de Eos que vira uma luta pelo trono. A Royal Edition traz todas as expansões e áreas extras."
+  },
+  "ps4-god-of-war": {
+    "publisher": "Sony Interactive Entertainment",
+    "developer": "Santa Monica Studio",
+    "released": "2018",
+    "director": "Cory Barlog",
+    "composer": "Bear McCreary",
+    "synopsis": "Kratos vive em paz nas terras nórdicas com o filho Atreus, até que precisa levar as cinzas da esposa ao pico mais alto dos reinos. Uma reinvenção da série, com o Machado Leviatã e uma história sobre ser pai."
+  },
+  "ps4-infamous-second-son": {
+    "publisher": "Sony Computer Entertainment",
+    "developer": "Sucker Punch Productions",
+    "released": "2014",
+    "director": "Nate Fox",
+    "composer": "Marc Canham, Nathan Johnson, Brain e Melissa",
+    "synopsis": "Delsin Rowe descobre que pode absorver os poderes de outros conduites e enfrenta o DUP, uma agência que caça pessoas como ele em Seattle. Ação em mundo aberto, com escolhas que o tornam herói ou vilão."
+  },
+  "ps4-injustice-2": {
+    "publisher": "Warner Bros. Interactive Entertainment",
+    "developer": "NetherRealm Studios",
+    "released": "2017",
+    "director": "Ed Boon",
+    "composer": "Christopher Drake",
+    "synopsis": "O Batman tenta reconstruir a sociedade depois do regime do Superman, enquanto Brainiac ameaça a Terra. Um jogo de luta da NetherRealm com equipamentos personalizáveis e o elenco da DC."
+  },
+  "ps4-knack": {
+    "publisher": "Sony Computer Entertainment",
+    "developer": "Japan Studio",
+    "released": "2013",
+    "director": "Mark Cerny",
+    "composer": "Matthew Margeson, Wataru Hokoyama",
+    "synopsis": "Knack, uma criatura feita de relíquias antigas, cresce ao absorver mais peças e luta contra goblins que ameaçam a humanidade. Uma aventura de ação familiar, criada por Mark Cerny para o lançamento do PS4."
+  },
+  "ps4-marvel-s-spider-man": {
+    "publisher": "Sony Interactive Entertainment",
+    "developer": "Insomniac Games",
+    "released": "2018",
+    "director": "Ryan Smith, Brian Horton, Bryan Intihar, Marcus Smith",
+    "composer": "John Paesano",
+    "synopsis": "Um Peter Parker experiente equilibra a vida pessoal e a luta contra o crime numa Nova York enorme para balançar em teias. Combate fluido, vilões clássicos e uma das melhores histórias do herói."
+  },
+  "ps4-metal-gear-solid-v-the-phantom-pain": {
+    "publisher": "Konami Digital Entertainment",
+    "developer": "Kojima Productions",
+    "released": "2015",
+    "director": "Hideo Kojima",
+    "composer": "Ludvig Forssell, Justin Burnett, Harry Gregson-Williams, Daniel James",
+    "synopsis": "Big Boss acorda de um coma de nove anos e reconstrói seu exército, a Diamond Dogs, em busca de vingança. Furtividade em mundo aberto, com liberdade total para planejar cada infiltração."
+  },
+  "ps4-mortal-kombat-x": {
+    "publisher": "Warner Bros. Interactive Entertainment",
+    "developer": "NetherRealm Studios",
+    "released": "2015",
+    "director": "Ed Boon",
+    "composer": "Dynamedion",
+    "synopsis": "Uma nova geração de lutadores, como Cassie Cage, enfrenta o deus caído Shinnok. Fatalities brutais, três variações de estilo por personagem e um modo história cinematográfico."
+  },
+  "ps4-persona-5": {
+    "publisher": "Atlus, Deep Silver",
+    "developer": "P-Studio",
+    "released": "2016",
+    "director": "Katsura Hashino, Daiki Ito (Royal)",
+    "composer": "Shoji Meguro",
+    "synopsis": "Um estudante transferido para Tóquio forma os Ladrões Fantasmas, que invadem os corações de adultos corruptos para mudá-los. Vida escolar, laços com os amigos e batalhas por turnos estilosas, num dos RPGs mais elogiados da década."
+  },
+  "ps4-sakura-wars": {
+    "publisher": "Sega",
+    "developer": "Sega CS2 R&D",
+    "released": "2019",
+    "director": "Tetsuya Otsubo",
+    "composer": "Kohei Tanaka",
+    "synopsis": "Seijuro Kamiyama assume uma companhia teatral em decadência que também combate demônios com robôs a vapor na Tóquio de uma era alternativa. Uma reinvenção da série, com ação, romance e muito charme."
+  },
+  "ps4-astro-bot": {
+    "publisher": "Sony Interactive Entertainment",
+    "developer": "Team Asobi",
+    "released": "2024",
+    "director": "Nicolas Doucet",
+    "composer": "Kenneth C. M. Young",
+    "synopsis": "O pequeno Astro precisa resgatar 300 bots espalhados pela galáxia depois de um ataque à nave-mãe do PlayStation. Uma plataforma 3D brilhante que celebra a história do PlayStation e usa cada recurso do DualSense."
+  },
+  "ps4-soul-hackers-2": {
+    "publisher": "Sega",
+    "developer": "Atlus",
+    "released": "2022",
+    "director": "Eiji Ishida, Mitsuru Hirata",
+    "composer": "Monaca",
+    "synopsis": "A inteligência artificial Ringo assume um corpo humano para impedir o fim do mundo e invoca demônios num futuro próximo. Um RPG por turnos da Atlus, com exploração do Soul Matrix e laços entre personagens."
+  },
+  "ps4-gravity-rush": {
+    "publisher": "Sony Computer Entertainment",
+    "developer": "Japan Studio",
+    "released": "2012",
+    "director": "Keiichiro Toyama",
+    "composer": "Kohei Tanaka",
+    "synopsis": "Kat acorda sem memória numa cidade flutuante e descobre que pode controlar a gravidade, caindo para qualquer direção. Uma aventura de ação com visual de quadrinhos franco-belga e muito carisma."
+  },
+  "ps4-gravity-rush-2": {
+    "publisher": "Sony Interactive Entertainment",
+    "developer": "Japan Studio",
+    "released": "2017",
+    "director": "Keiichiro Toyama",
+    "composer": "Kohei Tanaka",
+    "synopsis": "Kat e a gata Dusty são levadas a um novo mundo e precisam entender uma conspiração entre as cidades. A sequência expande os poderes gravitacionais e traz uma história mais longa e mais emocionante."
+  },
+  "ps4-the-last-guardian": {
+    "publisher": "Sony Interactive Entertainment",
+    "developer": "Japan Studio, GenDesign",
+    "released": "2016",
+    "director": "Fumito Ueda",
+    "composer": "Takeshi Furukawa",
+    "synopsis": "Um menino acorda numa fortaleza em ruínas ao lado de Trico, uma criatura gigante metade pássaro, metade cão. Juntos, precisam escapar, num jogo sobre confiança e amizade dos criadores de Ico e Shadow of the Colossus."
+  },
+  "ps4-dissidia-final-fantasy-nt": {
+    "publisher": "Square Enix",
+    "developer": "Team Ninja",
+    "released": "2015",
+    "director": "Takeo Kujiraoka",
+    "composer": "Takeharu Ishimoto, Keiji Kawamori, Tsuyoshi Sekito",
+    "synopsis": "Heróis e vilões de todos os Final Fantasy lutam em batalhas de três contra três, convocados pelos deuses Materia e Spiritus. Ação rápida com invocações icônicas e trilhas sonoras clássicas."
+  },
+  "ps4-ghost-of-tsushima": {
+    "publisher": "Sony Interactive Entertainment",
+    "developer": "Sucker Punch Productions",
+    "released": "2020",
+    "director": "Nate Fox, Jason Connell",
+    "composer": "Ilan Eshkeri, Shigeru Umebayashi",
+    "synopsis": "Em 1274, os mongóis invadem a ilha de Tsushima, e o samurai Jin Sakai precisa abandonar o código de honra para salvar o seu povo. Mundo aberto belíssimo, com duelos de espada e o modo cinema inspirado em Akira Kurosawa."
+  },
+  "ps4-mad-max": {
+    "publisher": "Warner Bros. Interactive Entertainment",
+    "developer": "Avalanche Studios",
+    "released": "2015",
+    "director": "Frank Rooke",
+    "composer": "Mats Lundgren",
+    "synopsis": "Max vaga por um deserto pós-apocalíptico em busca do Magnum Opus, o carro dos seus sonhos, enquanto enfrenta o tirano Scabrous Scrotus. Combates de carro, mundo aberto e muita sobrevivência."
+  },
+  "ps4-the-last-of-us-part-ii": {
+    "publisher": "Sony Interactive Entertainment",
+    "developer": "Naughty Dog",
+    "released": "2020",
+    "director": "Neil Druckmann, Anthony Newman, Kurt Margenau",
+    "composer": "Gustavo Santaolalla",
+    "synopsis": "Cinco anos depois do primeiro jogo, Ellie embarca numa jornada de vingança por Seattle que testa até onde ela consegue ir. Uma história intensa e polêmica, com uma jogabilidade de sobrevivência brutal."
+  },
+  "switch-monster-hunter-stories-2": {
+    "publisher": "Capcom",
+    "developer": "Capcom, Marvelous",
+    "released": "2021",
+    "director": "Kenji Oguro, Katsuhisa Higuchi",
+    "composer": "Marika Suzuki, Masahiro Ohki, Yuko Miyata",
+    "synopsis": "Neto de um lendário Rider, você descobre o ovo de um Rathalos ligado a uma profecia sobre o desaparecimento dos Rathalos do mundo. Um RPG por turnos em que você choca, cria e monta os próprios monstros, com batalhas de pedra, papel e tesoura e um visual de anime lindíssimo."
+  },
+  "3ds-radiant-historia-perfect-chronology": {
+    "publisher": "Atlus",
+    "developer": "Atlus, Headlock",
+    "released": "2010",
+    "director": "Mitsuru Hirata, Satoshi Takayashiki",
+    "composer": "Yoko Shimomura",
+    "synopsis": "O agente Stocke recebe um livro capaz de viajar no tempo e de alternar entre duas linhas do tempo, para evitar o fim do mundo. Um RPG cult da Atlus com combate em grade e uma trilha de Yoko Shimomura."
+  },
+  "wii-mario-strikers-charged-football": {
+    "publisher": "Nintendo",
+    "developer": "Next Level Games",
+    "released": "2007",
+    "director": "Mike Inglehart",
+    "composer": "Mike Peacock, Darren Radtke, Chad York e outros",
+    "synopsis": "Futebol sem regras: Mario e companhia jogam partidas de quatro contra quatro com chutes especiais, itens e golpes violentos. Um dos multiplayers mais intensos do Wii, com partidas online."
+  },
+  "3ds-monster-hunter-3-ultimate": {
+    "publisher": "Capcom",
+    "developer": "Capcom Production Studio 1",
+    "released": "2009",
+    "director": "Kaname Fujioka",
+    "composer": "Yuko Komiyama, Tadayoshi Makino, Reo Uratani",
+    "synopsis": "Uma vila costeira atormentada por terremotos e pelo temível Lagiacrus precisa da sua ajuda. A versão expandida de Monster Hunter Tri traz caçadas submarinas, o Rathalos e centenas de horas de missões."
+  },
+  "wii-boom-street": {
+    "publisher": "Nintendo",
+    "developer": "Square Enix",
+    "released": "2011",
+    "synopsis": "Boom Street (Fortune Street nos EUA) é um jogo de tabuleiro no estilo Banco Imobiliário que junta personagens de Mario e Dragon Quest. Compre lojas, invista em distritos e negocie ações para chegar primeiro à meta de dinheiro."
+  },
+  "ds-super-robot-taisen-og-saga-endless-frontier": {
+    "publisher": "Bandai Namco Entertainment",
+    "developer": "Monolith Soft",
+    "released": "2008",
+    "director": "Soichiro Morizumi",
+    "composer": "Salamander Factory",
+    "synopsis": "Um RPG de fantasia e ficção científica com batalhas em combos aéreos, numa fronteira entre mundos. Personagens carismáticos e muito humor, num spin-off da série Super Robot Wars."
+  },
+  "switch-rhapsody-marl-kingdom-chronicles": {
+    "publisher": "Nippon Ichi Software",
+    "developer": "Nippon Ichi Software",
+    "released": "1998",
+    "director": "Kōichi Kitazumi",
+    "composer": "Tenpei Satō",
+    "synopsis": "Coletânea dos RPGs musicais da Nippon Ichi, em que os personagens cantam no meio da história. Começa com a princesa Cornet, que fala com bonecos e parte para resgatar o príncipe por quem se apaixonou, numa aventura doce e bem-humorada."
+  },
+  "switch-crymachina": {
+    "publisher": "FuRyu, NIS America",
+    "developer": "Aquria",
+    "released": "2023",
+    "synopsis": "Num futuro em que a humanidade foi extinta, a jovem Leben desperta como uma consciência digital num corpo de androide. Para provar que ainda é humana, ela enfrenta deuses mecânicos em batalhas de ação rápidas e estilosas, numa história melancólica sobre o que nos torna vivos."
+  },
+  "switch-void-terrarium-2": {
+    "publisher": "NIS America",
+    "developer": "Nippon Ichi Software",
+    "released": "2022",
+    "synopsis": "O robô Robbie protege Toriko, a última humana de um mundo tomado por fungos tóxicos. Entre explorações de masmorras geradas aleatoriamente, você coleta materiais, monta o terrário e cuida dela. Um roguelike fofo e melancólico ao mesmo tempo."
+  },
+  "switch-decapolice": {
+    "synopsis": "Um RPG de investigação da Level-5 que se passa numa ilha tropical virtual, onde um detetive precisa resolver crimes no mundo digital e no real. Com data de lançamento ainda indefinida."
+  }
+}

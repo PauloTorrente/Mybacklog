@@ -358,7 +358,8 @@
     "released": "2017",
     "director": "Masataka Matsuura",
     "composer": "Masashi Hamauzu",
-    "synopsis": "O mundo foi dividido por uma barreira há mil anos, quando os demônios dominaram os humanos. Um grupo de rebeldes busca derrubar esse domínio num RPG por turnos criado por veteranos de SaGa, com nove protagonistas e uma rede de guildas para formar."
+    "synopsis": "O mundo foi dividido por uma barreira há mil anos, quando os demônios dominaram os humanos. Um grupo de rebeldes busca derrubar esse domínio num RPG por turnos criado por veteranos de SaGa, com nove protagonistas e uma rede de guildas para formar.",
+    "tier": "D"
   },
   "switch-bayonetta-origins": {
     "priceMin": 46,
@@ -368,7 +369,8 @@
     "released": "2023",
     "director": "Abebe Tinari",
     "composer": "Aoba Nakanishi, Hitomi Kurokawa, Masahiro Miyauchi, Rina Yugi",
-    "synopsis": "Muito antes de virar a bruxa estilosa, a pequena Cereza entra numa floresta proibida para salvar a mãe, guiada por Cheshire, um demônio preso no seu bichinho de pelúcia. Um conto de fadas em aquarela em que você controla os dois personagens ao mesmo tempo."
+    "synopsis": "Muito antes de virar a bruxa estilosa, a pequena Cereza entra numa floresta proibida para salvar a mãe, guiada por Cheshire, um demônio preso no seu bichinho de pelúcia. Um conto de fadas em aquarela em que você controla os dois personagens ao mesmo tempo.",
+    "tier": "B"
   },
   "switch-captain-toad": {
     "priceMin": 25,
@@ -378,7 +380,8 @@
     "released": "2014",
     "director": "Kenta Motokura, Shinya Hiratake",
     "composer": "Naoto Kubo, Mahito Yokota",
-    "synopsis": "O Capitão Toad não sabe pular, mas não desiste de nenhum tesouro. Cada fase é um pequeno diorama que você gira para encontrar caminhos e segredos, num jogo de quebra-cabeça charmoso que nasceu como fase bônus de Super Mario 3D World."
+    "synopsis": "O Capitão Toad não sabe pular, mas não desiste de nenhum tesouro. Cada fase é um pequeno diorama que você gira para encontrar caminhos e segredos, num jogo de quebra-cabeça charmoso que nasceu como fase bônus de Super Mario 3D World.",
+    "tier": "D"
   },
   "switch-crisis-core": {
     "priceMin": 35,
@@ -388,7 +391,8 @@
     "released": "2007",
     "director": "Hajime Tabata, Reunion, Tetsuya Nomura, Takeshi Asano",
     "composer": "Takeharu Ishimoto",
-    "synopsis": "A história de Zack Fair, membro do SOLDIER, anos antes de Final Fantasy VII. Ao investigar o desaparecimento de Genesis, ele descobre os segredos sombrios da Shinra, numa jornada de ação que termina num dos finais mais emocionantes da série."
+    "synopsis": "A história de Zack Fair, membro do SOLDIER, anos antes de Final Fantasy VII. Ao investigar o desaparecimento de Genesis, ele descobre os segredos sombrios da Shinra, numa jornada de ação que termina num dos finais mais emocionantes da série.",
+    "tier": "C"
   },
   "switch-dragon-quest-i-ii": {
     "priceMin": 30,
@@ -398,7 +402,8 @@
     "released": "1986",
     "director": "Koichi Nakamura",
     "composer": "Koichi Sugiyama",
-    "synopsis": "As duas primeiras aventuras de Dragon Quest refeitas no estilo HD-2D, com pixel art e efeitos modernos. A lenda de Erdrick começa aqui, com o herói que enfrenta o Lorde Dragão e, gerações depois, seus descendentes contra um novo mal."
+    "synopsis": "As duas primeiras aventuras de Dragon Quest refeitas no estilo HD-2D, com pixel art e efeitos modernos. A lenda de Erdrick começa aqui, com o herói que enfrenta o Lorde Dragão e, gerações depois, seus descendentes contra um novo mal.",
+    "tier": "C"
   },
   "switch-dragon-quest-iii": {
     "priceMin": 35,
@@ -408,7 +413,8 @@
     "released": "1986",
     "director": "Koichi Nakamura",
     "composer": "Koichi Sugiyama",
-    "synopsis": "O clássico que deu origem à lenda de Erdrick, refeito em HD-2D. O filho de um herói desaparecido parte com um grupo que você monta para derrotar o Archfiend Baramos, num RPG atemporal com classes, viagens pelo mundo e um final inesquecível."
+    "synopsis": "O clássico que deu origem à lenda de Erdrick, refeito em HD-2D. O filho de um herói desaparecido parte com um grupo que você monta para derrotar o Archfiend Baramos, num RPG atemporal com classes, viagens pelo mundo e um final inesquecível.",
+    "tier": "S"
   },
   "switch-fantasy-life": {
     "priceMin": 35,
@@ -418,7 +424,8 @@
     "released": "2024",
     "director": "Yugo Nakajima",
     "composer": "Nobuo Uematsu, Haruno Ito",
-    "synopsis": "Uma vida de fantasia em que você escolhe e troca de profissão quando quiser: paladino, mago, ferreiro, cozinheiro, pescador e muito mais. A Level-5 mistura RPG e simulação de vida num mundo encantador, com muita coisa para coletar e construir."
+    "synopsis": "Uma vida de fantasia em que você escolhe e troca de profissão quando quiser: paladino, mago, ferreiro, cozinheiro, pescador e muito mais. A Level-5 mistura RPG e simulação de vida num mundo encantador, com muita coisa para coletar e construir.",
+    "tier": "C"
   },
   "switch-the-hundred-line": {
     "priceMin": 44,
@@ -428,7 +435,8 @@
     "released": "2025",
     "director": "Kazutaka Kodaka, Kotaro Uchikoshi",
     "composer": "Masafumi Takada",
-    "synopsis": "Cem dias para defender uma academia contra invasores monstruosos, ao lado de outros estudantes que podem morrer pelo caminho. Um RPG tático com uma história ramificada em dezenas de finais, dos criadores de Danganronpa e Zero Escape."
+    "synopsis": "Cem dias para defender uma academia contra invasores monstruosos, ao lado de outros estudantes que podem morrer pelo caminho. Um RPG tático com uma história ramificada em dezenas de finais, dos criadores de Danganronpa e Zero Escape.",
+    "tier": "A"
   },
   "switch-hyrule-warriors-original": {
     "priceMin": 45,
@@ -438,7 +446,8 @@
     "released": "2014",
     "director": "Masaki Furusawa",
     "composer": "Masato Koike, Yuki Matsumura",
-    "synopsis": "Link, Zelda e personagens de toda a série lutam contra exércitos de monstros no estilo musou. A versão Definitive Edition reúne todo o conteúdo lançado, com personagens de Ocarina, Twilight Princess, Wind Waker e muito mais."
+    "synopsis": "Link, Zelda e personagens de toda a série lutam contra exércitos de monstros no estilo musou. A versão Definitive Edition reúne todo o conteúdo lançado, com personagens de Ocarina, Twilight Princess, Wind Waker e muito mais.",
+    "tier": "B"
   },
   "switch-kirby-s-return-to-dream-land-deluxe": {
     "priceMin": 45,
@@ -448,7 +457,8 @@
     "released": "2011",
     "director": "Shinya Kumazaki",
     "composer": "Hirokazu Ando, Jun Ishikawa",
-    "synopsis": "A nave do alienígena Magolor cai em Dream Land, e Kirby e seus amigos se juntam para recuperar as peças espalhadas. Plataforma clássica para até quatro jogadores, com novos poderes e o epílogo Magolor Epilogue, que revela o outro lado da história."
+    "synopsis": "A nave do alienígena Magolor cai em Dream Land, e Kirby e seus amigos se juntam para recuperar as peças espalhadas. Plataforma clássica para até quatro jogadores, com novos poderes e o epílogo Magolor Epilogue, que revela o outro lado da história.",
+    "tier": "C"
   },
   "switch-mario-luigi-brothership": {
     "priceMin": 30,
@@ -458,7 +468,8 @@
     "released": "2024",
     "director": "Haruyuki Ohashi",
     "composer": "Hideki Sakamoto",
-    "synopsis": "Mario e Luigi viajam por um mundo de ilhas a bordo de uma ilha-navio, tentando reconectar um arquipélago que foi partido. Um RPG por turnos cheio de humor, com ataques em dupla que pedem bom tempo de reação e a primeira aventura inédita da série em quase dez anos."
+    "synopsis": "Mario e Luigi viajam por um mundo de ilhas a bordo de uma ilha-navio, tentando reconectar um arquipélago que foi partido. Um RPG por turnos cheio de humor, com ataques em dupla que pedem bom tempo de reação e a primeira aventura inédita da série em quase dez anos.",
+    "tier": "C"
   },
   "switch-marvel-vs-capcom-collection": {
     "priceMin": 30,
@@ -466,7 +477,8 @@
     "publisher": "Capcom",
     "developer": "Capcom",
     "released": "2024",
-    "synopsis": "Uma coletânea com sete clássicos de luta e ação da Capcom com a Marvel, incluindo o lendário Marvel vs. Capcom 2. Lutas em equipe, combos absurdos e partidas online com rollback, ideais para quem cresceu nos fliperamas."
+    "synopsis": "Uma coletânea com sete clássicos de luta e ação da Capcom com a Marvel, incluindo o lendário Marvel vs. Capcom 2. Lutas em equipe, combos absurdos e partidas online com rollback, ideais para quem cresceu nos fliperamas.",
+    "tier": "A"
   },
   "switch-mega-man-battle-network": {
     "priceMin": 30,
@@ -475,7 +487,8 @@
     "developer": "Capcom, NeoBards Entertainment",
     "released": "2023",
     "director": "Masakazu Eguchi",
-    "synopsis": "Coletânea com os dez jogos da série em que Lan e seu NetNavi MegaMan.EXE combatem vírus num mundo hiperconectado. Batalhas em grade com chips de ataque, dezenas de horas de RPG e todas as versões duplas de cada jogo."
+    "synopsis": "Coletânea com os dez jogos da série em que Lan e seu NetNavi MegaMan.EXE combatem vírus num mundo hiperconectado. Batalhas em grade com chips de ataque, dezenas de horas de RPG e todas as versões duplas de cada jogo.",
+    "tier": "D"
   },
   "switch-metroid-prime-4": {
     "priceMin": 30,
@@ -485,7 +498,8 @@
     "released": "2025",
     "director": "Bill Vandervoort, Jhony Ljungstedt, Eric Sebesta",
     "composer": "Kenji Yamamoto, Minako Hamano",
-    "synopsis": "Samus é transportada para o misterioso planeta Viewros e ganha poderes psíquicos para sobreviver. A tão esperada continuação da série Prime, com exploração em primeira pessoa, a motocicleta Vi-O-La e um novo mistério para desvendar."
+    "synopsis": "Samus é transportada para o misterioso planeta Viewros e ganha poderes psíquicos para sobreviver. A tão esperada continuação da série Prime, com exploração em primeira pessoa, a motocicleta Vi-O-La e um novo mistério para desvendar.",
+    "tier": "A"
   },
   "switch-pokken-tournament": {
     "priceMin": 30,
@@ -495,7 +509,8 @@
     "released": "2015",
     "director": "Haruki Suzaki",
     "composer": "Hiroyuki Kawada, Rio Hamamoto, Taku Inoue e outros",
-    "synopsis": "Pokémon num jogo de luta de verdade, criado pela equipe de Tekken. Lucario, Pikachu, Mewtwo e outros trocam golpes em arenas 3D, com batalhas que alternam entre visão lateral e livre, e um modo história para virar campeão de Ferrum."
+    "synopsis": "Pokémon num jogo de luta de verdade, criado pela equipe de Tekken. Lucario, Pikachu, Mewtwo e outros trocam golpes em arenas 3D, com batalhas que alternam entre visão lateral e livre, e um modo história para virar campeão de Ferrum.",
+    "tier": "A"
   },
   "switch-rain-code": {
     "priceMin": 30,
@@ -505,7 +520,8 @@
     "released": "2023",
     "director": "Takahiro Suzuki",
     "composer": "Masafumi Takada",
-    "synopsis": "Na cidade de Kanai Ward, onde nunca para de chover, o detetive Yuma investiga assassinatos com a ajuda de Shinigami, uma deusa da morte. Os mistérios são resolvidos no Labirinto dos Mistérios, numa aventura dos criadores de Danganronpa."
+    "synopsis": "Na cidade de Kanai Ward, onde nunca para de chover, o detetive Yuma investiga assassinatos com a ajuda de Shinigami, uma deusa da morte. Os mistérios são resolvidos no Labirinto dos Mistérios, numa aventura dos criadores de Danganronpa.",
+    "tier": "C"
   },
   "switch-rune-factory-5": {
     "priceMin": 3,
@@ -515,7 +531,8 @@
     "released": "2021",
     "director": "Shiro Maekawa",
     "composer": "Tomoko Morita",
-    "synopsis": "Você acorda sem memória na cidade de Rigbarth e entra para os SEED, uma patrulha que protege a região. RPG e vida no campo se misturam: plante, crie monstros, explore masmorras e conquiste um dos moradores para casar."
+    "synopsis": "Você acorda sem memória na cidade de Rigbarth e entra para os SEED, uma patrulha que protege a região. RPG e vida no campo se misturam: plante, crie monstros, explore masmorras e conquiste um dos moradores para casar.",
+    "tier": "D"
   },
   "switch-unicorn-overlord": {
     "priceMin": 30,
@@ -524,7 +541,8 @@
     "developer": "Vanillaware",
     "released": "2024",
     "director": "Takafumi Noma",
-    "synopsis": "O príncipe Alain lidera uma rebelião para retomar o continente de Fevrith de um império tirano. Um RPG tático da Vanillaware, com arte lindíssima e esquadrões que você monta e programa para agir sozinhos em batalhas táticas profundas."
+    "synopsis": "O príncipe Alain lidera uma rebelião para retomar o continente de Fevrith de um império tirano. Um RPG tático da Vanillaware, com arte lindíssima e esquadrões que você monta e programa para agir sozinhos em batalhas táticas profundas.",
+    "tier": "S"
   },
   "switch-zelda-echoes-of-wisdom": {
     "priceMin": 30,
@@ -534,7 +552,8 @@
     "released": "2024",
     "director": "Satoshi Terada, Tomomi Sano",
     "composer": "Masato Ohashi, Manaka Kataoka, Chisaki Hosaka e outros",
-    "synopsis": "Pela primeira vez, Zelda é a protagonista. Hyrule está sendo engolida por fendas misteriosas, e ela usa o Tri Rod para criar ecos de objetos e monstros e resolver tudo do seu jeito, numa aventura de criatividade livre no estilo de Link's Awakening."
+    "synopsis": "Pela primeira vez, Zelda é a protagonista. Hyrule está sendo engolida por fendas misteriosas, e ela usa o Tri Rod para criar ecos de objetos e monstros e resolver tudo do seu jeito, numa aventura de criatividade livre no estilo de Link's Awakening.",
+    "tier": "A"
   },
   "switch-street-fighter-6": {
     "priceMin": 55,
@@ -544,7 +563,8 @@
     "released": "2023",
     "director": "Takayuki Nakayama",
     "composer": "Yoshiya Terayama, Shigeyuki Kameda, Yasumasa Kitagawa e outros",
-    "synopsis": "A série de luta mais famosa do mundo volta com um elenco renovado e o World Tour, um modo história em que você cria o seu lutador e aprende com os mestres. Inclui controles modernos para iniciantes e o Drive System, que deixa as lutas mais agressivas."
+    "synopsis": "A série de luta mais famosa do mundo volta com um elenco renovado e o World Tour, um modo história em que você cria o seu lutador e aprende com os mestres. Inclui controles modernos para iniciantes e o Drive System, que deixa as lutas mais agressivas.",
+    "tier": "S"
   },
   "switch-pokemon-legends-z-a": {
     "priceMin": 35,
@@ -554,7 +574,8 @@
     "released": "2025",
     "director": "Shigeru Ohmori, Haruka Tochigi",
     "composer": "Junichi Masuda, Shota Kageyama",
-    "synopsis": "Lumiose City está passando por uma grande reurbanização, e Pokémon e humanos precisam aprender a conviver. Batalhas em tempo real, a volta das Mega Evoluções e uma cidade inteira para explorar, de dia e de noite."
+    "synopsis": "Lumiose City está passando por uma grande reurbanização, e Pokémon e humanos precisam aprender a conviver. Batalhas em tempo real, a volta das Mega Evoluções e uma cidade inteira para explorar, de dia e de noite.",
+    "tier": "S"
   },
   "switch-pokemon-legends-arceus": {
     "priceMin": 30,
@@ -564,7 +585,8 @@
     "released": "2022",
     "director": "Kazumasa Iwao",
     "composer": "Go Ichinose, Hitomi Sato, Hiromitsu Maeba",
-    "synopsis": "Uma volta ao passado da região de Sinnoh, quando ela ainda se chamava Hisui e Pokémon e humanos mal conviviam. Você captura Pokémon na natureza, se esgueirando e mirando as Poké Balls, para montar a primeira Pokédex da história."
+    "synopsis": "Uma volta ao passado da região de Sinnoh, quando ela ainda se chamava Hisui e Pokémon e humanos mal conviviam. Você captura Pokémon na natureza, se esgueirando e mirando as Poké Balls, para montar a primeira Pokédex da história.",
+    "tier": "A"
   },
   "switch-pokemon-pokopia": {
     "priceMin": 45,
@@ -574,7 +596,8 @@
     "released": "2026",
     "director": "Shigeru Ohmori, Takuto Edagawa, Tatsuto Tsuchishita, Teruyuki Shimoyamada",
     "composer": "Hiromu Akaba, Jieun Kim",
-    "synopsis": "Um Ditto que imita um humano reconstrói um mundo abandonado ao lado de Pokémon. Um jogo de construção e vida tranquila, em que você ganha habilidades dos Pokémon para criar o lar dos seus sonhos."
+    "synopsis": "Um Ditto que imita um humano reconstrói um mundo abandonado ao lado de Pokémon. Um jogo de construção e vida tranquila, em que você ganha habilidades dos Pokémon para criar o lar dos seus sonhos.",
+    "tier": "S"
   },
   "switch-diablo-iii": {
     "priceMin": 25,
@@ -584,7 +607,8 @@
     "released": "2012",
     "director": "Jay Wilson",
     "composer": "Russell Brower, Derek Duke, Edo Guidotti e outros",
-    "synopsis": "O mal desperta em Santuário e você enfrenta hordas de demônios até os Infernos. Ação em RPG viciante, com o loot clássico da Blizzard, sete classes e esta coletânea completa com Reaper of Souls e o Necromante."
+    "synopsis": "O mal desperta em Santuário e você enfrenta hordas de demônios até os Infernos. Ação em RPG viciante, com o loot clássico da Blizzard, sete classes e esta coletânea completa com Reaper of Souls e o Necromante.",
+    "tier": "C"
   },
   "switch-monster-hunter-stories-3": {
     "priceMin": 45,
@@ -594,7 +618,8 @@
     "released": "2026",
     "director": "Kenji Oguro",
     "composer": "Kota Yokoseki, Marika Suzuki, Yuko Miyata e outros",
-    "synopsis": "Um novo capítulo da série de RPG por turnos de Monster Hunter, com uma história sobre reinos em conflito e Riders que criam e montam monstros. Visual de anime ainda mais caprichado e uma jornada pelo mundo dos caçadores."
+    "synopsis": "Um novo capítulo da série de RPG por turnos de Monster Hunter, com uma história sobre reinos em conflito e Riders que criam e montam monstros. Visual de anime ainda mais caprichado e uma jornada pelo mundo dos caçadores.",
+    "tier": "S"
   },
   "switch-the-elder-scrolls-iv-oblivion": {
     "priceMin": 45,
@@ -603,7 +628,8 @@
     "developer": "Virtuos, Bethesda Game Studios",
     "released": "2025",
     "director": "Theo Gallego, Tom Mustaine",
-    "synopsis": "Portais para o Oblivion se abrem por toda Cyrodiil, e você é o único capaz de fechá-los. A remasterização do clássico RPG de mundo aberto da Bethesda traz gráficos refeitos e todo o conteúdo extra, como a ilha de Shivering Isles."
+    "synopsis": "Portais para o Oblivion se abrem por toda Cyrodiil, e você é o único capaz de fechá-los. A remasterização do clássico RPG de mundo aberto da Bethesda traz gráficos refeitos e todo o conteúdo extra, como a ilha de Shivering Isles.",
+    "tier": "C"
   },
   "switch-granblue-fantasy-relink-endless-ragnarok": {
     "priceMin": 45,
@@ -613,7 +639,8 @@
     "released": "2024",
     "director": "Tetsuya Fukuhara, Yasuyuki Kaji",
     "composer": "Tsutomu Narita",
-    "synopsis": "Um RPG de ação no céu, em que a tripulação de Gran e Djeeta navega entre ilhas flutuantes. Combate rápido e cooperativo para quatro jogadores, com um visual de anime impressionante."
+    "synopsis": "Um RPG de ação no céu, em que a tripulação de Gran e Djeeta navega entre ilhas flutuantes. Combate rápido e cooperativo para quatro jogadores, com um visual de anime impressionante.",
+    "tier": "A"
   },
   "switch-digimon-story-time-stranger": {
     "priceMin": 42,
@@ -623,7 +650,8 @@
     "released": "2025",
     "director": "Yusuke Tomono",
     "composer": "Masafumi Takada",
-    "synopsis": "Um agente da ADAMAS viaja no tempo para impedir uma catástrofe que ameaça os mundos humano e digital. Um RPG por turnos com centenas de Digimon para criar e evoluir e uma história sobre os deuses do Digital World."
+    "synopsis": "Um agente da ADAMAS viaja no tempo para impedir uma catástrofe que ameaça os mundos humano e digital. Um RPG por turnos com centenas de Digimon para criar e evoluir e uma história sobre os deuses do Digital World.",
+    "tier": "A"
   },
   "switch-hyrule-warriors-age-of-imprisonment": {
     "priceMin": 45,
@@ -633,7 +661,8 @@
     "released": "2025",
     "director": "Koki Aoyanagi",
     "composer": "Keiichi Okabe, Ryuichi Takada, Kuniyuki Takahashi e outros",
-    "synopsis": "Um musou que conta a guerra de fundação de Hyrule, no passado distante de Tears of the Kingdom. Zelda, Rauru, Sonia e os sábios ancestrais enfrentam o exército de Ganondorf numa história que até então só conhecíamos por memórias."
+    "synopsis": "Um musou que conta a guerra de fundação de Hyrule, no passado distante de Tears of the Kingdom. Zelda, Rauru, Sonia e os sábios ancestrais enfrentam o exército de Ganondorf numa história que até então só conhecíamos por memórias.",
+    "tier": "A"
   },
   "switch-persona-3-reload": {
     "priceMin": 45,
@@ -643,7 +672,8 @@
     "released": "2024",
     "director": "Takuya Yamaguchi",
     "composer": "Atsushi Kitajoh",
-    "synopsis": "Remake completo de Persona 3. Durante a misteriosa Hora Sombria, que existe entre um dia e outro, um grupo de estudantes sobe a torre Tartarus para enfrentar Shadows. Vida escolar, laços de amizade e uma trama sobre a morte."
+    "synopsis": "Remake completo de Persona 3. Durante a misteriosa Hora Sombria, que existe entre um dia e outro, um grupo de estudantes sobe a torre Tartarus para enfrentar Shadows. Vida escolar, laços de amizade e uma trama sobre a morte.",
+    "tier": "S"
   },
   "switch-cyberpunk-2077": {
     "priceMin": 45,
@@ -653,7 +683,8 @@
     "released": "2020",
     "director": "Adam Badowski, Konrad Tomaszkiewicz, Gabriel Amatangelo",
     "composer": "P. T. Adamczyk, Marcin Przybyłowicz, Paul Leonard-Morgan",
-    "synopsis": "Em Night City, uma metrópole obcecada por poder e implantes cibernéticos, o mercenário V carrega um chip com a consciência do rockstar rebelde Johnny Silverhand. RPG de mundo aberto com várias formas de jogar, nesta edição com a expansão Phantom Liberty."
+    "synopsis": "Em Night City, uma metrópole obcecada por poder e implantes cibernéticos, o mercenário V carrega um chip com a consciência do rockstar rebelde Johnny Silverhand. RPG de mundo aberto com várias formas de jogar, nesta edição com a expansão Phantom Liberty.",
+    "tier": "C"
   },
   "switch-rune-factory-guardians-of-azuma": {
     "priceMin": 45,
@@ -663,7 +694,8 @@
     "released": "2025",
     "director": "Shiro Maekawa",
     "composer": "Noriyuki Asakura",
-    "synopsis": "Um Rune Factory inspirado no Japão antigo, em que você reconstrói vilarejos e restaura a terra de Azuma com a ajuda de deuses. Combate com armas tradicionais, agricultura, festivais e romances numa nova era da série."
+    "synopsis": "Um Rune Factory inspirado no Japão antigo, em que você reconstrói vilarejos e restaura a terra de Azuma com a ajuda de deuses. Combate com armas tradicionais, agricultura, festivais e romances numa nova era da série.",
+    "tier": "B"
   },
   "switch-sonic-x-shadow-generations": {
     "priceMin": 30,
@@ -673,7 +705,8 @@
     "released": "2024",
     "director": "Katsuyuki Shigihara, Yuka Kobayashi",
     "composer": "Jun Senoue",
-    "synopsis": "Duas aventuras em uma: o clássico Sonic Generations, em que o Sonic moderno e o clássico atravessam a história da série, e Shadow Generations, uma campanha nova em que Shadow enfrenta o passado e ganha novos poderes de Doom."
+    "synopsis": "Duas aventuras em uma: o clássico Sonic Generations, em que o Sonic moderno e o clássico atravessam a história da série, e Shadow Generations, uma campanha nova em que Shadow enfrenta o passado e ganha novos poderes de Doom.",
+    "tier": "D"
   },
   "switch-no-man-s-sky": {
     "priceMin": 25,
@@ -682,7 +715,8 @@
     "developer": "Hello Games",
     "released": "2016",
     "composer": "65daysofstatic, Earcom / Paul Weir",
-    "synopsis": "Um universo procedural com trilhões de planetas para explorar, cada um com fauna, clima e paisagens próprios. Construa bases, pilote naves e cargueiros e descubra a origem do universo, sozinho ou com outros jogadores."
+    "synopsis": "Um universo procedural com trilhões de planetas para explorar, cada um com fauna, clima e paisagens próprios. Construa bases, pilote naves e cargueiros e descubra a origem do universo, sozinho ou com outros jogadores.",
+    "tier": "A"
   },
   "3ds-fire-emblem-awakening": {
     "publisher": "Nintendo",

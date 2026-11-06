@@ -2,7 +2,7 @@ import { createContext, useCallback, useContext, useEffect, useMemo, useRef, use
 import { createPortal } from 'react-dom';
 import { AnimatePresence, motion } from 'framer-motion';
 import styled from 'styled-components';
-import { formatRange, useCatalog } from '../../data/catalog';
+import { formatRange, TIER_LABEL, useCatalog, type Tier } from '../../data/catalog';
 import { amiiboGames, type AmiiboUse } from '../../data/amiiboGames';
 import { appearances } from '../../data/appearances';
 import { gameTarget } from './infoTargets';
@@ -245,6 +245,41 @@ const Main = styled.div`
   }
   .chip.owned { background: ${({ theme }) => theme.color.aquaSoft}; color: ${({ theme }) => theme.color.aquaInk}; }
   .chip.wish { background: rgba(148, 163, 184, 0.18); color: ${({ theme }) => theme.color.muted}; }
+`;
+
+/** Metal of each level: S is gold and the colour cools down to D. */
+const TIER_METAL: Record<Tier, [string, string, string]> = {
+  S: ['#FFE27A', '#E0A100', '#5A3E00'],
+  A: ['#FFB3A7', '#E0523F', '#5A1208'],
+  B: ['#B5D4FF', '#3F7FDB', '#0C2A5A'],
+  C: ['#A9EDE6', '#2FA99E', '#07403B'],
+  D: ['#DDE3EA', '#8A97A6', '#2B3540'],
+};
+
+/** A shield with the letter, stamped in once the details are on screen. */
+const TierBadge = styled(motion.div)<{ $tier: Tier }>`
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  margin-top: 0.8rem;
+
+  .shield {
+    flex: none;
+    display: grid;
+    place-items: center;
+    width: 46px;
+    height: 52px;
+    clip-path: polygon(50% 0, 100% 16%, 100% 62%, 50% 100%, 0 62%, 0 16%);
+    background: linear-gradient(150deg, ${({ $tier }) => TIER_METAL[$tier][0]}, ${({ $tier }) => TIER_METAL[$tier][1]});
+    color: ${({ $tier }) => TIER_METAL[$tier][2]};
+    font-family: ${({ theme }) => theme.font.heading};
+    font-size: 1.55rem;
+    font-weight: 700;
+    line-height: 1;
+    padding-bottom: 5px;
+  }
+  .k { display: block; font-size: 0.68rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: ${({ theme }) => theme.color.muted}; }
+  .v { display: block; font-family: ${({ theme }) => theme.font.heading}; font-size: 1.05rem; font-weight: 700; }
 `;
 
 const Price = styled.div`
@@ -500,6 +535,22 @@ function InfoCard({ open, onClose, back, onBack }: { open: Open; onClose: () => 
               <div className="sub">{target.subtitle}</div>
               <span className={`chip ${target.owned ? 'owned' : 'wish'}`}>{target.owned ? 'Na coleção' : 'Lista de desejos'}</span>
             </motion.div>
+            {entry?.tier && !target.owned && (
+              <TierBadge
+                $tier={entry.tier}
+                aria-label={`Nível de desejo ${entry.tier}: ${TIER_LABEL[entry.tier]}`}
+                initial={{ opacity: 0, scale: 1.8, rotate: -14 }}
+                animate={{ opacity: 1, scale: 1, rotate: 0 }}
+                transition={{ delay: HOLD + 0.45, type: 'spring', stiffness: 320, damping: 16 }}
+                style={{ transformOrigin: '23px 26px' }}
+              >
+                <span className="shield" aria-hidden="true">{entry.tier}</span>
+                <span aria-hidden="true">
+                  <span className="k">Nível de desejo</span>
+                  <span className="v">{TIER_LABEL[entry.tier]}</span>
+                </span>
+              </TierBadge>
+            )}
             {target.kind === 'amiibo' && target.amiiboId && (
               <motion.div {...item(2)}>
                 <AmiiboAppears id={target.amiiboId} />

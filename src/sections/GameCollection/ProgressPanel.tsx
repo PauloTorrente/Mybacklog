@@ -23,7 +23,7 @@ const amiiboItems = amiibos.map((a) => ({ key: amiiboKey(a.id), owned: a.owned, 
 
 /** Everything the panel and its button show, from the current catalogue. */
 export function useProgress() {
-  const { catalog, rate, online } = useCatalog();
+  const { catalog, rate } = useCatalog();
   const all = tally([...gameItems, ...amiiboItems], catalog);
   const g = tally(gameItems, catalog);
   const am = tally(amiiboItems, catalog);
@@ -31,7 +31,7 @@ export function useProgress() {
     ...platforms.map((p) => ({ id: p.id as ShelfId, name: p.name, t: tally(gameItems.filter((i) => i.platform === p.id), catalog) })),
     { id: 'amiibo' as ShelfId, name: 'Amiibos', t: am },
   ];
-  return { all, games: g, amiibos: am, shelves, rate, online };
+  return { all, games: g, amiibos: am, shelves, rate };
 }
 
 /** A ring that fills up to `value`% when it appears. */
@@ -231,7 +231,7 @@ const Cost = styled(motion.div)`
 `;
 
 export function ProgressPanel({ onClose }: { onClose: () => void }) {
-  const { all, games: g, amiibos: am, shelves, rate, online } = useProgress();
+  const { all, games: g, amiibos: am, shelves, rate } = useProgress();
   const ref = useRef<HTMLDivElement>(null);
   useEffect(() => {
     ref.current?.focus();
@@ -313,7 +313,7 @@ export function ProgressPanel({ onClose }: { onClose: () => void }) {
               </p>
             </>
           ) : (
-            <p>{online ? 'Nenhum preço cadastrado ainda. Os preços entram pela área de admin.' : 'Os preços aparecem quando o servidor está ligado.'}</p>
+            <p>Nenhum preço cadastrado ainda. Os preços entram pela área de admin.</p>
           )}
         </Cost>
       </Dialog>

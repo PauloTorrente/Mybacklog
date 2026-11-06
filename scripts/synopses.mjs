@@ -1,5 +1,5 @@
 /**
- * Applies the hand-written Portuguese synopses (server/data/synopses/<console>.json, keyed by title)
+ * Applies the hand-written Portuguese synopses (src/data/synopses/<console>.json, keyed by title)
  * to the catalogue, replacing whatever synopsis was there. Credits and prices are left untouched.
  *
  * Run with: npm run synopses
@@ -9,7 +9,7 @@ import path from 'node:path';
 import { readCatalog, saveEntry } from '../server/store.mjs';
 import data from '../src/data/games.json' with { type: 'json' };
 
-const DIR = path.join(import.meta.dirname, '..', 'server', 'data', 'synopses');
+const DIR = path.join(import.meta.dirname, '..', 'src', 'data', 'synopses');
 const slug = (s) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 
 let applied = 0;

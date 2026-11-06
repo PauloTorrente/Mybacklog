@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useState, type FormEvent } from 'react';
 import styled from 'styled-components';
 import { amiiboSeries } from '../data/amiibo';
-import { amiiboKey, formatRange, useCatalog, type CatalogEntry } from '../data/catalog';
+import { amiiboKey, formatRange, TIER_LABEL, useCatalog, type CatalogEntry, type Tier } from '../data/catalog';
 import { games, platformById, platforms } from '../data/games';
 
 /** One row of the admin list: a game or an amiibo, with its catalogue key. */
@@ -240,6 +240,18 @@ function Editor({ item, onSaved }: { item: Item; onSaved: (entry: CatalogEntry) 
       </Row>
       {brl && <Note>≈ {brl} (cotação de {rate?.date})</Note>}
 
+      {!item.owned && (
+        <Field style={{ maxWidth: 260 }}>
+          Nível de desejo
+          <select value={form.tier ?? ''} onChange={(e) => set('tier', e.target.value)}>
+            <option value="">Sem nível</option>
+            {(Object.keys(TIER_LABEL) as Tier[]).map((t) => (
+              <option key={t} value={t}>{t} · {TIER_LABEL[t]}</option>
+            ))}
+          </select>
+        </Field>
+      )}
+
       {item.kind === 'game' && (
         <>
           <Row>
@@ -316,7 +328,7 @@ export default function AdminApp() {
         <>
           <Note>
             {priced} de {wish.length} itens da lista de desejos têm preço.
-            {rate && ` Cotação de hoje: € 1 = R$ ${rate.rate.toFixed(4).replace('.', ',')}.`}
+            {rate && ` Cotação: € 1 = R$ ${rate.rate.toFixed(4).replace('.', ',')}.`}
           </Note>
           <Layout>
             <Panel>
@@ -355,7 +367,7 @@ export default function AdminApp() {
                           <span className="w">{i.where}{i.owned ? ' · tenho' : ''}</span>
                         </span>
                         <span className="tags">
-                          {price ?? ''}
+                          {e?.tier ? `${e.tier} · ` : ''}{price ?? ''}
                           {e?.synopsis ? ' · ℹ︎' : ''}
                         </span>
                       </button>

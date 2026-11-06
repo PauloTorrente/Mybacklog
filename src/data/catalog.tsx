@@ -1,4 +1,5 @@
 import { createContext, useCallback, useContext, useEffect, useMemo, useState, type ReactNode } from 'react';
+import catalogData from './catalog.json';
 
 /** What the admin types for a game or amiibo (see server/store.mjs). Prices are in euros, second-hand in Spain. */
 export interface CatalogEntry {
@@ -10,7 +11,20 @@ export interface CatalogEntry {
   director?: string;
   composer?: string;
   synopsis?: string;
+  /** How much I want it: S (most) to D (least). */
+  tier?: Tier;
 }
+
+export type Tier = 'S' | 'A' | 'B' | 'C' | 'D';
+
+/** What each level of desire means, shown next to the badge and in the admin. */
+export const TIER_LABEL: Record<Tier, string> = {
+  S: 'Preciso ter',
+  A: 'Quero muito',
+  B: 'Quero',
+  C: 'Quando der',
+  D: 'Sem pressa',
+};
 
 export type Catalog = Record<string, CatalogEntry>;
 
@@ -20,34 +34,41 @@ export interface Rate {
   source: string;
 }
 
+/** The site ships with all its data, so it works with no backend. */
+const BUNDLED = catalogData as unknown as Catalog;
+
+/** Used until the live rate arrives, and if the rate API is down. */
+const FALLBACK_RATE: Rate = { rate: 6.1449, date: '2026-11-06', source: 'Banco Central Europeu (frankfurter.dev)' };
+
+/** Only where edits must show without a rebuild (`npm run dev` and the admin); the public site just uses BUNDLED. */
+const LIVE = import.meta.env.DEV || window.location.pathname.startsWith('/admin');
+
 /** Catalogue key of an amiibo: game ids already start with their console, amiibos get a prefix. */
 export const amiiboKey = (id: string) => `amiibo-${id}`;
 
 interface CatalogState {
   catalog: Catalog;
-  rate: Rate | null;
-  /** False when the backend isn't reachable (e.g. the site is served as static files): prices just don't show. */
-  online: boolean;
+  rate: Rate;
   setEntry: (id: string, entry: CatalogEntry) => void;
-  /** Fetches the catalogue again (it changes while the admin or `npm run catalog:fill` writes to it). */
+  /** Picks up edits saved by the admin while developing; does nothing on the public site. */
   refresh: () => void;
 }
 
-const CatalogContext = createContext<CatalogState>({ catalog: {}, rate: null, online: false, setEntry: () => {}, refresh: () => {} });
+const CatalogContext = createContext<CatalogState>({ catalog: BUNDLED, rate: FALLBACK_RATE, setEntry: () => {}, refresh: () => {} });
 
 export function CatalogProvider({ children }: { children: ReactNode }) {
-  const [catalog, setCatalog] = useState<Catalog>({});
-  const [rate, setRate] = useState<Rate | null>(null);
-  const [online, setOnline] = useState(false);
+  const [catalog, setCatalog] = useState<Catalog>(BUNDLED);
+  const [rate, setRate] = useState<Rate>(FALLBACK_RATE);
 
   const refresh = useCallback(() => {
+    if (!LIVE) return;
     fetch('/api/catalog', { cache: 'no-store' })
       .then((r) => (r.ok ? r.json() : Promise.reject(new Error(String(r.status)))))
-      .then((c: Catalog) => (setCatalog(c), setOnline(true)))
+      .then((c: Catalog) => setCatalog(c))
       .catch(() => {});
   }, []);
 
-  // Fresh data when the page opens and whenever you come back to the tab.
+  // While developing: fresh data when the page opens and whenever you come back to the tab.
   useEffect(() => {
     refresh();
     const onVisible = () => document.visibilityState === 'visible' && refresh();
@@ -57,9 +78,9 @@ export function CatalogProvider({ children }: { children: ReactNode }) {
 
   useEffect(() => {
     let alive = true;
-    fetch('/api/rates')
+    fetch('https://api.frankfurter.dev/v1/latest?from=EUR&to=BRL')
       .then((r) => (r.ok ? r.json() : Promise.reject(new Error(String(r.status)))))
-      .then((r: Rate) => alive && setRate(r))
+      .then((r: { rates: { BRL: number }; date: string }) => alive && setRate({ ...FALLBACK_RATE, rate: r.rates.BRL, date: r.date }))
       .catch(() => {});
     return () => {
       alive = false;
@@ -70,7 +91,6 @@ export function CatalogProvider({ children }: { children: ReactNode }) {
     () => ({
       catalog,
       rate,
-      online,
       refresh,
       setEntry: (id, entry) =>
         setCatalog((c) => {
@@ -80,7 +100,7 @@ export function CatalogProvider({ children }: { children: ReactNode }) {
           return next;
         }),
     }),
-    [catalog, rate, online, refresh],
+    [catalog, rate, refresh],
   );
   return <CatalogContext.Provider value={value}>{children}</CatalogContext.Provider>;
 }

@@ -1,5 +1,5 @@
 node_modules
 dist
 .env
-server/data/*.tmp
-server/data/fill-report.txt
+src/data/*.tmp
+src/data/fill-report.txt

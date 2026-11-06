@@ -1,6 +1,6 @@
 /**
- * Backend: the public catalogue (prices + game details), the EUR→BRL rate, and the admin API.
- * In production it also serves the built site from dist/. Node only, no framework.
+ * Backend: only the admin API (login and saving to src/data/catalog.json). The public site doesn't need it.
+ * It can also serve the built site from dist/. Node only, no framework.
  *
  *   npm run server          → http://localhost:3001  (API; `npm run dev` proxies /api to it)
  *   npm run build && npm start  → site + API on one port
@@ -10,7 +10,6 @@ import { readFile, stat } from 'node:fs/promises';
 import path from 'node:path';
 import { checkPassword, clearCookie, isAdmin, sessionCookie } from './auth.mjs';
 import { lookup } from './lookup.mjs';
-import { eurToBrl } from './rates.mjs';
 import { readCatalog, saveEntry } from './store.mjs';
 
 const PORT = Number(process.env.PORT ?? 3001);
@@ -39,7 +38,6 @@ const failures = new Map();
 async function api(req, res, url) {
   const route = `${req.method} ${url.pathname}`;
   if (route === 'GET /api/catalog') return json(res, 200, await readCatalog());
-  if (route === 'GET /api/rates') return json(res, 200, await eurToBrl());
   if (route === 'GET /api/me') return json(res, 200, { admin: isAdmin(req) });
 
   if (route === 'POST /api/login') {

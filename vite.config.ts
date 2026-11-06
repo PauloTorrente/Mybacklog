@@ -3,8 +3,12 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  // `npm run dev` talks to the backend started with `npm run server`.
-  server: { proxy: { '/api': 'http://localhost:3001' } },
+  server: {
+    // The admin talks to the backend started by `npm run dev`.
+    proxy: { '/api': 'http://localhost:3001' },
+    // Saving in the admin rewrites this file; don't reload the page and lose the form.
+    watch: { ignored: ['**/src/data/catalog.json'] },
+  },
   build: {
     // Covers stay separate files (lazy-loaded per shelf) instead of being inlined into the JS bundle.
     assetsInlineLimit: (file) => (file.includes('/assets/covers/') || file.includes('/assets/amiibo/') || file.includes('/assets/wallpapers/') ? false : undefined),

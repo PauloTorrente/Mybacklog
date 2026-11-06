@@ -1,7 +1,7 @@
 /**
- * Fills the catalogue (server/data/catalog.json) with every game's credits and synopsis from
+ * Fills the catalogue (src/data/catalog.json) with every game's credits and synopsis from
  * Wikipedia/Wikidata. Only empty fields are filled: whatever was typed in the admin is kept.
- * Prices are never touched. Writes a report to server/data/fill-report.txt to review matches.
+ * Prices are never touched. Writes a report to src/data/fill-report.txt to review matches.
  *
  * Run with: npm run catalog:fill            (only games without a synopsis yet)
  *           npm run catalog:fill -- --all   (look every game up again, still filling only empty fields)
@@ -43,5 +43,5 @@ for (const g of games) {
   console.log(`${done}/${games.length} ${report.at(-1)}`);
   await sleep(1200); // be gentle with Wikipedia
 }
-await writeFile(path.join(import.meta.dirname, '..', 'server', 'data', 'fill-report.txt'), report.join('\n') + '\n');
-console.log('\nRelatório em server/data/fill-report.txt');
+await writeFile(path.join(import.meta.dirname, '..', 'src', 'data', 'fill-report.txt'), report.join('\n') + '\n');
+console.log('\nRelatório em src/data/fill-report.txt');
